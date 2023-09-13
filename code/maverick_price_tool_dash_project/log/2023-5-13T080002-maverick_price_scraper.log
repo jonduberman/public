@@ -1,0 +1,24 @@
+2023-05-13 08:00:02,122 - DEBUG - Starting new HTTPS connection (1): www.cars.com:443
+2023-05-13 08:00:03,488 - DEBUG - https://www.cars.com:443 "GET /shopping/results/?dealer_id=&keyword=&list_price_max=&list_price_min=&makes%5B%5D=ford&maximum_distance=all&mileage_max=&models%5B%5D=ford-maverick&page=1&page_size=100&sort=distance&stock_type=used&year_max=&year_min=&zip=28533 HTTP/1.1" 200 None
+2023-05-13 08:00:04,465 - DEBUG - Starting new HTTPS connection (1): www.cars.com:443
+2023-05-13 08:00:05,536 - DEBUG - https://www.cars.com:443 "GET /shopping/results/?dealer_id=&keyword=&list_price_max=&list_price_min=&makes%5B%5D=ford&maximum_distance=all&mileage_max=&models%5B%5D=ford-maverick&page=1&page_size=100&sort=distance&stock_type=used&year_max=&year_min=&zip=28533 HTTP/1.1" 200 None
+2023-05-13 08:00:08,756 - DEBUG - Starting new HTTPS connection (1): www.cars.com:443
+2023-05-13 08:00:10,452 - DEBUG - https://www.cars.com:443 "GET /shopping/results/?dealer_id=&keyword=&list_price_max=&list_price_min=&makes%5B%5D=ford&maximum_distance=all&mileage_max=&models%5B%5D=ford-maverick&page=2&page_size=100&sort=distance&stock_type=used&year_max=&year_min=&zip=28533 HTTP/1.1" 200 None
+2023-05-13 08:00:13,822 - DEBUG - Starting new HTTPS connection (1): www.cars.com:443
+2023-05-13 08:00:15,162 - DEBUG - https://www.cars.com:443 "GET /shopping/results/?dealer_id=&keyword=&list_price_max=&list_price_min=&makes%5B%5D=ford&maximum_distance=all&mileage_max=&models%5B%5D=ford-maverick&page=3&page_size=100&sort=distance&stock_type=used&year_max=&year_min=&zip=28533 HTTP/1.1" 200 None
+2023-05-13 08:00:18,607 - DEBUG - Starting new HTTPS connection (1): www.cars.com:443
+2023-05-13 08:00:19,871 - DEBUG - https://www.cars.com:443 "GET /shopping/results/?dealer_id=&keyword=&list_price_max=&list_price_min=&makes%5B%5D=ford&maximum_distance=all&mileage_max=&models%5B%5D=ford-maverick&page=4&page_size=100&sort=distance&stock_type=used&year_max=&year_min=&zip=28533 HTTP/1.1" 200 None
+2023-05-13 08:00:23,175 - DEBUG - Starting new HTTPS connection (1): www.cars.com:443
+2023-05-13 08:00:24,583 - DEBUG - https://www.cars.com:443 "GET /shopping/results/?dealer_id=&keyword=&list_price_max=&list_price_min=&makes%5B%5D=ford&maximum_distance=all&mileage_max=&models%5B%5D=ford-maverick&page=5&page_size=100&sort=distance&stock_type=used&year_max=&year_min=&zip=28533 HTTP/1.1" 200 None
+2023-05-13 08:00:27,969 - DEBUG - Starting new HTTPS connection (1): www.cars.com:443
+2023-05-13 08:00:29,394 - DEBUG - https://www.cars.com:443 "GET /shopping/results/?dealer_id=&keyword=&list_price_max=&list_price_min=&makes%5B%5D=ford&maximum_distance=all&mileage_max=&models%5B%5D=ford-maverick&page=6&page_size=100&sort=distance&stock_type=used&year_max=&year_min=&zip=28533 HTTP/1.1" 200 None
+2023-05-13 08:00:32,718 - DEBUG - Starting new HTTPS connection (1): www.cars.com:443
+2023-05-13 08:00:33,900 - DEBUG - https://www.cars.com:443 "GET /shopping/results/?dealer_id=&keyword=&list_price_max=&list_price_min=&makes%5B%5D=ford&maximum_distance=all&mileage_max=&models%5B%5D=ford-maverick&page=7&page_size=100&sort=distance&stock_type=used&year_max=&year_min=&zip=28533 HTTP/1.1" 200 None
+2023-05-13 08:00:37,335 - DEBUG - Starting new HTTPS connection (1): www.cars.com:443
+2023-05-13 08:00:38,305 - DEBUG - https://www.cars.com:443 "GET /shopping/results/?dealer_id=&keyword=&list_price_max=&list_price_min=&makes%5B%5D=ford&maximum_distance=all&mileage_max=&models%5B%5D=ford-maverick&page=8&page_size=100&sort=distance&stock_type=used&year_max=&year_min=&zip=28533 HTTP/1.1" 200 None
+2023-05-13 08:00:41,368 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-05-13 08:00:41,941 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/a9480f4c-2254-45a2-8897-01e97065a8d5/ HTTP/1.1" 301 0
+2023-05-13 08:00:41,947 - DEBUG - Starting new HTTPS connection (1): www.cars.com:443
+2023-05-13 08:00:42,605 - DEBUG - https://www.cars.com:443 "GET ///vehicledetail/a9480f4c-2254-45a2-8897-01e97065a8d5/ HTTP/1.1" 200 None
+2023-05-13 08:00:42,955 - DEBUG - title : Used 2023 Ford Maverick XLT For Sale $38,988 | Cars.com iteration: 0
+2023-05-13 08:00:42,955 - INFO - URL: http://cars.com///vehicledetail/a9480f4c-2254-45a2-8897-01e97065a8d5/

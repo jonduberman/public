@@ -1,0 +1,144 @@
+2023-05-14 15:41:18,379 - DEBUG - Starting new HTTPS connection (1): www.cars.com:443
+2023-05-14 15:41:19,787 - DEBUG - https://www.cars.com:443 "GET /shopping/results/?dealer_id=&keyword=&list_price_max=&list_price_min=&makes%5B%5D=ford&maximum_distance=all&mileage_max=&models%5B%5D=ford-maverick&page=1&page_size=100&sort=distance&stock_type=used&year_max=&year_min=&zip=28533 HTTP/1.1" 200 None
+2023-05-14 15:41:21,195 - DEBUG - Starting new HTTPS connection (1): www.cars.com:443
+2023-05-14 15:41:22,600 - DEBUG - https://www.cars.com:443 "GET /shopping/results/?dealer_id=&keyword=&list_price_max=&list_price_min=&makes%5B%5D=ford&maximum_distance=all&mileage_max=&models%5B%5D=ford-maverick&page=1&page_size=100&sort=distance&stock_type=used&year_max=&year_min=&zip=28533 HTTP/1.1" 200 None
+2023-05-14 15:41:25,811 - DEBUG - Starting new HTTPS connection (1): www.cars.com:443
+2023-05-14 15:41:27,006 - DEBUG - https://www.cars.com:443 "GET /shopping/results/?dealer_id=&keyword=&list_price_max=&list_price_min=&makes%5B%5D=ford&maximum_distance=all&mileage_max=&models%5B%5D=ford-maverick&page=2&page_size=100&sort=distance&stock_type=used&year_max=&year_min=&zip=28533 HTTP/1.1" 200 None
+2023-05-14 15:41:30,118 - DEBUG - Starting new HTTPS connection (1): www.cars.com:443
+2023-05-14 15:41:31,409 - DEBUG - https://www.cars.com:443 "GET /shopping/results/?dealer_id=&keyword=&list_price_max=&list_price_min=&makes%5B%5D=ford&maximum_distance=all&mileage_max=&models%5B%5D=ford-maverick&page=3&page_size=100&sort=distance&stock_type=used&year_max=&year_min=&zip=28533 HTTP/1.1" 200 None
+2023-05-14 15:41:34,659 - DEBUG - Starting new HTTPS connection (1): www.cars.com:443
+2023-05-14 15:41:36,015 - DEBUG - https://www.cars.com:443 "GET /shopping/results/?dealer_id=&keyword=&list_price_max=&list_price_min=&makes%5B%5D=ford&maximum_distance=all&mileage_max=&models%5B%5D=ford-maverick&page=4&page_size=100&sort=distance&stock_type=used&year_max=&year_min=&zip=28533 HTTP/1.1" 200 None
+2023-05-14 15:41:39,153 - DEBUG - Starting new HTTPS connection (1): www.cars.com:443
+2023-05-14 15:41:40,635 - DEBUG - https://www.cars.com:443 "GET /shopping/results/?dealer_id=&keyword=&list_price_max=&list_price_min=&makes%5B%5D=ford&maximum_distance=all&mileage_max=&models%5B%5D=ford-maverick&page=5&page_size=100&sort=distance&stock_type=used&year_max=&year_min=&zip=28533 HTTP/1.1" 200 None
+2023-05-14 15:41:43,804 - DEBUG - Starting new HTTPS connection (1): www.cars.com:443
+2023-05-14 15:41:45,128 - DEBUG - https://www.cars.com:443 "GET /shopping/results/?dealer_id=&keyword=&list_price_max=&list_price_min=&makes%5B%5D=ford&maximum_distance=all&mileage_max=&models%5B%5D=ford-maverick&page=6&page_size=100&sort=distance&stock_type=used&year_max=&year_min=&zip=28533 HTTP/1.1" 200 None
+2023-05-14 15:41:48,243 - DEBUG - Starting new HTTPS connection (1): www.cars.com:443
+2023-05-14 15:41:49,325 - DEBUG - https://www.cars.com:443 "GET /shopping/results/?dealer_id=&keyword=&list_price_max=&list_price_min=&makes%5B%5D=ford&maximum_distance=all&mileage_max=&models%5B%5D=ford-maverick&page=7&page_size=100&sort=distance&stock_type=used&year_max=&year_min=&zip=28533 HTTP/1.1" 200 None
+2023-05-14 15:41:52,438 - DEBUG - Starting new HTTPS connection (1): www.cars.com:443
+2023-05-14 15:41:53,422 - DEBUG - https://www.cars.com:443 "GET /shopping/results/?dealer_id=&keyword=&list_price_max=&list_price_min=&makes%5B%5D=ford&maximum_distance=all&mileage_max=&models%5B%5D=ford-maverick&page=8&page_size=100&sort=distance&stock_type=used&year_max=&year_min=&zip=28533 HTTP/1.1" 200 None
+2023-05-14 15:41:56,409 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-05-14 15:41:56,780 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/a9480f4c-2254-45a2-8897-01e97065a8d5/ HTTP/1.1" 301 0
+2023-05-14 15:41:56,788 - DEBUG - Starting new HTTPS connection (1): www.cars.com:443
+2023-05-14 15:41:57,314 - DEBUG - https://www.cars.com:443 "GET ///vehicledetail/a9480f4c-2254-45a2-8897-01e97065a8d5/ HTTP/1.1" 200 None
+2023-05-14 15:41:57,565 - DEBUG - title : Used 2023 Ford Maverick XLT For Sale $38,988 | Cars.com iteration: 0
+2023-05-14 15:41:57,566 - INFO - URL: http://cars.com///vehicledetail/a9480f4c-2254-45a2-8897-01e97065a8d5/
+2023-05-14 15:41:57,579 - DEBUG - Iteration Number: 0 successful
+2023-05-14 15:41:59,587 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-05-14 15:41:59,937 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/14f4b02c-dd3b-48ef-8109-76b9a4cb3c0b/ HTTP/1.1" 301 0
+2023-05-14 15:41:59,942 - DEBUG - Starting new HTTPS connection (1): www.cars.com:443
+2023-05-14 15:42:00,484 - DEBUG - https://www.cars.com:443 "GET ///vehicledetail/14f4b02c-dd3b-48ef-8109-76b9a4cb3c0b/ HTTP/1.1" 200 None
+2023-05-14 15:42:00,810 - DEBUG - title : Used 2023 Ford Maverick Lariat For Sale $40,873 | Cars.com iteration: 1
+2023-05-14 15:42:00,810 - INFO - URL: http://cars.com///vehicledetail/14f4b02c-dd3b-48ef-8109-76b9a4cb3c0b/
+2023-05-14 15:42:00,825 - DEBUG - Iteration Number: 1 successful
+2023-05-14 15:42:03,835 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-05-14 15:42:04,158 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/7e510483-275e-43e7-888a-5df3ec961137/ HTTP/1.1" 301 0
+2023-05-14 15:42:04,190 - DEBUG - Starting new HTTPS connection (1): www.cars.com:443
+2023-05-14 15:42:04,789 - DEBUG - https://www.cars.com:443 "GET ///vehicledetail/7e510483-275e-43e7-888a-5df3ec961137/ HTTP/1.1" 200 None
+2023-05-14 15:42:05,131 - DEBUG - title : Used 2022 Ford Maverick XL For Sale $34,091 | Cars.com iteration: 2
+2023-05-14 15:42:05,131 - INFO - URL: http://cars.com///vehicledetail/7e510483-275e-43e7-888a-5df3ec961137/
+2023-05-14 15:42:05,153 - DEBUG - Iteration Number: 2 successful
+2023-05-14 15:42:08,161 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-05-14 15:42:08,551 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/5ff372f4-b416-4320-9946-41b439ba524c/ HTTP/1.1" 301 0
+2023-05-14 15:42:08,559 - DEBUG - Starting new HTTPS connection (1): www.cars.com:443
+2023-05-14 15:42:09,089 - DEBUG - https://www.cars.com:443 "GET ///vehicledetail/5ff372f4-b416-4320-9946-41b439ba524c/ HTTP/1.1" 200 None
+2023-05-14 15:42:09,466 - DEBUG - title : Used 2022 Ford Maverick XLT For Sale $35,497 | Cars.com iteration: 3
+2023-05-14 15:42:09,466 - INFO - URL: http://cars.com///vehicledetail/5ff372f4-b416-4320-9946-41b439ba524c/
+2023-05-14 15:42:09,482 - DEBUG - Iteration Number: 3 successful
+2023-05-14 15:42:13,491 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-05-14 15:42:13,821 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/30bf4838-5e2e-461b-b54d-b4d23d18edc7/ HTTP/1.1" 301 0
+2023-05-14 15:42:13,826 - DEBUG - Starting new HTTPS connection (1): www.cars.com:443
+2023-05-14 15:42:14,516 - DEBUG - https://www.cars.com:443 "GET ///vehicledetail/30bf4838-5e2e-461b-b54d-b4d23d18edc7/ HTTP/1.1" 200 None
+2023-05-14 15:42:14,770 - DEBUG - title : Used 2022 Ford Maverick XLT For Sale $36,000 | Cars.com iteration: 4
+2023-05-14 15:42:14,770 - INFO - URL: http://cars.com///vehicledetail/30bf4838-5e2e-461b-b54d-b4d23d18edc7/
+2023-05-14 15:42:14,785 - DEBUG - Iteration Number: 4 successful
+2023-05-14 15:42:19,795 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-05-14 15:42:20,079 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/78362f7e-73bb-48d0-8715-690a6f5d8df5/ HTTP/1.1" 301 0
+2023-05-14 15:42:20,086 - DEBUG - Starting new HTTPS connection (1): www.cars.com:443
+2023-05-14 15:42:20,661 - DEBUG - https://www.cars.com:443 "GET ///vehicledetail/78362f7e-73bb-48d0-8715-690a6f5d8df5/ HTTP/1.1" 200 None
+2023-05-14 15:42:20,937 - DEBUG - title : Used 2022 Ford Maverick Lariat For Sale $38,989 | Cars.com iteration: 5
+2023-05-14 15:42:20,938 - INFO - URL: http://cars.com///vehicledetail/78362f7e-73bb-48d0-8715-690a6f5d8df5/
+2023-05-14 15:42:20,953 - DEBUG - Iteration Number: 5 successful
+2023-05-14 15:42:23,957 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-05-14 15:42:24,233 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/8d8c3f9d-f45a-449f-ad33-2c343d6bbae6/ HTTP/1.1" 301 0
+2023-05-14 15:42:24,283 - DEBUG - Starting new HTTPS connection (1): www.cars.com:443
+2023-05-14 15:42:24,654 - DEBUG - https://www.cars.com:443 "GET ///vehicledetail/8d8c3f9d-f45a-449f-ad33-2c343d6bbae6/ HTTP/1.1" 200 None
+2023-05-14 15:42:24,824 - DEBUG - title : Certified 2022 Ford Maverick XLT For Sale $38,695 | Cars.com iteration: 6
+2023-05-14 15:42:24,824 - INFO - URL: http://cars.com///vehicledetail/8d8c3f9d-f45a-449f-ad33-2c343d6bbae6/
+2023-05-14 15:42:24,834 - DEBUG - Iteration Number: 6 successful
+2023-05-14 15:42:28,840 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-05-14 15:42:29,120 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/3de17eb8-c2a0-49af-9095-6c7450d15576/ HTTP/1.1" 301 0
+2023-05-14 15:42:29,127 - DEBUG - Starting new HTTPS connection (1): www.cars.com:443
+2023-05-14 15:42:29,672 - DEBUG - https://www.cars.com:443 "GET ///vehicledetail/3de17eb8-c2a0-49af-9095-6c7450d15576/ HTTP/1.1" 200 None
+2023-05-14 15:42:29,913 - DEBUG - title : Used 2023 Ford Maverick XL For Sale $35,998 | Cars.com iteration: 7
+2023-05-14 15:42:29,913 - INFO - URL: http://cars.com///vehicledetail/3de17eb8-c2a0-49af-9095-6c7450d15576/
+2023-05-14 15:42:29,927 - DEBUG - Iteration Number: 7 successful
+2023-05-14 15:42:32,933 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-05-14 15:42:33,208 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/c270f88c-0910-4f33-ba85-a0d4d796e180/ HTTP/1.1" 301 0
+2023-05-14 15:42:33,214 - DEBUG - Starting new HTTPS connection (1): www.cars.com:443
+2023-05-14 15:42:33,767 - DEBUG - https://www.cars.com:443 "GET ///vehicledetail/c270f88c-0910-4f33-ba85-a0d4d796e180/ HTTP/1.1" 200 None
+2023-05-14 15:42:34,171 - DEBUG - title : Used 2022 Ford Maverick Lariat For Sale $37,787 | Cars.com iteration: 8
+2023-05-14 15:42:34,171 - INFO - URL: http://cars.com///vehicledetail/c270f88c-0910-4f33-ba85-a0d4d796e180/
+2023-05-14 15:42:34,186 - DEBUG - Iteration Number: 8 successful
+2023-05-14 15:42:36,194 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-05-14 15:42:36,524 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/a709c00e-71dc-4e9a-857c-bb4203358b0b/ HTTP/1.1" 301 0
+2023-05-14 15:42:36,529 - DEBUG - Starting new HTTPS connection (1): www.cars.com:443
+2023-05-14 15:42:37,147 - DEBUG - https://www.cars.com:443 "GET ///vehicledetail/a709c00e-71dc-4e9a-857c-bb4203358b0b/ HTTP/1.1" 200 None
+2023-05-14 15:42:37,380 - DEBUG - title : Used 2023 Ford Maverick XLT For Sale $36,905 | Cars.com iteration: 9
+2023-05-14 15:42:37,380 - INFO - URL: http://cars.com///vehicledetail/a709c00e-71dc-4e9a-857c-bb4203358b0b/
+2023-05-14 15:42:37,394 - DEBUG - Iteration Number: 9 successful
+2023-05-14 15:42:41,404 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-05-14 15:42:41,744 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/6efb493d-3bd4-4c9f-b5e5-23408b26c318/ HTTP/1.1" 301 0
+2023-05-14 15:42:41,751 - DEBUG - Starting new HTTPS connection (1): www.cars.com:443
+2023-05-14 15:42:42,369 - DEBUG - https://www.cars.com:443 "GET ///vehicledetail/6efb493d-3bd4-4c9f-b5e5-23408b26c318/ HTTP/1.1" 200 None
+2023-05-14 15:42:42,647 - DEBUG - title : Used 2023 Ford Maverick XLT For Sale $37,773 | Cars.com iteration: 10
+2023-05-14 15:42:42,648 - INFO - URL: http://cars.com///vehicledetail/6efb493d-3bd4-4c9f-b5e5-23408b26c318/
+2023-05-14 15:42:42,663 - DEBUG - Iteration Number: 10 successful
+2023-05-14 15:42:47,671 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-05-14 15:42:47,944 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/3585407a-c02c-469e-bb08-0a930b245666/ HTTP/1.1" 301 0
+2023-05-14 15:42:47,950 - DEBUG - Starting new HTTPS connection (1): www.cars.com:443
+2023-05-14 15:42:48,514 - DEBUG - https://www.cars.com:443 "GET ///vehicledetail/3585407a-c02c-469e-bb08-0a930b245666/ HTTP/1.1" 200 None
+2023-05-14 15:42:48,785 - DEBUG - title : Used 2022 Ford Maverick XLT For Sale $34,737 | Cars.com iteration: 11
+2023-05-14 15:42:48,785 - INFO - URL: http://cars.com///vehicledetail/3585407a-c02c-469e-bb08-0a930b245666/
+2023-05-14 15:42:48,801 - DEBUG - Iteration Number: 11 successful
+2023-05-14 15:42:52,810 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-05-14 15:42:53,089 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/a6668fee-cac9-45b3-9882-da1b9767c223/ HTTP/1.1" 301 0
+2023-05-14 15:42:53,136 - DEBUG - Starting new HTTPS connection (1): www.cars.com:443
+2023-05-14 15:42:53,632 - DEBUG - https://www.cars.com:443 "GET ///vehicledetail/a6668fee-cac9-45b3-9882-da1b9767c223/ HTTP/1.1" 200 None
+2023-05-14 15:42:53,958 - DEBUG - title : Used 2022 Ford Maverick XLT For Sale $37,093 | Cars.com iteration: 12
+2023-05-14 15:42:53,958 - INFO - URL: http://cars.com///vehicledetail/a6668fee-cac9-45b3-9882-da1b9767c223/
+2023-05-14 15:42:53,975 - DEBUG - Iteration Number: 12 successful
+2023-05-14 15:42:58,979 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-05-14 15:42:59,325 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/13a04ed6-409d-4917-8f12-eac4df65d490/ HTTP/1.1" 301 0
+2023-05-14 15:42:59,331 - DEBUG - Starting new HTTPS connection (1): www.cars.com:443
+2023-05-14 15:43:00,028 - DEBUG - https://www.cars.com:443 "GET ///vehicledetail/13a04ed6-409d-4917-8f12-eac4df65d490/ HTTP/1.1" 200 None
+2023-05-14 15:43:00,465 - DEBUG - title : Used 2022 Ford Maverick XL For Sale $30,415 | Cars.com iteration: 13
+2023-05-14 15:43:00,465 - INFO - URL: http://cars.com///vehicledetail/13a04ed6-409d-4917-8f12-eac4df65d490/
+2023-05-14 15:43:00,490 - DEBUG - Iteration Number: 13 successful
+2023-05-14 15:43:05,496 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-05-14 15:43:05,862 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/76df3680-c2fc-4d73-b3a8-0b8a47b989e3/ HTTP/1.1" 301 0
+2023-05-14 15:43:05,867 - DEBUG - Starting new HTTPS connection (1): www.cars.com:443
+2023-05-14 15:43:06,432 - DEBUG - https://www.cars.com:443 "GET ///vehicledetail/76df3680-c2fc-4d73-b3a8-0b8a47b989e3/ HTTP/1.1" 200 None
+2023-05-14 15:43:06,691 - DEBUG - title : Used 2022 Ford Maverick XLT For Sale $36,604 | Cars.com iteration: 14
+2023-05-14 15:43:06,691 - INFO - URL: http://cars.com///vehicledetail/76df3680-c2fc-4d73-b3a8-0b8a47b989e3/
+2023-05-14 15:43:06,705 - DEBUG - Iteration Number: 14 successful
+2023-05-14 15:43:09,715 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-05-14 15:43:09,987 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/71badabe-b5d2-4708-97d2-9630c9156738/ HTTP/1.1" 301 0
+2023-05-14 15:43:09,995 - DEBUG - Starting new HTTPS connection (1): www.cars.com:443
+2023-05-14 15:43:10,525 - DEBUG - https://www.cars.com:443 "GET ///vehicledetail/71badabe-b5d2-4708-97d2-9630c9156738/ HTTP/1.1" 200 None
+2023-05-14 15:43:10,809 - DEBUG - title : Used 2022 Ford Maverick Lariat For Sale $38,996 | Cars.com iteration: 15
+2023-05-14 15:43:10,809 - INFO - URL: http://cars.com///vehicledetail/71badabe-b5d2-4708-97d2-9630c9156738/
+2023-05-14 15:43:10,827 - DEBUG - Iteration Number: 15 successful
+2023-05-14 15:43:12,834 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-05-14 15:43:13,113 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/48dd2e03-d461-4d12-820e-75e84ca9c35a/ HTTP/1.1" 301 0
+2023-05-14 15:43:13,120 - DEBUG - Starting new HTTPS connection (1): www.cars.com:443
+2023-05-14 15:43:13,600 - DEBUG - https://www.cars.com:443 "GET ///vehicledetail/48dd2e03-d461-4d12-820e-75e84ca9c35a/ HTTP/1.1" 200 None
+2023-05-14 15:43:13,871 - DEBUG - title : Used 2023 Ford Maverick XLT For Sale $36,900 | Cars.com iteration: 16
+2023-05-14 15:43:13,871 - INFO - URL: http://cars.com///vehicledetail/48dd2e03-d461-4d12-820e-75e84ca9c35a/
+2023-05-14 15:43:13,886 - DEBUG - Iteration Number: 16 successful
+2023-05-14 15:43:16,895 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-05-14 15:43:17,169 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/b7d963ad-4b83-4a8d-8a74-0a821dcfa9a0/ HTTP/1.1" 301 0
+2023-05-14 15:43:17,177 - DEBUG - Starting new HTTPS connection (1): www.cars.com:443
+2023-05-14 15:43:17,798 - DEBUG - https://www.cars.com:443 "GET ///vehicledetail/b7d963ad-4b83-4a8d-8a74-0a821dcfa9a0/ HTTP/1.1" 200 None
+2023-05-14 15:43:18,124 - DEBUG - title : Certified 2022 Ford Maverick XLT For Sale $34,812 | Cars.com iteration: 17
+2023-05-14 15:43:18,125 - INFO - URL: http://cars.com///vehicledetail/b7d963ad-4b83-4a8d-8a74-0a821dcfa9a0/
+2023-05-14 15:43:18,135 - DEBUG - Iteration Number: 17 successful

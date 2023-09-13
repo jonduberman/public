@@ -1,0 +1,93 @@
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.cars.com:443
+DEBUG:urllib3.connectionpool:https://www.cars.com:443 "GET /shopping/results/?dealer_id=&keyword=&list_price_max=&list_price_min=&makes%5B%5D=ford&maximum_distance=all&mileage_max=&models%5B%5D=ford-maverick&page=1&page_size=100&sort=distance&stock_type=used&year_max=&year_min=&zip=28533 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.cars.com:443
+DEBUG:urllib3.connectionpool:https://www.cars.com:443 "GET /shopping/results/?dealer_id=&keyword=&list_price_max=&list_price_min=&makes%5B%5D=ford&maximum_distance=all&mileage_max=&models%5B%5D=ford-maverick&page=1&page_size=100&sort=distance&stock_type=used&year_max=&year_min=&zip=28533 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.cars.com:443
+DEBUG:urllib3.connectionpool:https://www.cars.com:443 "GET /shopping/results/?dealer_id=&keyword=&list_price_max=&list_price_min=&makes%5B%5D=ford&maximum_distance=all&mileage_max=&models%5B%5D=ford-maverick&page=2&page_size=100&sort=distance&stock_type=used&year_max=&year_min=&zip=28533 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.cars.com:443
+DEBUG:urllib3.connectionpool:https://www.cars.com:443 "GET /shopping/results/?dealer_id=&keyword=&list_price_max=&list_price_min=&makes%5B%5D=ford&maximum_distance=all&mileage_max=&models%5B%5D=ford-maverick&page=3&page_size=100&sort=distance&stock_type=used&year_max=&year_min=&zip=28533 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.cars.com:443
+DEBUG:urllib3.connectionpool:https://www.cars.com:443 "GET /shopping/results/?dealer_id=&keyword=&list_price_max=&list_price_min=&makes%5B%5D=ford&maximum_distance=all&mileage_max=&models%5B%5D=ford-maverick&page=4&page_size=100&sort=distance&stock_type=used&year_max=&year_min=&zip=28533 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.cars.com:443
+DEBUG:urllib3.connectionpool:https://www.cars.com:443 "GET /shopping/results/?dealer_id=&keyword=&list_price_max=&list_price_min=&makes%5B%5D=ford&maximum_distance=all&mileage_max=&models%5B%5D=ford-maverick&page=5&page_size=100&sort=distance&stock_type=used&year_max=&year_min=&zip=28533 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.cars.com:443
+DEBUG:urllib3.connectionpool:https://www.cars.com:443 "GET /shopping/results/?dealer_id=&keyword=&list_price_max=&list_price_min=&makes%5B%5D=ford&maximum_distance=all&mileage_max=&models%5B%5D=ford-maverick&page=6&page_size=100&sort=distance&stock_type=used&year_max=&year_min=&zip=28533 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.cars.com:443
+DEBUG:urllib3.connectionpool:https://www.cars.com:443 "GET /shopping/results/?dealer_id=&keyword=&list_price_max=&list_price_min=&makes%5B%5D=ford&maximum_distance=all&mileage_max=&models%5B%5D=ford-maverick&page=7&page_size=100&sort=distance&stock_type=used&year_max=&year_min=&zip=28533 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.cars.com:443
+DEBUG:urllib3.connectionpool:https://www.cars.com:443 "GET /shopping/results/?dealer_id=&keyword=&list_price_max=&list_price_min=&makes%5B%5D=ford&maximum_distance=all&mileage_max=&models%5B%5D=ford-maverick&page=8&page_size=100&sort=distance&stock_type=used&year_max=&year_min=&zip=28533 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+DEBUG:urllib3.connectionpool:http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/6f33200f-9dec-4324-b03b-ab8f363b4b5f/ HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.cars.com:443
+DEBUG:urllib3.connectionpool:https://www.cars.com:443 "GET ///vehicledetail/6f33200f-9dec-4324-b03b-ab8f363b4b5f/ HTTP/1.1" 200 None
+ERROR:root:invalid literal for int() with base 10: '–'
+Traceback (most recent call last):
+  File "/var/folders/zw/3xdss1j523x9qng4qkt1r5pc0000gn/T/ipykernel_50971/1220181707.py", line 80, in carsdotcom_datagrabber
+    mileage_int = int(mileage_int.replace(' mi.', '')) #Need to turn mileage into integer to do math on it
+ValueError: invalid literal for int() with base 10: '–'
+DEBUG:root:Iteration Number: 332 successful
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+DEBUG:urllib3.connectionpool:http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/d9eac392-e1ae-4c14-8eb4-c7afd8fce6c9/ HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.cars.com:443
+DEBUG:urllib3.connectionpool:https://www.cars.com:443 "GET ///vehicledetail/d9eac392-e1ae-4c14-8eb4-c7afd8fce6c9/ HTTP/1.1" 200 None
+ERROR:root:list index out of range
+Traceback (most recent call last):
+  File "/var/folders/zw/3xdss1j523x9qng4qkt1r5pc0000gn/T/ipykernel_50971/1220181707.py", line 27, in carsdotcom_datagrabber
+    dealer_address = seller_info_section.find_all('div',class_='dealer-address')[0].get_text().strip() # dealer adress in a sub class called dealer-address or seller-address
+IndexError: list index out of range
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/var/folders/zw/3xdss1j523x9qng4qkt1r5pc0000gn/T/ipykernel_50971/1220181707.py", line 29, in carsdotcom_datagrabber
+    dealer_address = seller_info_section.find_all('div',class_='seller-address')[0].get_text().strip() # private seller
+IndexError: list index out of range
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+DEBUG:urllib3.connectionpool:http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/6f33200f-9dec-4324-b03b-ab8f363b4b5f/ HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.cars.com:443
+DEBUG:urllib3.connectionpool:https://www.cars.com:443 "GET ///vehicledetail/6f33200f-9dec-4324-b03b-ab8f363b4b5f/ HTTP/1.1" 200 None
+ERROR:root:invalid literal for int() with base 10: '–'
+Traceback (most recent call last):
+  File "/var/folders/zw/3xdss1j523x9qng4qkt1r5pc0000gn/T/ipykernel_50971/282719322.py", line 85, in carsdotcom_datagrabber
+    mileage_int = int(mileage_int.replace(' mi.', '')) #Need to turn mileage into integer to do math on it
+ValueError: invalid literal for int() with base 10: '–'
+DEBUG:root:Iteration Number: 332 successful
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+DEBUG:urllib3.connectionpool:http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/d9eac392-e1ae-4c14-8eb4-c7afd8fce6c9/ HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.cars.com:443
+DEBUG:urllib3.connectionpool:https://www.cars.com:443 "GET ///vehicledetail/d9eac392-e1ae-4c14-8eb4-c7afd8fce6c9/ HTTP/1.1" 200 None
+ERROR:root:list index out of range
+Traceback (most recent call last):
+  File "/var/folders/zw/3xdss1j523x9qng4qkt1r5pc0000gn/T/ipykernel_50971/282719322.py", line 28, in carsdotcom_datagrabber
+    dealer_address = seller_info_section.find_all('div',class_='dealer-address')[0].get_text().strip() # dealer adress in a sub class called dealer-address or seller-address
+IndexError: list index out of range
+ERROR:root:local variable 'seller_address_exception' referenced before assignment
+Traceback (most recent call last):
+  File "/var/folders/zw/3xdss1j523x9qng4qkt1r5pc0000gn/T/ipykernel_50971/282719322.py", line 37, in carsdotcom_datagrabber
+    logging.exception(seller_address_exception)
+UnboundLocalError: local variable 'seller_address_exception' referenced before assignment
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+DEBUG:urllib3.connectionpool:http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/6f33200f-9dec-4324-b03b-ab8f363b4b5f/ HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.cars.com:443
+DEBUG:urllib3.connectionpool:https://www.cars.com:443 "GET ///vehicledetail/6f33200f-9dec-4324-b03b-ab8f363b4b5f/ HTTP/1.1" 200 None
+ERROR:root:invalid literal for int() with base 10: '–'
+Traceback (most recent call last):
+  File "/var/folders/zw/3xdss1j523x9qng4qkt1r5pc0000gn/T/ipykernel_50971/3235606117.py", line 85, in carsdotcom_datagrabber
+    mileage_int = int(mileage_int.replace(' mi.', '')) #Need to turn mileage into integer to do math on it
+ValueError: invalid literal for int() with base 10: '–'
+DEBUG:root:Iteration Number: 332 successful
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+DEBUG:urllib3.connectionpool:http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/d9eac392-e1ae-4c14-8eb4-c7afd8fce6c9/ HTTP/1.1" 301 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.cars.com:443
+DEBUG:urllib3.connectionpool:https://www.cars.com:443 "GET ///vehicledetail/d9eac392-e1ae-4c14-8eb4-c7afd8fce6c9/ HTTP/1.1" 200 None
+ERROR:root:list index out of range
+Traceback (most recent call last):
+  File "/var/folders/zw/3xdss1j523x9qng4qkt1r5pc0000gn/T/ipykernel_50971/3235606117.py", line 28, in carsdotcom_datagrabber
+    dealer_address = seller_info_section.find_all('div',class_='dealer-address')[0].get_text().strip() # dealer adress in a sub class called dealer-address or seller-address
+IndexError: list index out of range
+ERROR:root:list index out of range
+Traceback (most recent call last):
+  File "/var/folders/zw/3xdss1j523x9qng4qkt1r5pc0000gn/T/ipykernel_50971/3235606117.py", line 34, in carsdotcom_datagrabber
+    dealer_address = seller_info_section.find_all('div',class_='seller-address')[0].get_text().strip() # private seller
+IndexError: list index out of range
+DEBUG:root:Iteration Number: 333 successful

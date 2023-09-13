@@ -1,0 +1,2 @@
+2023-07-11 08:00:03,331 - DEBUG - Starting new HTTPS connection (1): www.cars.com:443
+2023-07-11 08:00:03,508 - DEBUG - https://www.cars.com:443 "GET /shopping/results/?dealer_id=&keyword=&list_price_max=&list_price_min=&makes%5B%5D=ford&maximum_distance=all&mileage_max=&models%5B%5D=ford-maverick&page=1&page_size=100&sort=distance&stock_type=used&year_max=&year_min=&zip=28533 HTTP/1.1" 200 3453
