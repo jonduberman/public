@@ -1,0 +1,3 @@
+,condition,model_year,make,model,trim_level,list_price,exterior_color,interior_color,fwd_or_awd,hybrid_or_eco,mileage,dealer_address,date_parsed
+332,USED,2023,FORD,MAVERICK,XL,34950,Black,Black Onyx,Front-wheel Drive,Hybrid,,"177 Lafayette Rd North Hampton, NH 03862",2023-05-11
+333,USED,2022,FORD,MAVERICK,XLT,36499,Shadow Black,Navy Pier,All-wheel Drive,Gasoline,5490,,2023-05-11
