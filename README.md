@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonathan Duberman</h1>
 <h3 align="center">Data Scientist in a Mechanical Engineer's Body</h3>
-<h3 align="center">Here is my public resume code.  Enter the code directory to view what projects I decided to put in here!/h3>
+
+<h3 align="center">Here is my public resume code.  Enter the code directory to view what projects I decided to put in here.</h3>
 
 Inside of the code directory presently, you will find a "Maverick Price Tool."  This tool does the following:
 <ol>
