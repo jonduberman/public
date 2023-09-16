@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Jonathan Duberman</h1>
 <h3 align="center">Data Scientist in a Mechanical Engineer's Body</h3>
-<h3 align="center">Here is my public "resume" code.  Enter the "code" directory to view what projects I decided to put in here!/h3>
+<h3 align="center">Here is my public resume code.  Enter the code directory to view what projects I decided to put in here!/h3>
+
+Inside of the code directory presently, you will find a "Maverick Price Tool."  This tool does the following:
+<ol>
+    <li>Automatically configures a web proxy</li>
+    <li>Scrapes cars.com for Ford Maverick price data</li>
+    <li>Passes the data to a NiFi Pipeline to store in a sqlite .db database</li>
+    <dd>-NiFi .xml and screenshot found in nifi_pipeline subdirectory</dd>
+    <li>Displays the data in a dashboard written in Plotly Dash (python), hosted on an AWS EC2 instance</li>
+    <dd>-Contact me for the address of the EC2 instance!</dd>
+</ol>
 
 - 📫 How to reach me **JonDuberman@gmail.com**
 
