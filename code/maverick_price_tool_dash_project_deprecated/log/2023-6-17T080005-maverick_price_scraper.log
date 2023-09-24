@@ -1,0 +1,770 @@
+2023-06-17 08:00:05,199 - DEBUG - Starting new HTTPS connection (1): www.cars.com:443
+2023-06-17 08:00:06,267 - DEBUG - https://www.cars.com:443 "GET /shopping/results/?dealer_id=&keyword=&list_price_max=&list_price_min=&makes%5B%5D=ford&maximum_distance=all&mileage_max=&models%5B%5D=ford-maverick&page=1&page_size=100&sort=distance&stock_type=used&year_max=&year_min=&zip=28533 HTTP/1.1" 200 None
+2023-06-17 08:00:07,587 - DEBUG - Starting new HTTPS connection (1): www.cars.com:443
+2023-06-17 08:00:08,722 - DEBUG - https://www.cars.com:443 "GET /shopping/results/?dealer_id=&keyword=&list_price_max=&list_price_min=&makes%5B%5D=ford&maximum_distance=all&mileage_max=&models%5B%5D=ford-maverick&page=1&page_size=100&sort=distance&stock_type=used&year_max=&year_min=&zip=28533 HTTP/1.1" 200 None
+2023-06-17 08:00:12,162 - DEBUG - Starting new HTTPS connection (1): www.cars.com:443
+2023-06-17 08:00:13,367 - DEBUG - https://www.cars.com:443 "GET /shopping/results/?dealer_id=&keyword=&list_price_max=&list_price_min=&makes%5B%5D=ford&maximum_distance=all&mileage_max=&models%5B%5D=ford-maverick&page=2&page_size=100&sort=distance&stock_type=used&year_max=&year_min=&zip=28533 HTTP/1.1" 200 None
+2023-06-17 08:00:49,902 - DEBUG - Starting new HTTPS connection (1): www.cars.com:443
+2023-06-17 08:00:50,911 - DEBUG - https://www.cars.com:443 "GET /shopping/results/?dealer_id=&keyword=&list_price_max=&list_price_min=&makes%5B%5D=ford&maximum_distance=all&mileage_max=&models%5B%5D=ford-maverick&page=3&page_size=100&sort=distance&stock_type=used&year_max=&year_min=&zip=28533 HTTP/1.1" 200 None
+2023-06-17 08:00:54,385 - DEBUG - Starting new HTTPS connection (1): www.cars.com:443
+2023-06-17 08:00:55,735 - DEBUG - https://www.cars.com:443 "GET /shopping/results/?dealer_id=&keyword=&list_price_max=&list_price_min=&makes%5B%5D=ford&maximum_distance=all&mileage_max=&models%5B%5D=ford-maverick&page=4&page_size=100&sort=distance&stock_type=used&year_max=&year_min=&zip=28533 HTTP/1.1" 200 None
+2023-06-17 08:00:59,185 - DEBUG - Starting new HTTPS connection (1): www.cars.com:443
+2023-06-17 08:01:00,217 - DEBUG - https://www.cars.com:443 "GET /shopping/results/?dealer_id=&keyword=&list_price_max=&list_price_min=&makes%5B%5D=ford&maximum_distance=all&mileage_max=&models%5B%5D=ford-maverick&page=5&page_size=100&sort=distance&stock_type=used&year_max=&year_min=&zip=28533 HTTP/1.1" 200 None
+2023-06-17 08:01:14,398 - DEBUG - Starting new HTTPS connection (1): www.cars.com:443
+2023-06-17 08:01:15,800 - DEBUG - https://www.cars.com:443 "GET /shopping/results/?dealer_id=&keyword=&list_price_max=&list_price_min=&makes%5B%5D=ford&maximum_distance=all&mileage_max=&models%5B%5D=ford-maverick&page=6&page_size=100&sort=distance&stock_type=used&year_max=&year_min=&zip=28533 HTTP/1.1" 200 None
+2023-06-17 08:01:21,037 - DEBUG - Starting new HTTPS connection (1): www.cars.com:443
+2023-06-17 08:01:25,108 - DEBUG - https://www.cars.com:443 "GET /shopping/results/?dealer_id=&keyword=&list_price_max=&list_price_min=&makes%5B%5D=ford&maximum_distance=all&mileage_max=&models%5B%5D=ford-maverick&page=7&page_size=100&sort=distance&stock_type=used&year_max=&year_min=&zip=28533 HTTP/1.1" 200 None
+2023-06-17 08:01:43,588 - DEBUG - Starting new HTTPS connection (1): www.cars.com:443
+2023-06-17 08:01:44,573 - DEBUG - https://www.cars.com:443 "GET /shopping/results/?dealer_id=&keyword=&list_price_max=&list_price_min=&makes%5B%5D=ford&maximum_distance=all&mileage_max=&models%5B%5D=ford-maverick&page=8&page_size=100&sort=distance&stock_type=used&year_max=&year_min=&zip=28533 HTTP/1.1" 200 None
+2023-06-17 08:01:47,839 - DEBUG - Starting new HTTPS connection (1): www.cars.com:443
+2023-06-17 08:01:48,397 - DEBUG - https://www.cars.com:443 "GET /shopping/results/?dealer_id=&keyword=&list_price_max=&list_price_min=&makes%5B%5D=ford&maximum_distance=all&mileage_max=&models%5B%5D=ford-maverick&page=9&page_size=100&sort=distance&stock_type=used&year_max=&year_min=&zip=28533 HTTP/1.1" 200 None
+2023-06-17 08:01:53,826 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:01:57,006 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/b7d963ad-4b83-4a8d-8a74-0a821dcfa9a0/ HTTP/1.1" 402 None
+2023-06-17 08:01:57,017 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:01:57,022 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:02:00,024 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/a9480f4c-2254-45a2-8897-01e97065a8d5/ HTTP/1.1" 402 None
+2023-06-17 08:02:00,031 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:02:00,036 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:02:02,070 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/56a144e7-a837-40a4-95da-b8cf40519bea/ HTTP/1.1" 402 None
+2023-06-17 08:02:02,074 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:02:02,079 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:02:04,227 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/1d6f012f-799e-42d1-8b04-44ee5144d90d/ HTTP/1.1" 402 None
+2023-06-17 08:02:04,229 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:02:04,234 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:02:06,221 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/5ff372f4-b416-4320-9946-41b439ba524c/ HTTP/1.1" 402 None
+2023-06-17 08:02:06,223 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:02:06,227 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:02:13,340 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/e53a8e69-69f2-4582-bc55-e9c629cfa076/ HTTP/1.1" 402 None
+2023-06-17 08:02:13,553 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:02:13,558 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:02:15,399 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/3ed80a2d-b04a-4073-95ef-f0c111b2729a/ HTTP/1.1" 402 None
+2023-06-17 08:02:15,401 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:02:15,406 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:02:17,436 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/3de3b735-3f50-4cb3-8aac-579f446a1589/ HTTP/1.1" 402 None
+2023-06-17 08:02:17,440 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:02:17,445 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:02:20,513 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/2efee0e1-7de4-42fc-a3fd-b09fe20f90d5/ HTTP/1.1" 402 None
+2023-06-17 08:02:20,558 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:02:20,563 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:02:22,558 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/3c7411dc-7713-4bfb-b981-b7ac11ae9315/ HTTP/1.1" 402 None
+2023-06-17 08:02:22,564 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:02:22,569 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:02:24,621 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/508c5f01-c926-4903-b552-491dc03171ca/ HTTP/1.1" 402 None
+2023-06-17 08:02:24,650 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:02:24,655 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:02:26,726 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/b0c94a19-94b7-4f8a-a5e9-faf88dbf8efb/ HTTP/1.1" 402 None
+2023-06-17 08:02:26,732 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:02:26,736 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:02:29,718 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/a6668fee-cac9-45b3-9882-da1b9767c223/ HTTP/1.1" 402 None
+2023-06-17 08:02:29,720 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:02:29,724 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:02:31,796 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/3585407a-c02c-469e-bb08-0a930b245666/ HTTP/1.1" 402 None
+2023-06-17 08:02:31,799 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:02:31,803 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:02:33,832 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/a0f3f694-b52c-4444-8adf-5a8929edbeab/ HTTP/1.1" 402 None
+2023-06-17 08:02:33,834 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:02:33,839 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:02:35,863 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/76df3680-c2fc-4d73-b3a8-0b8a47b989e3/ HTTP/1.1" 402 None
+2023-06-17 08:02:35,867 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:02:35,871 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:02:37,910 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/88a01119-38ed-41d8-8e12-ff1cbf6769ab/ HTTP/1.1" 402 None
+2023-06-17 08:02:37,914 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:02:37,918 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:02:39,965 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/7f722a47-d9f2-426d-83f2-ec306df7a36d/ HTTP/1.1" 402 None
+2023-06-17 08:02:39,967 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:02:39,971 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:02:41,115 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/b7ab8a14-204e-4d3f-b57b-ce4b5438df61/ HTTP/1.1" 402 None
+2023-06-17 08:02:41,117 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:02:41,122 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:02:41,406 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/48dd2e03-d461-4d12-820e-75e84ca9c35a/ HTTP/1.1" 402 None
+2023-06-17 08:02:41,408 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:02:41,413 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:02:41,625 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/8a50e3ca-8ecc-45d4-b171-bf82e97188a0/ HTTP/1.1" 402 None
+2023-06-17 08:02:41,628 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:02:41,633 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:02:41,834 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/adb7fd18-f3ca-4698-9a9b-d43f6cd43c0c/ HTTP/1.1" 402 None
+2023-06-17 08:02:41,836 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:02:41,841 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:02:43,034 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/caae00d1-5491-473a-8293-be67b1f118a4/ HTTP/1.1" 402 None
+2023-06-17 08:02:43,040 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:02:43,045 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:02:50,208 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/817fffad-981d-4091-a24c-7baff9c8e5d7/ HTTP/1.1" 402 None
+2023-06-17 08:02:50,210 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:02:50,214 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:02:53,277 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/ca6f2239-c240-47d7-a09d-b0648196e41d/ HTTP/1.1" 402 None
+2023-06-17 08:02:53,285 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:02:53,290 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:02:57,375 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/057fd259-c7b7-463c-92b6-06d9ee19df04/ HTTP/1.1" 402 None
+2023-06-17 08:02:57,453 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:02:57,458 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:02:59,457 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/a30c4c70-2af2-4c49-9c35-92865d4402d7/ HTTP/1.1" 402 None
+2023-06-17 08:02:59,460 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:02:59,465 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:03:01,468 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/fc7c215f-7824-4c29-8979-d1fccca1a7b7/ HTTP/1.1" 402 None
+2023-06-17 08:03:01,472 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:03:01,477 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:03:03,517 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/254f8ed5-f01d-48df-8abc-1bded6a8bf01/ HTTP/1.1" 402 None
+2023-06-17 08:03:03,519 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:03:03,524 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:03:05,579 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/485d19c6-9e57-4011-8f1f-31ab750ca7a1/ HTTP/1.1" 402 None
+2023-06-17 08:03:05,583 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:03:05,587 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:03:08,699 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/d23f3110-4454-4eb6-a2bd-8b8823548214/ HTTP/1.1" 402 None
+2023-06-17 08:03:08,779 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:03:08,784 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:03:10,684 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/0c8939e7-f2c6-4aaa-8275-e1ed61c47fc4/ HTTP/1.1" 402 None
+2023-06-17 08:03:10,688 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:03:10,693 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:03:13,771 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/85b93f22-7199-4ff8-bf5b-366613da63c0/ HTTP/1.1" 402 None
+2023-06-17 08:03:13,855 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:03:13,860 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:03:14,071 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/fe826f14-72a7-426c-b65b-19d96c1db370/ HTTP/1.1" 402 None
+2023-06-17 08:03:14,073 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:03:14,077 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:03:14,577 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/051ed2c7-058d-4179-8629-71bb21aeb16b/ HTTP/1.1" 402 None
+2023-06-17 08:03:14,579 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:03:14,584 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:03:15,862 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/2b40b74f-e4a1-4873-a38e-e40185df716a/ HTTP/1.1" 402 None
+2023-06-17 08:03:15,867 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:03:15,872 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:03:17,851 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/e2ca4035-c051-44da-acea-7e344b9952d9/ HTTP/1.1" 402 None
+2023-06-17 08:03:17,857 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:03:17,862 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:03:20,917 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/1d3ea4a8-4e5c-4c6a-a0e7-8ffae3833dca/ HTTP/1.1" 402 None
+2023-06-17 08:03:20,957 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:03:20,962 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:03:22,970 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/2b1e1239-a62c-4105-a54a-4ab55f47c927/ HTTP/1.1" 402 None
+2023-06-17 08:03:22,974 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:03:22,979 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:03:26,098 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/5e10d3c1-c27b-47b8-8a91-1d24e7267ae9/ HTTP/1.1" 402 None
+2023-06-17 08:03:26,100 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:03:26,104 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:03:29,170 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/f0180d4a-38a7-4e90-87e9-08a96e1346a3/ HTTP/1.1" 402 None
+2023-06-17 08:03:29,172 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:03:29,177 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:03:31,179 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/d197adcc-2bbe-4336-9842-8b3c0536f30f/ HTTP/1.1" 402 None
+2023-06-17 08:03:31,181 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:03:31,186 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:03:33,205 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/6e9628c4-bf84-4429-9449-c3067008378e/ HTTP/1.1" 402 None
+2023-06-17 08:03:33,206 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:03:33,211 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:03:35,252 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/a127fd0e-fb2b-4b19-aa3f-eb553c274407/ HTTP/1.1" 402 None
+2023-06-17 08:03:35,254 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:03:35,258 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:03:37,305 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/fa61aabf-5d88-4aab-984c-9930d3117a81/ HTTP/1.1" 402 None
+2023-06-17 08:03:37,308 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:03:37,313 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:03:46,568 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/e81d1dbc-397c-4a71-8ae9-700e27ce2645/ HTTP/1.1" 402 None
+2023-06-17 08:03:46,577 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:03:46,580 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:03:53,690 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/0d00056e-7c93-48a5-9afe-9b65f4e183ad/ HTTP/1.1" 402 None
+2023-06-17 08:03:53,725 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:03:53,730 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:03:55,729 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/979fa39e-aea1-454c-946a-81a3b6bb79f5/ HTTP/1.1" 402 None
+2023-06-17 08:03:55,730 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:03:55,735 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:03:57,782 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/63faf84b-aec3-4ec1-b7ac-b1b25498fc90/ HTTP/1.1" 402 None
+2023-06-17 08:03:57,787 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:03:57,791 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:04:04,998 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/47c344c2-277e-4532-8ad3-bd84e8991424/ HTTP/1.1" 402 None
+2023-06-17 08:04:05,126 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:04:05,130 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:04:07,052 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/25a9c9a1-a66f-4088-9393-4d03360f7f7f/ HTTP/1.1" 402 None
+2023-06-17 08:04:07,054 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:04:07,058 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:04:10,095 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/4ef99b77-9734-4a16-9937-aa5750db4101/ HTTP/1.1" 402 None
+2023-06-17 08:04:10,104 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:04:10,109 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:04:12,139 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/a7aa904a-f823-44c8-8294-fa8bf18d8fde/ HTTP/1.1" 402 None
+2023-06-17 08:04:12,145 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:04:12,149 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:04:14,163 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/a3fc7c17-868d-4aec-b593-953ba6b078d5/ HTTP/1.1" 402 None
+2023-06-17 08:04:14,168 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:04:14,173 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:04:16,204 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/097b588a-5af0-4351-9d1f-a804a2d30f8f/ HTTP/1.1" 402 None
+2023-06-17 08:04:16,206 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:04:16,210 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:04:29,536 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/8e09cf86-29b8-41af-a1bc-73b4a8322488/ HTTP/1.1" 402 None
+2023-06-17 08:04:29,699 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:04:29,703 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:04:37,727 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/f546266d-6622-4069-bc46-4431f8d62e9b/ HTTP/1.1" 402 None
+2023-06-17 08:04:37,736 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:04:37,741 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:04:40,829 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/757d7457-62f2-4843-8350-7e4d689e5938/ HTTP/1.1" 402 None
+2023-06-17 08:04:40,869 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:04:40,873 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:04:49,969 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/30867ea1-79fd-47ee-ae99-8a6baab7520a/ HTTP/1.1" 402 None
+2023-06-17 08:04:49,971 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:04:49,975 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:04:51,134 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/c76d0646-1a09-4823-8e20-4c72adcebf84/ HTTP/1.1" 402 None
+2023-06-17 08:04:51,136 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:04:51,140 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:04:53,207 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/90864acf-f359-4139-b45c-e46a98d04aad/ HTTP/1.1" 402 None
+2023-06-17 08:04:53,251 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:04:53,255 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:04:54,324 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/f927df18-70e8-45ac-a496-10432de57025/ HTTP/1.1" 402 None
+2023-06-17 08:04:54,326 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:04:54,330 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:04:54,561 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/6c6178a1-bcca-4383-9915-5253169c7229/ HTTP/1.1" 402 None
+2023-06-17 08:04:54,566 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:04:54,571 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:04:54,794 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/e6a6bc8f-4363-484f-b2ff-15dfff57d838/ HTTP/1.1" 402 None
+2023-06-17 08:04:54,795 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:04:54,800 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:04:55,004 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/1d0c03cb-254e-44d9-8762-6def06a2f01a/ HTTP/1.1" 402 None
+2023-06-17 08:04:55,005 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:04:55,010 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:04:55,218 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/61b12a18-e21a-4cdc-ab01-451fec18ab57/ HTTP/1.1" 402 None
+2023-06-17 08:04:55,219 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:04:55,224 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:05:21,917 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/414b4c97-290d-44bb-a958-e6afab7d7c0a/ HTTP/1.1" 402 None
+2023-06-17 08:05:22,553 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:05:22,558 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:05:24,976 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/a2a78f1f-c559-4b5b-8574-6116226c10b7/ HTTP/1.1" 402 None
+2023-06-17 08:05:25,075 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:05:25,080 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:05:28,998 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/9768d070-5015-4f06-81bd-0dd5507c4f22/ HTTP/1.1" 402 None
+2023-06-17 08:05:29,125 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:05:29,128 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:05:38,237 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/72ebefeb-3573-4555-a81f-1a4a3a6d38da/ HTTP/1.1" 402 None
+2023-06-17 08:05:38,383 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:05:38,388 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:05:45,394 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/f8828cc0-a453-4b04-8537-b9e34d2f3e9a/ HTTP/1.1" 402 None
+2023-06-17 08:05:45,558 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:05:45,562 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:05:54,668 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/d91640c0-34a0-43bb-b68e-1a34e63ef5fa/ HTTP/1.1" 402 None
+2023-06-17 08:05:54,795 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:05:54,800 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:05:58,720 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/58af5229-4435-4da0-a2d2-bd5f29e23712/ HTTP/1.1" 402 None
+2023-06-17 08:05:58,724 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:05:58,728 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:06:08,000 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/610f672b-25d5-49c7-82c3-2032b0be074c/ HTTP/1.1" 402 None
+2023-06-17 08:06:08,129 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:06:08,133 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:06:13,058 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/7c2fc6b2-5e75-40ee-a826-7cb01c359c77/ HTTP/1.1" 402 None
+2023-06-17 08:06:13,104 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:06:13,109 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:06:16,126 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/6316b426-0c15-453b-ac74-4b74009092b0/ HTTP/1.1" 402 None
+2023-06-17 08:06:16,131 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:06:16,136 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:06:18,161 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/217d9f54-8646-4b26-8695-3a900405ef11/ HTTP/1.1" 402 None
+2023-06-17 08:06:18,168 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:06:18,173 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:06:21,248 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/dd6748c7-89ba-4e2d-abfa-2dc88f911f35/ HTTP/1.1" 402 None
+2023-06-17 08:06:21,250 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:06:21,254 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:06:26,365 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/5134fc0d-ebe9-4aa7-bd80-955dfb04af4e/ HTTP/1.1" 402 None
+2023-06-17 08:06:26,445 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:06:26,450 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:06:34,610 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/942787a7-ba56-4168-be91-3a5097c32c73/ HTTP/1.1" 402 None
+2023-06-17 08:06:34,615 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:06:34,620 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:06:37,630 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/da311848-0eaa-4cbd-82c4-57af172e6025/ HTTP/1.1" 402 None
+2023-06-17 08:06:37,632 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:06:37,636 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:06:41,719 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/59cf5aed-f485-4f48-b4ae-e10b3a8f4ee1/ HTTP/1.1" 402 None
+2023-06-17 08:06:41,760 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:06:41,765 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:06:43,776 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/fa442965-9984-48c8-9bea-9f087eac5142/ HTTP/1.1" 402 None
+2023-06-17 08:06:43,781 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:06:43,785 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:06:48,960 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/6c789ac6-9336-481b-8ed8-02a90873a3d4/ HTTP/1.1" 402 None
+2023-06-17 08:06:48,961 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:06:48,966 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:06:51,960 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/3412dcaf-1ff4-4473-9f11-c209155ed76a/ HTTP/1.1" 402 None
+2023-06-17 08:06:51,964 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:06:51,968 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:06:55,037 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/e2c8a65f-beae-440a-9157-bad2b4b256d9/ HTTP/1.1" 402 None
+2023-06-17 08:06:55,078 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:06:55,083 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:06:57,087 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/860c2369-caee-4c07-857f-47cdfc46801e/ HTTP/1.1" 402 None
+2023-06-17 08:06:57,088 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:06:57,092 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:07:06,307 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/a3061786-aeb5-48e5-8941-96f26df76dfe/ HTTP/1.1" 402 None
+2023-06-17 08:07:06,308 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:07:06,313 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:07:07,552 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/1be88b4a-1633-445b-9f15-9c0050bc09d9/ HTTP/1.1" 402 None
+2023-06-17 08:07:07,556 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:07:07,561 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:07:08,700 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/c60cdf93-c54f-4e93-82cb-ea7923785df2/ HTTP/1.1" 402 None
+2023-06-17 08:07:08,702 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:07:08,707 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:07:08,912 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/91bfceec-fc98-445e-ab7e-18b9685d06ee/ HTTP/1.1" 402 None
+2023-06-17 08:07:08,914 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:07:08,919 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:07:09,118 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/66b660d2-eb8c-4292-bd66-97fa12e04806/ HTTP/1.1" 402 None
+2023-06-17 08:07:09,120 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:07:09,124 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:07:09,335 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/d4e1efb7-70a3-4af3-8044-cfdb3b6fe16c/ HTTP/1.1" 402 None
+2023-06-17 08:07:09,337 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:07:09,341 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:07:09,576 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/2f56183a-3adb-4689-87f5-721a0c5ca39e/ HTTP/1.1" 402 None
+2023-06-17 08:07:09,578 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:07:09,582 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:07:09,805 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/20b33b3c-bc90-4bd2-8d8b-5bcb242e624d/ HTTP/1.1" 402 None
+2023-06-17 08:07:09,807 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:07:09,811 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:07:10,079 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/9e128304-219c-49cc-b0e6-bc57c6df2bcc/ HTTP/1.1" 402 None
+2023-06-17 08:07:10,081 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:07:10,085 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:07:10,288 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/6badca9a-73ee-483c-8296-96166c97db31/ HTTP/1.1" 402 None
+2023-06-17 08:07:10,290 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:07:10,294 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:07:10,522 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/5ee9343d-9880-4f3f-82fb-1705fde76791/ HTTP/1.1" 402 None
+2023-06-17 08:07:10,524 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:07:10,528 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:07:14,610 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/f1b10826-9938-43e7-a82e-b9bb08bb8b2f/ HTTP/1.1" 402 None
+2023-06-17 08:07:14,622 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:07:14,627 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:07:18,793 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/2474982d-095f-4b21-b7d0-ae2d0cdbaecf/ HTTP/1.1" 402 None
+2023-06-17 08:07:18,836 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:07:18,841 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:07:39,223 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/58cbbc85-0939-4521-9882-c057953bff01/ HTTP/1.1" 402 None
+2023-06-17 08:07:39,225 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:07:39,230 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:07:42,245 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/52f01ff2-845a-478e-91a6-8059ba75ae0c/ HTTP/1.1" 402 None
+2023-06-17 08:07:42,284 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:07:42,289 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:07:50,469 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/e57e09ce-edd2-45e0-9c2c-14df6eda8182/ HTTP/1.1" 402 None
+2023-06-17 08:07:50,627 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:07:50,632 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:07:53,542 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/c215613e-ba63-4a9c-a850-affaf7102b07/ HTTP/1.1" 402 None
+2023-06-17 08:07:53,548 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:07:53,553 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:08:04,753 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/f2ea1737-235d-4421-a4d2-3e5d615ae6bf/ HTTP/1.1" 402 None
+2023-06-17 08:08:04,912 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:08:04,917 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:08:09,941 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/86c5727f-ec84-49dc-8fcf-35117bf8c71b/ HTTP/1.1" 402 None
+2023-06-17 08:08:09,983 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:08:09,988 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280
+2023-06-17 08:08:23,246 - DEBUG - http://us-ca.proxymesh.com:31280 "GET http://cars.com///vehicledetail/63c12ebf-1c48-4a0e-a152-a418439ad64c/ HTTP/1.1" 402 None
+2023-06-17 08:08:23,247 - ERROR - list index out of range
+Traceback (most recent call last):
+  File "/Users/jonathanduberman/maverick_price_tool/maverick_price_scraper.py", line 112, in carsdotcom_datagrabber
+    title = soup.findAll('title')[0].get_text().strip() #title format = used/new, make, model, trim, "for sale", price
+IndexError: list index out of range
+2023-06-17 08:08:23,252 - DEBUG - Starting new HTTP connection (1): us-ca.proxymesh.com:31280

@@ -1,0 +1,918 @@
+,condition,model_year,make,model,trim_level,list_price,exterior_color,interior_color,fwd_or_awd,hybrid_or_eco,mileage,dealer_address,date_parsed
+0,USED,2022,FORD,MAVERICK,LARIAT,40750,Blue,Desert,Front-wheel Drive,Hybrid,8531,"266 W Service Rd Staten Island, NY 10314",2023-05-09
+1,USED,2022,FORD,MAVERICK,LARIAT,37706,Area 51,Desert,Front-wheel Drive,Gasoline,8120,"5575 Keim Cir Columbus, OH 43228",2023-05-09
+2,USED,2022,FORD,MAVERICK,XLT,35549,Hot Pepper Red Tinted Clearcoat,Black Onyx,All-wheel Drive,Gasoline,17245,"155 Country Rd 406 South Point, OH 45680",2023-05-09
+3,USED,2023,FORD,MAVERICK,LARIAT,50000,Avalanche Gray,Black Onyx,All-wheel Drive,Gasoline,357,"1875 Buford Hwy Cumming, GA 30041",2023-05-09
+4,USED,2022,FORD,MAVERICK,XLT,33999,Silver,Gray,All-wheel Drive,Gasoline,14468,"2520 Pleasant Hill Rd Duluth, GA 30096",2023-05-09
+5,USED,2022,FORD,MAVERICK,LARIAT,41700,Blue,Desert,Front-wheel Drive,Hybrid,10176,"2317 State Road 44 New Smyrna Beach, FL 32168",2023-05-09
+6,USED,2022,FORD,MAVERICK,XL,29129,Blue,Desert,All-wheel Drive,Gasoline,31773,"1875 Brittain Road Akron, OH 44310",2023-05-09
+7,USED,2022,FORD,MAVERICK,XLT,34995,Cactus Green / Gray,Navy Pier,Front-wheel Drive,Hybrid,26271,"2409 Front Street Cuyahoga Falls, OH 44221",2023-05-09
+8,USED,2022,FORD,MAVERICK,XL,32650,White,Black Onyx,All-wheel Drive,Gasoline,29810,"175 E Main St Norwich, NY 13815",2023-05-09
+9,USED,2022,FORD,MAVERICK,XLT,35458,Area 51,Navy Pier,Front-wheel Drive,Hybrid,16314,"5575 Keim Circle Columbus, OH 43228",2023-05-09
+10,USED,2022,FORD,MAVERICK,LARIAT,38998,Black,Brown,All-wheel Drive,Gasoline,12003,"4185 N Main St Gainesville, FL 32609",2023-05-09
+11,USED,2022,FORD,MAVERICK,LARIAT,39500,Black,Desert,Front-wheel Drive,Hybrid,22765,"607 Highway 33 Hamilton, NJ 08619",2023-05-09
+12,USED,2022,FORD,MAVERICK,LARIAT,43998,Blue,Brown,Front-wheel Drive,Hybrid,3291,"10400 Southpoint Pkwy Fredericksburg, VA 22407",2023-05-09
+13,USED,2023,FORD,MAVERICK,XLT,37500,Blue Metallic,–,All-wheel Drive,Gasoline,2007,"200 Gabbard Way Mt Orab, OH 45154",2023-05-09
+14,USED,2023,FORD,MAVERICK,XLT,38990,Blue,Blue,Front-wheel Drive,CVT Transmission,415,"Andrew from Belcamp, MD 21017",2023-05-09
+15,USED,2022,FORD,MAVERICK,XLT,37781,–,Navy Pier/Medium Slate,All-wheel Drive,Gasoline,1635,"1001 Jamestown Rd Morganton, NC 28655",2023-05-09
+16,USED,2022,FORD,MAVERICK,LARIAT,37824,Cactus Gray,Desert Brown,All-wheel Drive,Gasoline,17416,"1001 Jamestown Rd Morganton, NC 28655",2023-05-09
+17,USED,2022,FORD,MAVERICK,XLT,34900,Area 51,Navy Pier,Front-wheel Drive,Hybrid,4757,"2231 White Hall Blvd White Hall, WV 26554",2023-05-09
+18,USED,2022,FORD,MAVERICK,XLT,34999,Carbonized Gray,–,All-wheel Drive,Gasoline,20544,"21 Pottstown Pike Chester Springs, PA 19425",2023-05-09
+19,USED,2023,FORD,MAVERICK,XL,34995,Area 51,Black Onyx,Front-wheel Drive,Hybrid,61,"1551 W Old Liberty Rd Sykesville, MD 21784",2023-05-09
+20,USED,2022,FORD,MAVERICK,LARIAT,37513,Shadow Black,Desert,All-wheel Drive,Gasoline,3098,"8501 Glenwood Ave Raleigh, NC 27612",2023-05-09
+21,USED,2022,FORD,MAVERICK,XLT,36508,Area 51,Navy Pier,All-wheel Drive,Gasoline,2913,"11000 Capital Blvd Wake Forest, NC 27587",2023-05-09
+22,USED,2022,FORD,MAVERICK,LARIAT,39444,Oxford White,Desert,All-wheel Drive,Gasoline,15000,"979 N U.S. 1 Lugoff, SC 29078",2023-05-09
+23,USED,2022,FORD,MAVERICK,XLT,36900,Area 51,Navy Pier,All-wheel Drive,Gasoline,10483,"418 Piedmont Dr Lexington, NC 27295",2023-05-09
+24,CERTIFIED,2022,FORD,MAVERICK,XLT,45982,Cactus,Navy Pier,All-wheel Drive,Gasoline,3881,"2030 GA-40 Kingsland, GA 31548",2023-05-09
+25,USED,2022,FORD,MAVERICK,XLT,34000,Oxford White,Navy Pier,Front-wheel Drive,Hybrid,27931,"2818 N Columbia St Milledgeville, GA 31061",2023-05-09
+26,USED,2023,FORD,MAVERICK,XLT,36998,Blue,Gray,Front-wheel Drive,Gasoline,1432,"9550 Bluegrass Pkwy Louisville, KY 40299",2023-05-11
+27,USED,2022,FORD,MAVERICK,LARIAT,45898,Blue,Desert,All-wheel Drive,Gasoline,3669,"3960 Medina Rd Akron, OH 44333",2023-05-11
+28,USED,2022,FORD,MAVERICK,XLT,41900,Velocity Blue Metallic,Navy Pier,Front-wheel Drive,Hybrid,14930,"617 N Main St Belmont, NC 28012",2023-05-11
+29,USED,2023,FORD,MAVERICK,XLT,39998,Gray,Blue,FWD,Hybrid,1196,"551 S Houston Lake Rd Warner Robins, GA 31088",2023-05-11
+30,USED,2022,FORD,MAVERICK,XLT,34998,Black,Gray,AWD,Gasoline,38107,"11225 Parkside Dr Knoxville, TN 37934",2023-05-11
+31,USED,2023,FORD,MAVERICK,XL,34943,Cactus Green / Gray,Navy Pier,Front-wheel Drive,Gasoline,47,"1555 E. Independence Springfield, MO 65804",2023-05-11
+32,USED,2022,FORD,MAVERICK,LARIAT,39777,Oxford White,Desert,Front-wheel Drive,Hybrid,3732,"8625 Artesia Blvd. Bellflower, CA 90706",2023-05-11
+33,USED,2022,FORD,MAVERICK,XLT,34798,Hot Pepper Red Tinted Clearcoat,Navy Pier,Front-wheel Drive,Gasoline,7065,"8625 Artesia Blvd. Bellflower, CA 90706",2023-05-11
+34,USED,2023,FORD,MAVERICK,XL,37274,Cactus Green / Gray,Black Onyx,Front-wheel Drive,Hybrid,2077,"1929 South Figueroa Street Los Angeles, CA 90007",2023-05-11
+35,USED,2023,FORD,MAVERICK,XLT,44195,Hot Pepper Red Metallic Tinted Clearcoat,Navy Pier,Front-wheel Drive,Hybrid,157,"15445 Roscoe Blvd North Hills, CA 91343",2023-05-11
+36,CERTIFIED,2022,FORD,MAVERICK,XLT,34500,CACTUS GREY,NAVY PIER -MED SLATE TRIM,–,–,18494,"6211 Beach Blvd Buena Park, CA 90621",2023-05-11
+37,USED,2022,FORD,MAVERICK,XL,32716,Velocity Blue Metallic,Black Onyx,All-wheel Drive,Gasoline,38260,"1350 S Woodruff Way Ontario, CA 91761",2023-05-11
+38,USED,2022,FORD,MAVERICK,XLT,36998,Blue,Gray,AWD,Gasoline,5067,"4100 East Inland Empire Blvd Ontario, CA 91764",2023-05-11
+39,USED,2022,FORD,MAVERICK,LARIAT,42000,Carbonized Gray Metallic,Desert,All-wheel Drive,Gasoline,14605,"1225 N Autoplex Way Pasco, WA 99301",2023-05-11
+40,CERTIFIED,2022,FORD,MAVERICK,LARIAT,38901,Blue,Desert,All-wheel Drive,Gasoline,36507,"7201 S Interstate 35 Georgetown, TX 78626",2023-05-11
+41,USED,2023,FORD,MAVERICK,XLT,38861,Carbonized Gray Metallic,Navy Pier,Front-wheel Drive,Hybrid,1080,"17340 Gale Avenue City of Industry, CA 91748",2023-05-11
+42,USED,2023,FORD,MAVERICK,XLT,38981,Cactus Green / Gray,Navy Pier,Front-wheel Drive,Hybrid,1261,"17340 Gale Avenue City of Industry, CA 91748",2023-05-11
+43,USED,2023,FORD,MAVERICK,LARIAT,40900,Shadow Black,Desert,All-wheel Drive,Gasoline,3065,"2100 N Broadway Walnut Creek, CA 94596",2023-05-11
+44,USED,2022,FORD,MAVERICK,XLT,37998,Blue,Gray,FWD,Hybrid,1960,"13750 SE Johnson Rd Milwaukie, OR 97222",2023-05-11
+45,USED,2022,FORD,MAVERICK,XL,31998,White,Gray,Front-wheel Drive,Gasoline,6715,"2750 Stoneridge Dr Pleasanton, CA 94588",2023-05-11
+46,USED,2023,FORD,MAVERICK,XLT,35000,Carbonized Gray Metallic,Navy Pier/Medium Slate,Front-wheel Drive,Gasoline,1684,"700 N US Route 15 Dillsburg, PA 17019",2023-05-11
+47,USED,2022,FORD,MAVERICK,XLT,33495,Blue,–,Front-wheel Drive,Hybrid,13667,"250 Haddonfield-Berlin Rd Cherry Hill, NJ 08034",2023-05-11
+48,USED,2022,FORD,MAVERICK,LARIAT,39683,Area 51,Desert,All-wheel Drive,Gasoline,8919,"109 Mackenan Blvd. Cary, NC 27511",2023-05-11
+49,USED,2022,FORD,MAVERICK,LARIAT,35500,Cyber Orange Tricoat Metallic,Desert Brown,Front-wheel Drive,Gasoline,22501,"700 N US Route 15 Dillsburg, PA 17019",2023-05-11
+50,USED,2022,FORD,MAVERICK,XLT,34000,Oxford White,Navy Pier/Medium Slate,All-wheel Drive,Gasoline,14947,"700 N US Route 15 Dillsburg, PA 17019",2023-05-11
+51,USED,2022,FORD,MAVERICK,XLT,35430,Velocity Blue Metallic,Navy Pier,Front-wheel Drive,Hybrid,5462,"13825 Statesville Rd Huntersville, NC 28078",2023-05-11
+52,USED,2022,FORD,MAVERICK,LARIAT,39696,Shadow Black,Desert,All-wheel Drive,Gasoline,11,"96 Radio Dr Lexington, NC 27292",2023-05-11
+53,USED,2022,FORD,MAVERICK,XLT,42400,Velocity Blue Metallic,Navy Pier,Front-wheel Drive,Hybrid,14930,"617 N Main St Belmont, NC 28012",2023-05-11
+54,USED,2022,FORD,MAVERICK,XLT,42951,Orange,Navy Pier,Front-wheel Drive,Hybrid,7944,"920 W Shaw Ave Clovis, CA 93612",2023-05-11
+55,USED,2022,FORD,MAVERICK,XL,33998,Gray,Black,AWD,Gasoline,5235,"3100 Spur 482 Irving, TX 75062",2023-05-11
+56,USED,2023,FORD,MAVERICK,XLT,38681,Shadow Black,Navy Pier,All-wheel Drive,Gasoline,614,"2517 SE Best Ln Bentonville, AR 72712",2023-05-11
+57,USED,2022,FORD,MAVERICK,XLT,35000,Oxford White,Navy Pier,All-wheel Drive,Gasoline,12046,"2900 Burlington St North Kansas City, MO 64116",2023-05-11
+58,USED,2022,FORD,MAVERICK,LARIAT,37000,Blue,Navy Pier,Front-wheel Drive,Gasoline,3853,"1735 S Interstate 35E Carrollton, TX 75006",2023-05-11
+59,USED,2022,FORD,MAVERICK,LARIAT,37990,Area 51,Black Onyx,All-wheel Drive,Gasoline,7356,"561 Theater Rd Onalaska, WI 54650",2023-05-11
+60,USED,2022,FORD,MAVERICK,LARIAT,38550,Cactus Green / Gray,Desert,All-wheel Drive,Gasoline,17784,"220 W 103rd St KCMO, MO 64114",2023-05-11
+61,CERTIFIED,2022,FORD,MAVERICK,LARIAT,39812,Gray Metallic,Desert,All-wheel Drive,Gasoline,20997,"8555 E Frank Lloyd Wright Blvd Scottsdale, AZ 85260",2023-05-11
+62,USED,2022,FORD,MAVERICK,LARIAT,45000,Hot Pepper Red Tinted Clearcoat Metallic,Desert Brown,All-wheel Drive,Gasoline,123,"33450 Lake Road Avon Lake, OH 44012",2023-05-11
+63,USED,2022,FORD,MAVERICK,XL,32998,Black,Black,Front-wheel Drive,Gasoline,1648,"9405 SW Cascade Ave Beaverton, OR 97008",2023-05-11
+64,CERTIFIED,2022,FORD,MAVERICK,XLT,35750,CARBONIZED GREY METALLIC,NAVY PIER -MED SLATE TRIM,–,–,8511,"195 Woodstock Pkwy Woodstock, GA 30188",2023-05-11
+65,USED,2022,FORD,MAVERICK,XLT,39855,Blue,Navy Pier,Front-wheel Drive,Hybrid,4912,"1916 Jacksboro Pike LaFollette, TN 37766",2023-05-11
+66,USED,2022,FORD,MAVERICK,LARIAT,44491,Silver,Desert,All-wheel Drive,Gasoline,3800,"5600 183A Cedar Park, TX 78641",2023-05-11
+67,CERTIFIED,2022,FORD,MAVERICK,LARIAT,43879,Blue,Desert,All-wheel Drive,Gasoline,8289,"7111 NW Loop 410 San Antonio, TX 78238",2023-05-11
+68,USED,2023,FORD,MAVERICK,LARIAT,42945,Carbonized Gray Metallic,Desert,All-wheel Drive,Gasoline,2650,"400 Sidney Baker St S Kerrville, TX 78028",2023-05-11
+69,USED,2022,FORD,MAVERICK,XLT,36075,Shadow Black,Navy Pier,All-wheel Drive,Gasoline,10391,"4255 S Hamilton Rd Groveport, OH 43125",2023-05-11
+70,USED,2022,FORD,MAVERICK,LARIAT,36000,Oxford White,Desert,Front-wheel Drive,Hybrid,43227,"15529 Ramona Ave Victorville, CA 92392",2023-05-11
+71,CERTIFIED,2022,FORD,MAVERICK,LARIAT,38995,ALTO BLUE METALLIC TC,DESERT BROWN TRIM,–,–,22826,"8853 W Fairview Ave Boise, ID 83704",2023-05-11
+72,USED,2022,FORD,MAVERICK,XLT,34767,Cactus,Navy Pier,All-wheel Drive,Gasoline,12388,"6300 W Sahara Ave Las Vegas, NV 89146",2023-05-11
+73,USED,2023,FORD,MAVERICK,XLT,35998,Blue,Gray,Front-wheel Drive,Gasoline,60,"1450 Eureka Rd Roseville, CA 95661",2023-05-11
+74,USED,2022,FORD,MAVERICK,XLT,33488,Shadow Black,Navy Pier,All-wheel Drive,Gasoline,722,"7740 Eastgate Rd Henderson, NV 89011",2023-05-11
+75,USED,2022,FORD,MAVERICK,XLT,27999,Charcoal,Black Onyx,All-wheel Drive,Gasoline,4468,"2865 State St Salt Lake City, UT 84115",2023-05-11
+76,USED,2023,FORD,MAVERICK,XL,33925,White,Black,All-wheel Drive,8-Speed A/T,55,"Navid from San Diego, CA 92117",2023-05-11
+77,USED,2023,FORD,MAVERICK,XLT,37993,Cactus Green / Gray,Navy Pier,All-wheel Drive,Gasoline,6753,"1605 SW Naito Pkwy Portland, OR 97201",2023-05-11
+78,USED,2023,FORD,MAVERICK,XLT,39311,Gray,–,All-wheel Drive,Gasoline,954,"11442 Lone Peak Pkwy Draper, UT 84020",2023-05-11
+79,USED,2022,FORD,MAVERICK,XLT,27995,Black,Navy Pier/Medium Slate,All-wheel Drive,Gasoline,10922,"4651 Digital Drive Lehi, UT 84043",2023-05-11
+80,USED,2023,FORD,MAVERICK,XLT,39998,White,Gray,Front-wheel Drive,Hybrid,220,"4300 McHenry Ave Modesto, CA 95356",2023-05-11
+81,CERTIFIED,2022,FORD,MAVERICK,XLT,34301,CARBONIZED GREY METALLIC,NAVY PIER -MED SLATE TRIM,–,–,24287,"3943 Brooks St Missoula, MT 59804",2023-05-11
+82,CERTIFIED,2022,FORD,MAVERICK,XL,35500,Shadow Black,Black Onyx,All-wheel Drive,Gasoline,7019,"366 W Main St Canfield, OH 44406",2023-05-11
+83,CERTIFIED,2022,FORD,MAVERICK,LARIAT,40788,Blue,Desert,All-wheel Drive,Gasoline,9880,"409 East 2nd Street West Jefferson, NC 28694",2023-05-11
+84,USED,2023,FORD,MAVERICK,XL,35887,Shadow Black,Black Onyx,All-wheel Drive,Gasoline,120,"1101 Columbus Pike Delaware, OH 43015",2023-05-11
+85,USED,2022,FORD,MAVERICK,LARIAT,39085,Velocity Blue Metallic,Desert,Front-wheel Drive,Gasoline,884,"3960 Medina Rd Akron, OH 44333",2023-05-11
+86,USED,2023,FORD,MAVERICK,XL,35859,Area 51,Black Onyx,Front-wheel Drive,Hybrid,176,"730 S Broad Street Lititz, PA 17543",2023-05-11
+87,USED,2022,FORD,MAVERICK,XLT,34877,Area 51,Navy Pier,Front-wheel Drive,Gasoline,5817,"3101 Center Rd Brunswick, OH 44212",2023-05-11
+88,USED,2022,FORD,MAVERICK,XLT,37781,Velocity Blue Metallic,Navy Pier/Medium Slate,All-wheel Drive,Gasoline,1635,"1001 Jamestown Rd Morganton, NC 28655",2023-05-11
+89,USED,2022,FORD,MAVERICK,XLT,38397,Cactus,Navy Pier/Medium Slate,All-wheel Drive,Gasoline,7646,"1960 East Main Street Owosso, MI 48867",2023-05-11
+90,USED,2022,FORD,MAVERICK,XL,32991,Area 51,Black Onyx,Front-wheel Drive,Hybrid,1777,"2801 S 11th St Niles, MI 49120",2023-05-11
+91,USED,2022,FORD,MAVERICK,XLT,39493,Blue,Navy Pier,Front-wheel Drive,Hybrid,20389,"1030 Schaeffer Road Lebanon, PA 17042",2023-05-11
+92,USED,2022,FORD,MAVERICK,XLT,37998,Blue,Gray,All-wheel Drive,Gasoline,255,"4900 Pointe Pkwy Warrensville Heights, OH 44128",2023-05-11
+93,USED,2023,FORD,MAVERICK,XLT,40490,Cactus Green / Gray,Navy Pier,FWD,Hybrid,144,"1101 Columbus Pike Delaware, OH 43015",2023-05-11
+94,USED,2023,FORD,MAVERICK,XLT,41997,Shadow Black,Navy Pier,All-wheel Drive,Gasoline,117,"707 S Washington Blvd Sarasota, FL 34236",2023-05-11
+95,USED,2022,FORD,MAVERICK,XLT,33500,Oxford White,Navy Pier,Front-wheel Drive,Hybrid,27931,"2818 N Columbia St Milledgeville, GA 31061",2023-05-11
+96,USED,2023,FORD,MAVERICK,XLT,39998,Gray,Gray,Front-wheel Drive,Hybrid,68,"89 Weston St Hartford, CT 06120",2023-05-11
+97,CERTIFIED,2022,FORD,MAVERICK,LARIAT,39997,Iconic Silver Metallic,Desert,All-wheel Drive,Gasoline,15763,"2600 Access Rd NW Davenport, FL 33897",2023-05-11
+98,USED,2023,FORD,MAVERICK,LARIAT,41998,Gray,Brown,All-wheel Drive,Gasoline,1775,"9550 Bluegrass Pkwy Louisville, KY 40299",2023-05-11
+99,USED,2022,FORD,MAVERICK,XL,32000,Area 51,Black Onyx,FWD,Hybrid,20407,"5239 S 4th St Leavenworth, KS 66048",2023-05-11
+100,USED,2022,FORD,MAVERICK,XLT,36998,Gray,Gray,All-wheel Drive,Gasoline,11857,"9550 Bluegrass Pkwy Louisville, KY 40299",2023-05-11
+101,USED,2022,FORD,MAVERICK,XLT,34995,Velocity Blue Metallic,Navy Pier,Front-wheel Drive,Gasoline,13600,"9001 E Colonial Dr Orlando, FL 32817",2023-05-11
+102,CERTIFIED,2022,FORD,MAVERICK,XLT,33901,Carbonized Gray Metallic,Navy Pier,Front-wheel Drive,Gasoline,8778,"1551 East Semoran Blvd Apopka, FL 32703",2023-05-11
+103,USED,2023,FORD,MAVERICK,XLT,38448,Area 51,Navy Pier,All-wheel Drive,Gasoline,31,"4200 Illinois Rd Fort Wayne, IN 46804",2023-05-11
+104,USED,2022,FORD,MAVERICK,XLT,37900,Area 51,Navy Pier,All-wheel Drive,Gasoline,5900,"1224 North Broadway New Ulm, MN 56073",2023-05-11
+105,USED,2022,FORD,MAVERICK,XL,33184,Shadow Black,Black Onyx,All-wheel Drive,Gasoline,84,"851 S Main St LaBelle, FL 33935",2023-05-11
+106,USED,2022,FORD,MAVERICK,LARIAT,45898,Blue,Desert,All-wheel Drive,Gasoline,3668,"3960 Medina Rd Akron, OH 44333",2023-05-11
+107,USED,2022,FORD,MAVERICK,XL,37699,Gray,–,Front-wheel Drive,Hybrid,12232,"573 Delsea Dr. Sewell, NJ 08080",2023-05-11
+108,USED,2022,FORD,MAVERICK,XLT,33000,Shadow Black,Navy Pier,Front-wheel Drive,Gasoline,7617,"13779 Nobelwood Plaza, Woodbridge, VA 22193",2023-05-11
+109,USED,2022,FORD,MAVERICK,XLT,39343,Blue,Navy Pier,All-wheel Drive,Gasoline,1001,"730 S Broad Street Lititz, PA 17543",2023-05-11
+110,USED,2022,FORD,MAVERICK,LARIAT,43900,Area 51,Desert,Front-wheel Drive,Hybrid,7683,"617 N Main St Belmont, NC 28012",2023-05-11
+111,USED,2022,FORD,MAVERICK,XL,30998,Black,Black,Front-wheel Drive,Gasoline,8037,"8901 Executive Center Rd Ellicott City, MD 21043",2023-05-11
+112,USED,2022,FORD,MAVERICK,LARIAT,36000,Carbonized Grey Metallic,Desert Brown,Front-wheel Drive,Gasoline,7518,"700 N US Route 15 Dillsburg, PA 17019",2023-05-11
+113,USED,2022,FORD,MAVERICK,XLT,34495,Oxford White,Navy Pier,Front-wheel Drive,Gasoline,4077,"1800 Morse Rd Columbus, OH 43229",2023-05-11
+114,USED,2022,FORD,MAVERICK,XLT,35724,Blue,Navy Pier,All-wheel Drive,Gasoline,9253,"5348 Highway 153 Chattanooga, TN 37343",2023-05-11
+115,USED,2022,FORD,MAVERICK,XL,29987,Silver,Black Onyx,Front-wheel Drive,Gasoline,5710,"1470 Cherry Blossom Way Georgetown, KY 40324",2023-05-11
+116,USED,2022,FORD,MAVERICK,XLT,37888,Velocity Blue Metallic,Navy Pier,All-wheel Drive,Gasoline,13350,"7334 US-280 Claxton, GA 30417",2023-05-11
+117,USED,2022,FORD,MAVERICK,LARIAT,37706,Area 51,Desert,Front-wheel Drive,Gasoline,8120,"5575 Keim Circle Columbus, OH 43228",2023-05-11
+118,USED,2022,FORD,MAVERICK,XL,35103,Oxford White,Black Onyx,All-wheel Drive,Gasoline,4088,"695 Bullsboro Dr Newnan, GA 30265",2023-05-11
+119,USED,2022,FORD,MAVERICK,LARIAT,36283,Iconic Silver Metallic,Desert,Front-wheel Drive,Hybrid,30423,"4200 S. US Hwy 1 Fort Pierce, FL 34982",2023-05-11
+120,USED,2022,FORD,MAVERICK,XLT,30998,Red Metallic,Black Onyx,Front-wheel Drive,Gasoline,22281,"2008 Paxton St Harrisburg, PA 17111",2023-05-11
+121,USED,2023,FORD,MAVERICK,LARIAT,49000,Avalanche Gray,Black Onyx,All-wheel Drive,Gasoline,357,"1875 Buford Hwy Cumming, GA 30041",2023-05-11
+122,USED,2022,FORD,MAVERICK,XLT,38998,Blue,Gray,Front-wheel Drive,Hybrid,8274,"1450 Eureka Rd Roseville, CA 95661",2023-05-11
+123,USED,2022,FORD,MAVERICK,XL,32788,Blue,Black Onyx,All-wheel Drive,Gasoline,2311,"7555 Roswell Road Atlanta, GA 30350",2023-05-11
+124,CERTIFIED,2022,FORD,MAVERICK,LARIAT,40992,Velocity Blue Metallic,Desert,All-wheel Drive,Gasoline,11271,"540 Outlet Mall Blvd St Augustine, FL 32084",2023-05-11
+125,USED,2022,FORD,MAVERICK,XLT,34755,Shadow Black,Navy Pier,All-wheel Drive,Gasoline,12905,"9630 State Route 14 Streetsboro, OH 44241",2023-05-11
+126,USED,2023,FORD,MAVERICK,XLT,36998,Black,Gray,FWD,Gasoline,5957,"2211 Overnite Dr Chattanooga, TN 37421",2023-05-11
+127,USED,2023,FORD,MAVERICK,XL,35500,White,–,FWD,Hybrid,47,"2409 Front Street Cuyahoga Falls, OH 44221",2023-05-11
+128,USED,2022,FORD,MAVERICK,LARIAT,39994,Shadow Black,Desert,All-wheel Drive,Gasoline,4315,"155 North Main Street Branford, CT 06405",2023-05-11
+129,USED,2022,FORD,MAVERICK,XLT,32933,Gray,–,All-wheel Drive,Gasoline,13339,"1001 Clairton Blvd Pleasant Hills, PA 15236",2023-05-11
+130,USED,2022,FORD,MAVERICK,XLT,33400,Orange,Gray,All-wheel Drive,Gasoline,32584,"1971 Burlington-Mount Holly Rd Mount Holly, NJ 08060",2023-05-11
+131,USED,2023,FORD,MAVERICK,XL,39005,Black,Black Onyx,All-wheel Drive,Gasoline,242,"2975 West Washington Street Stephenville, TX 76401",2023-05-11
+132,USED,2022,FORD,MAVERICK,XLT,35458,Area 51,Navy Pier,Front-wheel Drive,Hybrid,16314,"5575 Keim Cir Columbus, OH 43228",2023-05-11
+133,USED,2022,FORD,MAVERICK,XL,31585,Cactus,Black Onyx/Medium Dark Slate,Front-wheel Drive,Gasoline,11085,"1200 Hwy 79E A Hutto, TX 78634",2023-05-11
+134,CERTIFIED,2022,FORD,MAVERICK,XLT,38900,ICONIC SILVER METALLIC,NAVY PIER -MED SLATE TRIM,–,–,16933,"3004 East Avenue, Rt 49 Central Square, NY 13036",2023-05-11
+135,USED,2023,FORD,MAVERICK,XLT,35981,Atlas Blue Metallic,Navy Pier,All-wheel Drive,Gasoline,84,"2966 N Dale Mabry Hwy Tampa, FL 33607",2023-05-11
+136,USED,2022,FORD,MAVERICK,XLT,36998,Gray Metallic,Navy Pier,All-wheel Drive,Gasoline,1839,"1671 Toll Gate Dr Maumee, OH 43537",2023-05-11
+137,CERTIFIED,2022,FORD,MAVERICK,LARIAT,42000,Hot Pepper Red Tinted Clearcoat,Desert,All-wheel Drive,Gasoline,385,"11661 N Beyer Rd Birch Run, MI 48415",2023-05-11
+138,USED,2023,FORD,MAVERICK,XLT,36550,Red,Navy Pier,All-wheel Drive,Gasoline,1511,"2500 Jordan Ln NW Huntsville, AL 35816",2023-05-11
+139,USED,2022,FORD,MAVERICK,XLT,36993,Oxford White,Navy Pier/Medium Slate,All-wheel Drive,Gasoline,23267,"2714 Elkhart Rd Goshen, IN 46526",2023-05-11
+140,USED,2022,FORD,MAVERICK,LARIAT,36699,Cactus Green / Gray,Desert,All-wheel Drive,Gasoline,39800,"21736 Auto World Circle Sterling, VA 20166",2023-05-11
+141,USED,2022,FORD,MAVERICK,XLT,37000,Gray,–,Front-wheel Drive,Hybrid,7057,"59 Bisson Ave Laconia, NH 03246",2023-05-11
+142,USED,2022,FORD,MAVERICK,XLT,35000,Carbonized Gray Metallic,Navy Pier,All-wheel Drive,Gasoline,22491,"10207 Philadelphia Rd White Marsh, MD 21162",2023-05-11
+143,USED,2023,FORD,MAVERICK,XLT,36998,Orange,Gray,Front-wheel Drive,Hybrid,549,"2550 Roosevelt Blvd Clearwater, FL 33760",2023-05-11
+144,USED,2022,FORD,MAVERICK,XL,31998,Gray,Black,All-wheel Drive,Gasoline,14076,"4185 N Main St Gainesville, FL 32609",2023-05-11
+145,USED,2023,FORD,MAVERICK,XLT,37288,Blue Metallic,–,All-wheel Drive,Gasoline,2007,"200 Gabbard Way Mt Orab, OH 45154",2023-05-11
+146,USED,2023,FORD,MAVERICK,LARIAT,40384,White,–,All-wheel Drive,Gasoline,2689,"851 S Main St LaBelle, FL 33935",2023-05-11
+147,USED,2022,FORD,MAVERICK,XLT,35235,Oxford White,Black Onyx,All-wheel Drive,Gasoline,18034,"808 E Lewis and Clark Pkwy Clarksville, IN 47129",2023-05-11
+148,USED,2022,FORD,MAVERICK,XLT,36705,Cactus Green / Gray,Navy Pier,All-wheel Drive,Gasoline,5270,"1 Main St Greenfield, MA 01301",2023-05-11
+149,USED,2023,FORD,MAVERICK,XLT,37900,Blue,–,Front-wheel Drive,Hybrid,203,"10507 Us Highway 290 E Manor, TX 78653",2023-05-11
+150,USED,2022,FORD,MAVERICK,XL,,White,Black Onyx/Medium Dark Slate,Front-wheel Drive,Gasoline,1461,"2010 North Lincoln Street Greensburg, IN 47240",2023-05-11
+151,USED,2022,FORD,MAVERICK,XLT,31560,Cactus,Navy Pier,All-wheel Drive,Gasoline,43951,"1425 W Main St Bartow, FL 33830",2023-05-11
+152,USED,2023,FORD,MAVERICK,XLT,38900,Gray,Blue,All-wheel Drive,Gasoline,6041,"5255 AL-157 Cullman, AL 35058",2023-05-11
+153,USED,2023,FORD,MAVERICK,LARIAT,42981,Atlas Blue Metallic,Desert,All-wheel Drive,Gasoline,411,"5359 South US Highway 1 Fort Pierce, FL 34982",2023-05-11
+154,USED,2023,FORD,MAVERICK,LARIAT,42890,WH,BROWN,All-wheel Drive,Gasoline,1679,"3923 Route 104 Williamson, NY 14589",2023-05-11
+155,USED,2022,FORD,MAVERICK,LARIAT,43997,Cactus,Desert,All-wheel Drive,Gasoline,13866,"2630 Pelham Parkway Pelham, AL 35124",2023-05-11
+156,USED,2023,FORD,MAVERICK,XL,35500,Atlas Blue Metallic,Black Onyx,Front-wheel Drive,Gasoline,113,"21350 Woodward Ave Ferndale, MI 48220",2023-05-11
+157,USED,2023,FORD,MAVERICK,XL,32595,Shadow Black,Black Onyx,Front-wheel Drive,Gasoline,9859,"8805 N I H 35 Austin, TX 78753",2023-05-11
+158,USED,2022,FORD,MAVERICK,XLT,39800,BLACK,–,–,–,21144,"219 Woodgate Drive South Brandon, MS 39042",2023-05-11
+159,USED,2022,FORD,MAVERICK,XL,36200,BLUE,–,FWD,–,20984,"219 Woodgate Drive South Brandon, MS 39042",2023-05-11
+160,USED,2023,FORD,MAVERICK,XLT,42800,WHITE,–,Front-wheel Drive,–,1639,"219 Woodgate Drive South Brandon, MS 39042",2023-05-11
+161,USED,2022,FORD,MAVERICK,LARIAT,39995,Cactus,Navy Pier,All-wheel Drive,Gasoline,19313,"7466 S Lindbergh Blvd St. Louis, MO 63125",2023-05-11
+162,USED,2022,FORD,MAVERICK,XL,34634,Blue,Navy Pier,Front-wheel Drive,Hybrid,6457,"5333 Broadway St Quincy, IL 62305",2023-05-11
+163,USED,2022,FORD,MAVERICK,XLT,35995,Blue,–,Front-wheel Drive,Hybrid,19602,"30584 Olde Hawkeye Rd Dyersville, IA 52040",2023-05-11
+164,USED,2022,FORD,MAVERICK,LARIAT,42998,White,Brown,FWD,Hybrid,7525,"3100 Spur 482 Irving, TX 75062",2023-05-11
+165,USED,2022,FORD,MAVERICK,XLT,38000,Cactus Green / Gray,Navy Pier,Front-wheel Drive,Hybrid,5228,"7404 University Ave Cedar Falls, IA 50613",2023-05-11
+166,USED,2023,FORD,MAVERICK,XL,34989,Silver Gray,Gray,Front-wheel Drive,Gasoline,145,"6850 TX-121 Frisco, TX 75034",2023-05-11
+167,CERTIFIED,2022,FORD,MAVERICK,LARIAT,36900,CACTUS GREY,DESERT BROWN TRIM,–,–,8265,"968 Bridge Rd Northampton, MA 01060",2023-05-11
+168,USED,2022,FORD,MAVERICK,XLT,35546,Oxford White,Navy Pier,All-wheel Drive,Gasoline,4370,"1129 Murfreesboro Rd. Franklin, TN 37064",2023-05-11
+169,USED,2022,FORD,MAVERICK,XLT,35679,Cactus Green / Gray,Black Onyx,All-wheel Drive,Gasoline,8073,"200 E Courtland St Morton, IL 61550",2023-05-11
+170,USED,2022,FORD,MAVERICK,XLT,42000,GRAY,–,FWD,–,19467,"219 Woodgate Drive South Brandon, MS 39042",2023-05-11
+171,USED,2022,FORD,MAVERICK,LARIAT,39986,Carbonized Gray Metallic,Desert,All-wheel Drive,Gasoline,13075,"3624 Kohler Memorial Drive Sheboygan, WI 53081",2023-05-11
+172,USED,2022,FORD,MAVERICK,XLT,38450,Blue,Navy Pier/Medium Slate,All-wheel Drive,Gasoline,8982,"1638 Hughes Rd Madison, AL 35758",2023-05-11
+173,USED,2022,FORD,MAVERICK,LARIAT,42000,Orange,Desert,All-wheel Drive,Gasoline,10292,"1845 E. Santa Fe Olathe, KS 66062",2023-05-11
+174,USED,2022,FORD,MAVERICK,XL,31998,Blue,Black,Front-wheel Drive,Hybrid,7316,"1300 E I-2 Pharr, TX 78577",2023-05-11
+175,USED,2022,FORD,MAVERICK,XLT,33468,Iconic Silver Metallic,Navy Pier,Front-wheel Drive,Gasoline,7040,"1307 East Bridge Street Redwood Falls, MN 56283",2023-05-11
+176,USED,2023,FORD,MAVERICK,XLT,36542,Area 51,Navy Pier,Front-wheel Drive,Hybrid,23,"6455 S 108th St Franklin, WI 53132",2023-05-11
+177,USED,2022,FORD,MAVERICK,XLT,36500,Silver,Navy Pier,Front-wheel Drive,Hybrid,10905,"8625 Artesia Blvd. Bellflower, CA 90706",2023-05-11
+178,USED,2022,FORD,MAVERICK,XLT,37127,Area 51,Navy Pier,FWD,Hybrid,19000,"9400 Southwest Fwy Houston, TX 77074",2023-05-11
+179,USED,2023,FORD,MAVERICK,XLT,37950,Shadow Black,Navy Pier,Front-wheel Drive,Hybrid,1290,"3796 I-10 Frontage Rd Sealy, TX 77474",2023-05-11
+180,CERTIFIED,2022,FORD,MAVERICK,LARIAT,39580,Carbonized Gray Metallic,Desert Brown,All-wheel Drive,Gasoline,16799,"8209 NW Quanah Parker Trailway Lawton, OK 73505",2023-05-11
+181,USED,2022,FORD,MAVERICK,XLT,36498,Carbonized Gray Metallic,Black Onyx,Front-wheel Drive,Hybrid,7553,"2517 SE Best Ln Bentonville, AR 72712",2023-05-11
+182,USED,2022,FORD,MAVERICK,LARIAT,41135,Gray,Desert,All-wheel Drive,Gasoline,5101,"212 Comtide Ct Franklin, TN 37067",2023-05-11
+183,USED,2022,FORD,MAVERICK,XL,34977,Blue,Black Onyx,AWD,Gasoline,3063,"2500 North Ave. Melrose Park, IL 60160",2023-05-11
+184,USED,2022,FORD,MAVERICK,XLT,38998,Area 51,Black Onyx,All-wheel Drive,Gasoline,8073,"3560 28th Street SE Grand Rapids, MI 49512",2023-05-11
+185,USED,2022,FORD,MAVERICK,XLT,32998,Green,Gray,All-wheel Drive,Gasoline,51164,"7771 Highway #64 Memphis, TN 38133",2023-05-11
+186,USED,2022,FORD,MAVERICK,XLT,37641,Area 51,Navy Pier/Medium Slate,All-wheel Drive,Gasoline,2018,"1213 Sunset Dr Vandalia, IL 62471",2023-05-11
+187,USED,2022,FORD,MAVERICK,XLT,35962,Cactus Green / Gray,Navy Pier,Front-wheel Drive,Hybrid,573,"700 W Main St El Paso, IL 61738",2023-05-11
+188,USED,2022,FORD,MAVERICK,LARIAT,42100,Oxford White,Desert,All-wheel Drive,Gasoline,7721,"14633 Cicero Ave Midlothian, IL 60445",2023-05-11
+189,USED,2022,FORD,MAVERICK,XLT,35947,Area 51,Navy Pier/Medium Slate,All-wheel Drive,Gasoline,17928,"1501 W Pine St Hattiesburg, MS 39401",2023-05-11
+190,USED,2022,FORD,MAVERICK,XL,33995,Oxford White,Black Onyx,All-wheel Drive,Gasoline,2847,"1508 Morrissey Dr Bloomington, IL 61701",2023-05-11
+191,CERTIFIED,2022,FORD,MAVERICK,XL,29603,Cactus Green / Gray,Black Onyx,Front-wheel Drive,Gasoline,19923,"2052 Us Hwy 30 Valparaiso, IN 46385",2023-05-11
+192,USED,2022,FORD,MAVERICK,LARIAT,39998,Black,Brown,All-wheel Drive,Gasoline,14093,"1300 NW 98th Ct Doral, FL 33172",2023-05-11
+193,CERTIFIED,2022,FORD,MAVERICK,XLT,34722,Area 51,Navy Pier,Front-wheel Drive,Gasoline,7899,"540 Outlet Mall Blvd St Augustine, FL 32084",2023-05-11
+194,USED,2022,FORD,MAVERICK,XLT,38400,Oxford White,Navy Pier,All-wheel Drive,Gasoline,11995,"2265 Old Turnpike Rd Lewisburg, PA 17837",2023-05-11
+195,USED,2022,FORD,MAVERICK,XL,31995,Area 51,Black Onyx,Front-wheel Drive,Gasoline,13968,"3611 Lapalco Blvd Harvey, LA 70058",2023-05-11
+196,USED,2022,FORD,MAVERICK,XL,32000,Blue,Gray,Front-wheel Drive,CVT Transmission,20200,"J from Naperville, IL 60563",2023-05-11
+197,USED,2023,FORD,MAVERICK,XLT,39500,White,Navy Pier,All-wheel Drive,Gasoline,72,"1810 Highway 25B North Heber Springs, AR 72543",2023-05-11
+198,USED,2022,FORD,MAVERICK,XLT,32962,Area 51,Navy Pier,Front-wheel Drive,Hybrid,10369,"700 W Main St El Paso, IL 61738",2023-05-11
+199,USED,2023,FORD,MAVERICK,XLT,34900,Gray,Blue,Front-wheel Drive,CVT Transmission,3500,"Jason from Bedford, IN 47421",2023-05-11
+200,CERTIFIED,2022,FORD,MAVERICK,XLT,35999,Shadow Black,Navy Pier,All-wheel Drive,Gasoline,7157,"2055 Ogden Ave Naperville, IL 60540",2023-05-11
+201,USED,2022,FORD,MAVERICK,LARIAT,39060,–,–,Front-wheel Drive,Hybrid,21049,"2000 10th Ave N Lake Worth, FL 33461",2023-05-11
+202,USED,2022,FORD,MAVERICK,XLT,35206,White,Navy Pier/Medium Slate,Front-wheel Drive,Gasoline,7317,"218 Lincoln Highway Fairless Hills, PA 19030",2023-05-11
+203,USED,2023,FORD,MAVERICK,XLT,37376,Hot Pepper Red Metallic Tinted Clearcoat,Navy Pier,Front-wheel Drive,Hybrid,310,"1030 Schaeffer Road Lebanon, PA 17042",2023-05-11
+204,CERTIFIED,2022,FORD,MAVERICK,LARIAT,35500,Blue,Desert,Front-wheel Drive,Gasoline,31685,"1845 E. Santa Fe Olathe, KS 66062",2023-05-11
+205,USED,2022,FORD,MAVERICK,XLT,35798,Gray Metallic,Navy Pier,All-wheel Drive,Gasoline,6900,"4200 SE Federal Hwy Stuart, FL 34997",2023-05-11
+206,USED,2022,FORD,MAVERICK,XLT,,–,Navy Pier/Medium Slate,Front-wheel Drive,Gasoline,23050,"308 N Outer Rd St James, MO 65559",2023-05-12
+207,USED,2022,FORD,MAVERICK,XLT,,Blue,Navy Pier/Medium Slate,All-wheel Drive,Gasoline,11649,"45 Washington St Foxboro, MA 02035",2023-05-12
+208,USED,2022,FORD,MAVERICK,XL,,White,Gray,Front-wheel Drive,Gasoline,12729,"5700 NW 27th Ave Miami, FL 33142",2023-05-12
+209,USED,2022,FORD,MAVERICK,XLT,,–,Navy Pier/Medium Slate,Front-wheel Drive,Gasoline,9857,"815 Nw 4th St Grand Rapids, MN 55744",2023-05-12
+210,USED,2022,FORD,MAVERICK,XL,36988,Oxford White,Black Onyx,All-wheel Drive,Gasoline,13296,"2701 E Mountain Village Dr Wasilla, AK 99654",2023-05-12
+211,USED,2022,FORD,MAVERICK,XLT,37652,Velocity Blue Metallic,Navy Pier,All-wheel Drive,Gasoline,13797,"6455 S 108th St Franklin, WI 53132",2023-05-12
+212,USED,2022,FORD,MAVERICK,XLT,37330,Cactus Green / Gray,Navy Pier,Front-wheel Drive,Gasoline,5076,"8575 Laguna Grove Drive Elk Grove, CA 95757",2023-05-12
+213,USED,2022,FORD,MAVERICK,LARIAT,39162,Area 51,Desert,All-wheel Drive,Gasoline,12153,"15507 W I-10 San Antonio, TX 78249",2023-05-12
+214,CERTIFIED,2022,FORD,MAVERICK,XL,33865,Iconic Silver Metallic,Black Onyx,All-wheel Drive,Gasoline,11890,"2401 Oakwood St Paso Robles, CA 93446",2023-05-12
+215,USED,2022,FORD,MAVERICK,XLT,36998,White,Gray,All-wheel Drive,Gasoline,15071,"2750 Stoneridge Dr Pleasanton, CA 94588",2023-05-12
+216,USED,2022,FORD,MAVERICK,XL,31998,Black,Black,Front-wheel Drive,Gasoline,1648,"9405 SW Cascade Ave Beaverton, OR 97008",2023-05-12
+217,USED,2022,FORD,MAVERICK,XLT,36883,Area 51,Navy Pier/Medium Slate,All-wheel Drive,Gasoline,2018,"1213 Sunset Dr Vandalia, IL 62471",2023-05-12
+218,USED,2022,FORD,MAVERICK,XL,34634,Blue,Navy Pier,Front-wheel Drive,Hybrid,6510,"5333 Broadway St Quincy, IL 62305",2023-05-12
+219,USED,2023,FORD,MAVERICK,XLT,37591,Shadow Black,Black Onyx,All-wheel Drive,Gasoline,131,"1445 South Main Street Chelsea, MI 48118",2023-05-12
+220,USED,2022,FORD,MAVERICK,XLT,36249,Carbonized Gray Metallic,Black Onyx,Front-wheel Drive,Hybrid,7553,"2517 SE Best Ln Bentonville, AR 72712",2023-05-12
+221,CERTIFIED,2022,FORD,MAVERICK,XL,36500,Gray,Black Onyx/Medium Dark Slate,All-wheel Drive,Gasoline,20623,"1320 N 1st St Dixon, CA 95620",2023-05-12
+222,USED,2022,FORD,MAVERICK,LARIAT,37995,Carbonized Gray Metallic,Desert,All-wheel Drive,Gasoline,12047,"8575 Laguna Grove Drive Elk Grove, CA 95757",2023-05-12
+223,USED,2022,FORD,MAVERICK,XLT,39998,Gray,Gray,Front-wheel Drive,Hybrid,17993,"2750 Stoneridge Dr Pleasanton, CA 94588",2023-05-12
+224,USED,2023,FORD,MAVERICK,LARIAT,45971,Shadow Black,Black Onyx,All-wheel Drive,Gasoline,4047,"15900 Smokey Point Blvd Marysville, WA 98271",2023-05-12
+225,USED,2023,FORD,MAVERICK,XLT,36998,Blue,Gray,Front-wheel Drive,Gasoline,611,"7766 Balboa Ave San Diego, CA 92111",2023-05-12
+226,USED,2022,FORD,MAVERICK,LARIAT,43099,Blue,Brown,All-wheel Drive,Gasoline,3983,"400 River Road Puyallup, WA 98371",2023-05-12
+227,USED,2023,FORD,MAVERICK,XLT,41890,Hot Pepper Red Metallic Tinted Clearcoat,Navy Pier,All-wheel Drive,Gasoline,3193,"400 W 104th Ave Northglenn, CO 80234",2023-05-12
+228,USED,2023,FORD,MAVERICK,XLT,38895,Gray,Navy Pier,Front-wheel Drive,Hybrid,45,"16416 Valley Blvd Fontana, CA 92335",2023-05-12
+229,USED,2022,FORD,MAVERICK,XLT,36981,Carbonized Gray Metallic,Navy Pier,Front-wheel Drive,Hybrid,9078,"4 Geary Plaza Seaside, CA 93955",2023-05-12
+230,USED,2022,FORD,MAVERICK,XLT,37990,Blue,Black Onyx,All-wheel Drive,Gasoline,20789,"400 W 104th Ave Northglenn, CO 80234",2023-05-12
+231,USED,2022,FORD,MAVERICK,XLT,34441,Oxford White,Black Onyx,All-wheel Drive,Gasoline,16299,"8575 Laguna Grove Drive Elk Grove, CA 95757",2023-05-12
+232,CERTIFIED,2022,FORD,MAVERICK,XL,35988,AREA 51,BLACK ONYX-MED DK SLATE TRI,–,–,2975,"3282 Auto Center Circle Stockton, CA 95212",2023-05-12
+233,USED,2023,FORD,MAVERICK,LARIAT,40800,Shadow Black,Desert,All-wheel Drive,Gasoline,3065,"2100 N Broadway Walnut Creek, CA 94596",2023-05-12
+234,USED,2022,FORD,MAVERICK,XL,32984,Shadow Black,Black Onyx,All-wheel Drive,Gasoline,84,"851 S Main St LaBelle, FL 33935",2023-05-12
+235,USED,2023,FORD,MAVERICK,XLT,41250,Oxford White,Black Onyx,All-wheel Drive,Gasoline,177,"1511 E Rusk St Jacksonville, TX 75766",2023-05-12
+236,USED,2022,FORD,MAVERICK,XLT,35999,Blue,–,Front-wheel Drive,Gasoline,2840,"27309 Southwest Fwy Rosenberg, TX 77471",2023-05-12
+237,USED,2022,FORD,MAVERICK,XLT,35641,Oxford White,Navy Pier,All-wheel Drive,Gasoline,12799,"1251 Quaker Blvd Plainfield, IN 46168",2023-05-12
+238,USED,2023,FORD,MAVERICK,XL,34943,Cactus Green / Gray,Navy Pier,Front-wheel Drive,Gasoline,48,"1555 E. Independence Springfield, MO 65804",2023-05-12
+239,USED,2022,FORD,MAVERICK,LARIAT,39999,Blue,Desert,All-wheel Drive,Gasoline,21468,"9777 S Memorial Dr Tulsa, OK 74133",2023-05-12
+240,USED,2022,FORD,MAVERICK,LARIAT,37254,Blue,Desert,All-wheel Drive,Gasoline,11726,"16120 Smokey Point Blvd Marysville, WA 98271",2023-05-12
+241,USED,2022,FORD,MAVERICK,XLT,37800,Area 51,Navy Pier,All-wheel Drive,Gasoline,830,"1800 Lucent court Highlands Ranch, CO 80129",2023-05-12
+242,USED,2022,FORD,MAVERICK,LARIAT,44998,White,Brown,FWD,Hybrid,10689,"3853 Plaza Drive Oceanside, CA 92056",2023-05-12
+243,USED,2023,FORD,MAVERICK,XL,34998,Blue,Black,FWD,Gasoline,356,"2001 Lockwood St Oxnard, CA 93036",2023-05-12
+244,USED,2023,FORD,MAVERICK,XLT,39990,Black,Navy Pier,All-wheel Drive,Gasoline,104,"400 W 104th Ave Northglenn, CO 80234",2023-05-12
+245,USED,2022,FORD,MAVERICK,XLT,35895,Cactus Green / Gray,Navy Pier,All-wheel Drive,Gasoline,8378,"4900 Capital Blvd Raleigh, NC 27616",2023-05-12
+246,USED,2022,FORD,MAVERICK,XL,32998,Gray,Black,All-wheel Drive,Gasoline,9719,"2783 Corby Ave Santa Rosa, CA 95407",2023-05-12
+247,USED,2022,FORD,MAVERICK,XL,33511,Gray,Black Onyx,All-wheel Drive,Gasoline,2493,"4902 Pacific Highway East Fife, WA 98424",2023-05-12
+248,USED,2022,FORD,MAVERICK,XL,33816,Carbonized Gray,Black Onyx,Front-wheel Drive,Gasoline,13749,"203 Bryant Blvd N San Angelo, TX 76903",2023-05-12
+249,USED,2023,FORD,MAVERICK,XLT,36950,Area 51,Navy Pier,Front-wheel Drive,Gasoline,748,"2285 Diamond Blvd Concord, CA 94520",2023-05-12
+250,USED,2022,FORD,MAVERICK,LARIAT,40987,Shadow Black,Desert,All-wheel Drive,Gasoline,4280,"3900 Portland Rd Newberg, OR 97132",2023-05-12
+251,CERTIFIED,2022,FORD,MAVERICK,XLT,43988,Iconic Silver Metallic,Navy Pier,Front-wheel Drive,Hybrid,16591,"4625 Madison Ave Sacramento, CA 95841",2023-05-12
+252,USED,2023,FORD,MAVERICK,XLT,36997,Cactus Green / Gray,Navy Pier,All-wheel Drive,Gasoline,6753,"1605 SW Naito Pkwy Portland, OR 97201",2023-05-12
+253,USED,2022,FORD,MAVERICK,XLT,35531,Area 51,Navy Pier,Front-wheel Drive,Hybrid,21526,"3330 Broadway Oakland, CA 94611",2023-05-12
+254,CERTIFIED,2022,FORD,MAVERICK,XL,31785,CACTUS GREY,BLACK ONYX-MED DK SLATE TRI,–,–,9676,"5555 Paseo del Norte Carlsbad, CA 92008",2023-05-12
+255,USED,2022,FORD,MAVERICK,XLT,36998,Area 51,Black Onyx,All-wheel Drive,Gasoline,8073,"3560 28th Street SE Grand Rapids, MI 49512",2023-05-12
+256,USED,2022,FORD,MAVERICK,XLT,36998,Blue,Gray,AWD,Gasoline,6362,"1300 E I-2 Pharr, TX 78577",2023-05-12
+257,USED,2023,FORD,MAVERICK,XLT,38799,Cactus Green / Gray,Navy Pier,Front-wheel Drive,Hybrid,95,"1929 South Figueroa Street Los Angeles, CA 90007",2023-05-12
+258,CERTIFIED,2022,FORD,MAVERICK,XLT,42951,Orange,Navy Pier,Front-wheel Drive,Hybrid,8042,"920 W Shaw Ave Clovis, CA 93612",2023-05-12
+259,USED,2023,FORD,MAVERICK,XLT,38997,Cactus Green / Gray,Black Onyx,All-wheel Drive,Gasoline,5557,"311 Interstate 45 Conroe, TX 77301",2023-05-12
+260,USED,2022,FORD,MAVERICK,XL,32000,Blue,Gray,Front-wheel Drive,CVT Transmission,8000,"Heath from Moses Lake, WA 98837",2023-05-12
+261,USED,2022,FORD,MAVERICK,LARIAT,40892,Blue,Desert,All-wheel Drive,Gasoline,11992,"4960 E US Hwy 377 Granbury, TX 76049",2023-05-12
+262,CERTIFIED,2022,FORD,MAVERICK,LARIAT,38812,Gray Metallic,Desert,All-wheel Drive,Gasoline,20997,"8555 E Frank Lloyd Wright Blvd Scottsdale, AZ 85260",2023-05-12
+263,USED,2022,FORD,MAVERICK,XLT,37900,Area 51,Navy Pier,All-wheel Drive,Gasoline,5906,"1224 North Broadway New Ulm, MN 56073",2023-05-12
+264,USED,2023,FORD,MAVERICK,XL,36362,Gray,Black Onyx/Medium Dark Slate,Front-wheel Drive,Hybrid,2467,"1200 Hwy 79E A Hutto, TX 78634",2023-05-12
+265,USED,2022,FORD,MAVERICK,LARIAT,39995,Shadow Black,Desert,All-wheel Drive,Gasoline,933,"1400 W Interstate 20 Arlington, TX 76017",2023-05-12
+266,CERTIFIED,2022,FORD,MAVERICK,XLT,38918,Blue,Black Onyx,Front-wheel Drive,Hybrid,11837,"200 E Central Ave Comanche, TX 76442",2023-05-12
+267,USED,2022,FORD,MAVERICK,XL,28495,Oxford White,Black Onyx,Front-wheel Drive,Gasoline,6416,"15423 W I-10 San Antonio, TX 78249",2023-05-12
+268,USED,2022,FORD,MAVERICK,XL,34147,Gray,Black Onyx/Medium Dark Slate,Front-wheel Drive,Gasoline,8183,"1601 Green Avenue Orange, TX 77630",2023-05-12
+269,USED,2022,FORD,MAVERICK,XLT,35998,Shadow Black,Navy Pier,Front-wheel Drive,Gasoline,21652,"2500 N Main St Madison, NE 68748",2023-05-12
+270,USED,2022,FORD,MAVERICK,XLT,35999,Blue,Navy Pier,Front-wheel Drive,Hybrid,16934,"1045 E Chicago St Elgin, IL 60120",2023-05-12
+271,USED,2023,FORD,MAVERICK,XL,34999,Carbonized Gray Metallic,Black,Front-wheel Drive,Hybrid,50,"5201 Grisham Dr Rowlett, TX 75088",2023-05-12
+272,USED,2022,FORD,MAVERICK,XLT,37127,Area 51,Navy Pier,Front-wheel Drive,Hybrid,19007,"9400 Southwest Fwy Houston, TX 77074",2023-05-12
+273,USED,2023,FORD,MAVERICK,XLT,39991,Blue,Navy,All-wheel Drive,Gasoline,8712,"4860 IH 10 Columbus, TX 78934",2023-05-12
+274,USED,2022,FORD,MAVERICK,XLT,27995,Shadow Black,Navy Pier/Medium Slate,All-wheel Drive,Gasoline,10922,"4651 Digital Drive Lehi, UT 84043",2023-05-12
+275,USED,2022,FORD,MAVERICK,LARIAT,40998,Blue,Brown,Front-wheel Drive,Gasoline,8957,"6801 Colony St Bakersfield, CA 93307",2023-05-12
+276,USED,2022,FORD,MAVERICK,XLT,39780,Cactus Green / Gray,–,All-wheel Drive,Gasoline,10921,"400 N 20th St Ozark, MO 65721",2023-05-12
+277,USED,2023,FORD,MAVERICK,XL,45999,Blue,Blue,Front-wheel Drive,8-Speed A/T,189,"Jerri from Scottsdale, AZ 85266",2023-05-12
+278,USED,2023,FORD,MAVERICK,XLT,42999,Charcoal,Navy Pier,All-wheel Drive,Gasoline,542,"360 S. Smith Road Tempe, AZ 85281",2023-05-12
+279,USED,2022,FORD,MAVERICK,XLT,36991,Velocity Blue Metallic,Navy Pier,Front-wheel Drive,Hybrid,5822,"11910 I/35 Frontage Rd San Antonio, TX 78233",2023-05-12
+280,USED,2022,FORD,MAVERICK,XLT,33297,Cactus,Black Onyx,Front-wheel Drive,Gasoline,5746,"9898 S Memorial Dr Tulsa, OK 74133",2023-05-12
+281,USED,2023,FORD,MAVERICK,XL,35494,Iconic Silver,Black Onyx,Front-wheel Drive,Hybrid,100,"2200 West University Drive Prosper, TX 75078",2023-05-12
+282,USED,2022,FORD,MAVERICK,XLT,36950,Blue,Black Onyx,Front-wheel Drive,Hybrid,16681,"18411 Lyndon B Johnson Fwy Mesquite, TX 75150",2023-05-12
+283,USED,2022,FORD,MAVERICK,LARIAT,35995,Gray Metallic,Desert,Front-wheel Drive,Gasoline,25407,"11200 N Fwy Service Rd E Fort Worth, TX 76177",2023-05-12
+284,USED,2022,FORD,MAVERICK,XLT,31995,Carbonized Gray Metallic,Black Onyx,Front-wheel Drive,Gasoline,32006,"2414 N Central Ave Marshfield, WI 54449",2023-05-12
+285,USED,2023,FORD,MAVERICK,XL,38904,Oxford White,Black Onyx,All-wheel Drive,Gasoline,1877,"333 N Butler Rd Pauls Valley, OK 73075",2023-05-12
+286,CERTIFIED,2022,FORD,MAVERICK,LARIAT,38995,ALTO BLUE METALLIC TC,DESERT BROWN TRIM,–,–,22834,"8853 W Fairview Ave Boise, ID 83704",2023-05-12
+287,CERTIFIED,2022,FORD,MAVERICK,XLT,33980,CYBER ORANGE METALLIC TC,NAVY PIER -MED SLATE TRIM,–,–,24262,"950 S. Central Expy. McKinney, TX 75070",2023-05-12
+288,CERTIFIED,2022,FORD,MAVERICK,LARIAT,42497,Cactus Green / Gray,Desert,All-wheel Drive,Gasoline,4193,"801 East Highway 114 Grapevine, TX 76051",2023-05-12
+289,USED,2022,FORD,MAVERICK,XL,27995,White,Black,Front-wheel Drive,Gasoline,2848,"5803 Richmond Ave Houston, TX 77057",2023-05-12
+290,USED,2022,FORD,MAVERICK,XLT,37000,Carbonized Gray Metallic,Navy Pier,Front-wheel Drive,Hybrid,9926,"3201 Yankee Hill Rd Lincoln, NE 68516",2023-05-12
+291,USED,2023,FORD,MAVERICK,LARIAT,44750,Atlas Blue Metallic,Desert,All-wheel Drive,Gasoline,61,"3333 West Plano Parkway Suite 30 Plano, TX 75074",2023-05-12
+292,USED,2022,FORD,MAVERICK,LARIAT,40678,Shadow Black,Desert,All-wheel Drive,Gasoline,7143,"2005 Airport Way S Seattle, WA 98134",2023-05-12
+293,USED,2022,FORD,MAVERICK,XLT,39000,Carbonized Gray Metallic,Navy Pier,All-wheel Drive,Gasoline,6112,"1045 E Chicago St Elgin, IL 60120",2023-05-12
+294,USED,2023,FORD,MAVERICK,XLT,36500,Gray,–,FWD,Gasoline,2021,"18411 Lyndon B Johnson Fwy Mesquite, TX 75150",2023-05-12
+295,USED,2022,FORD,MAVERICK,LARIAT,40500,Hot Pepper Red Tinted Clearcoat,Desert,Front-wheel Drive,Hybrid,10891,"3485 FM 528 Rd Alvin, TX 77511",2023-05-12
+296,USED,2022,FORD,MAVERICK,XL,29995,Velocity Blue Metallic,Black Onyx,All-wheel Drive,Gasoline,30291,"200 W Huntland Dr Austin, TX 78752",2023-05-12
+297,CERTIFIED,2022,FORD,MAVERICK,XLT,31783,ICONIC SILVER METALLIC,NAVY PIER -MED SLATE TRIM,–,–,19958,"950 S. Central Expy. McKinney, TX 75070",2023-05-12
+298,USED,2022,FORD,MAVERICK,XLT,36250,Cactus Green / Gray,Navy Pier,Front-wheel Drive,Hybrid,12210,"4601 Colonel Glenn Plaza Dr Little Rock, AR 72210",2023-05-12
+299,USED,2023,FORD,MAVERICK,LARIAT,44997,Gray,Brown,All-wheel Drive,Gasoline,1299,"7576 US-51 Minocqua, WI 54548",2023-05-12
+300,USED,2022,FORD,MAVERICK,LARIAT,44336,Red Metallic,Desert,All-wheel Drive,Gasoline,5213,"123 Airport Rd Ames, IA 50010",2023-05-12
+301,CERTIFIED,2022,FORD,MAVERICK,XLT,35199,Area 51,Navy Pier,All-wheel Drive,Gasoline,9487,"4900 US-52 Rochester, MN 55901",2023-05-12
+302,USED,2023,FORD,MAVERICK,XLT,40047,–,–,All-wheel Drive,Gasoline,1413,"1500 E College St Lake Charles, LA 70607",2023-05-12
+303,USED,2022,FORD,MAVERICK,XL,33985,Cactus Green / Gray,Black Onyx,All-wheel Drive,Gasoline,18825,"5731 I-49 South Service Rd Opelousas, LA 70570",2023-05-12
+304,USED,2022,FORD,MAVERICK,LARIAT,37900,Cactus Green / Gray,Desert,Front-wheel Drive,Gasoline,10077,"225 W Dwain Willis Ave Vinita, OK 74301",2023-05-12
+305,USED,2022,FORD,MAVERICK,XLT,35905,–,–,FWD,Hybrid,42597,"333 N Butler Rd Pauls Valley, OK 73075",2023-05-12
+306,CERTIFIED,2022,FORD,MAVERICK,XLT,41995,Chili Pepper Red,Navy Pier,All-wheel Drive,Gasoline,5200,"7310 E Kellogg Dr Wichita, KS 67207",2023-05-12
+307,USED,2022,FORD,MAVERICK,LARIAT,40000,Oxford White,Desert,All-wheel Drive,Gasoline,20304,"2900 Burlington St North Kansas City, MO 64116",2023-05-12
+308,USED,2022,FORD,MAVERICK,XLT,34999,Shadow Black,Black Onyx,All-wheel Drive,Gasoline,6215,"1500 E State Hwy 114 Grapevine, TX 76051",2023-05-12
+309,CERTIFIED,2022,FORD,MAVERICK,XLT,35800,OXFORD WHITE,NAVY PIER -MED SLATE TRIM,–,–,5460,"203 W Main St Stigler, OK 74462",2023-05-12
+310,USED,2022,FORD,MAVERICK,XLT,36601,Blue,Navy Pier/Medium Slate,Front-wheel Drive,Gasoline,16171,"7780 S. Autoplex Loop Tempe, AZ 85284",2023-05-12
+311,USED,2022,FORD,MAVERICK,XLT,37999,Blue,Gray,Front-wheel Drive,Hybrid,11454,"4701 Auto Center Blvd Bremerton, WA 98312",2023-05-12
+312,USED,2023,FORD,MAVERICK,LARIAT,43844,Atlas Blue Metallic,Desert,All-wheel Drive,Gasoline,1195,"933 Auto Show Dr Henderson, NV 89014",2023-05-12
+313,USED,2022,FORD,MAVERICK,XLT,33491,Area 51,Navy Pier,All-wheel Drive,Gasoline,18346,"6139 Bandera Rd San Antonio, TX 78238",2023-05-12
+314,USED,2022,FORD,MAVERICK,LARIAT,39988,White,Brown,All-wheel Drive,Gasoline,1222,"2747 Via Campo Montebello, CA 90640",2023-05-12
+315,USED,2022,FORD,MAVERICK,XLT,38661,Cactus Green / Gray,Black Onyx,All-wheel Drive,Gasoline,1439,"1920 Pacific Blvd SW Albany, OR 97321",2023-05-12
+316,CERTIFIED,2022,FORD,MAVERICK,XL,35988,Area 51,–,All-wheel Drive,Gasoline,9130,"555 N Main St Manteca, CA 95336",2023-05-12
+317,USED,2023,FORD,MAVERICK,XLT,39999,Carbonized Gray Metallic,Navy Pier,All-wheel Drive,Gasoline,0,"711 E Wishkah St Aberdeen, WA 98520",2023-05-12
+318,USED,2023,FORD,MAVERICK,XLT,35998,Blue,Gray,Front-wheel Drive,Gasoline,627,"19010 E Valley View Pkwy Independence, MO 64055",2023-05-12
+319,USED,2023,FORD,MAVERICK,XL,36998,Blue,Black,Front-wheel Drive,Hybrid,70,"45210 Towlern Pl Sterling, VA 20165",2023-05-12
+320,USED,2022,FORD,MAVERICK,XLT,33500,Oxford White,Navy Pier,Front-wheel Drive,Hybrid,28079,"2818 N Columbia St Milledgeville, GA 31061",2023-05-12
+321,USED,2022,FORD,MAVERICK,LARIAT,39696,Shadow Black,Desert,All-wheel Drive,Gasoline,26,"96 Radio Dr Lexington, NC 27292",2023-05-12
+322,USED,2023,FORD,MAVERICK,XL,35999,Gray,Gray,Front-wheel Drive,Hybrid,843,"2620 Nova Dr Dallas, TX 75229",2023-05-12
+323,USED,2022,FORD,MAVERICK,XLT,30600,Blue,Navy Pier,All-wheel Drive,Gasoline,7526,"1349 N Beck Rd Post Falls, ID 83854",2023-05-12
+324,USED,2022,FORD,MAVERICK,XLT,35995,Carbonized Gray,Navy Pier,Front-wheel Drive,Hybrid,4524,"40333 Van Dyke Sterling Heights, MI 48313",2023-05-12
+325,CERTIFIED,2022,FORD,MAVERICK,XLT,43950,VELOCITY BLUE METALLIC,NAVY PIER -MED SLATE TRIM,–,–,12884,"78990 Varner Rd Indio, CA 92203",2023-05-12
+326,USED,2023,FORD,MAVERICK,XL,40690,Atlas Blue Metallic,Black Onyx,All-wheel Drive,Gasoline,59,"15445 Roscoe Blvd North Hills, CA 91343",2023-05-12
+327,USED,2023,FORD,MAVERICK,LARIAT,44777,Silver,Desert,Front-wheel Drive,Hybrid,106,"4555 Mission Bay Dr San Diego, CA 92109",2023-05-12
+328,USED,2022,FORD,MAVERICK,XLT,37495,Cactus,Navy Pier,Front-wheel Drive,Hybrid,2790,"16416 Valley Blvd Fontana, CA 92335",2023-05-12
+329,USED,2023,FORD,MAVERICK,XLT,41000,Hot Pepper Red Metallic Tinted Clearcoat,Navy Pier,Front-wheel Drive,Hybrid,157,"15445 Roscoe Blvd North Hills, CA 91343",2023-05-12
+330,USED,2023,FORD,MAVERICK,XLT,38981,Cactus Green / Gray,Navy Pier,Front-wheel Drive,Hybrid,1265,"17340 Gale Avenue City of Industry, CA 91748",2023-05-12
+331,CERTIFIED,2022,FORD,MAVERICK,XL,37695,Iconic Silver Metallic,Black Onyx,Front-wheel Drive,Gasoline,6268,"15445 Roscoe Blvd North Hills, CA 91343",2023-05-12
+332,USED,2022,FORD,MAVERICK,XLT,35988,Carbonized Gray Metallic,Navy Pier,Front-wheel Drive,Gasoline,3461,"2747 Via Campo Montebello, CA 90640",2023-05-12
+333,USED,2023,FORD,MAVERICK,XLT,34500,White,Gray,Front-wheel Drive,A/T,500,"Vince from Glendale, CA 91203",2023-05-12
+334,USED,2022,FORD,MAVERICK,XLT,36998,Gray,Gray,All-wheel Drive,Gasoline,792,"9501 Research Dr Irvine, CA 92618",2023-05-12
+335,USED,2023,FORD,MAVERICK,XL,34500,Blue,Gray,Front-wheel Drive,8-Speed A/T,390,"Craig from Santa Clarita, CA 91350",2023-05-12
+336,USED,2023,FORD,MAVERICK,XLT,38741,Shadow Black,Black Onyx,Front-wheel Drive,Hybrid,3436,"17340 Gale Avenue City of Industry, CA 91748",2023-05-12
+337,USED,2022,FORD,MAVERICK,XL,31998,Black,Black,Front-wheel Drive,Hybrid,13102,"405 W. Technology Dr Palmdale, CA 93551",2023-05-12
+338,USED,2022,FORD,MAVERICK,XLT,34798,Hot Pepper Red Tinted Clearcoat,Navy Pier,Front-wheel Drive,Gasoline,7065,"10477 Central Ave. Montclair, CA 91763",2023-05-12
+339,USED,2023,FORD,MAVERICK,LARIAT,46988,White,–,Front-wheel Drive,Hybrid,60,"555 N Main St Manteca, CA 95336",2023-05-12
+340,CERTIFIED,2022,FORD,MAVERICK,XLT,39975,OXFORD WHITE,NAVY PIER -MED SLATE TRIM,–,–,15909,"78990 Varner Rd Indio, CA 92203",2023-05-12
+341,CERTIFIED,2022,FORD,MAVERICK,XLT,35632,ALTO BLUE METALLIC TC,NAVY PIER -MED SLATE TRIM,–,–,27427,"5555 Paseo del Norte Carlsbad, CA 92008",2023-05-12
+342,CERTIFIED,2022,FORD,MAVERICK,XLT,34250,CACTUS GREY,NAVY PIER -MED SLATE TRIM,–,–,18494,"6211 Beach Blvd Buena Park, CA 90621",2023-05-12
+343,USED,2022,FORD,MAVERICK,LARIAT,42990,Green,Desert,All-wheel Drive,Gasoline,12015,"846 Goodpasture Island Rd Eugene, OR 97401",2023-05-12
+344,USED,2022,FORD,MAVERICK,XL,34400,Velocity Blue Metallic,Black Onyx,Front-wheel Drive,Hybrid,7165,"3705 W Wall St Midland, TX 79703",2023-05-12
+345,USED,2022,FORD,MAVERICK,XL,32998,Blue,Gray,FWD,Gasoline,1331,"5500 Alameda Blvd Albuquerque, NM 87113",2023-05-12
+346,USED,2022,FORD,MAVERICK,XLT,27999,Charcoal,Black Onyx,All-wheel Drive,Gasoline,4575,"2865 State St Salt Lake City, UT 84115",2023-05-12
+347,USED,2023,FORD,MAVERICK,XL,32495,Shadow Black,Black Onyx,Front-wheel Drive,Gasoline,9859,"8805 N I H 35 Austin, TX 78753",2023-05-12
+348,CERTIFIED,2022,FORD,MAVERICK,LARIAT,39580,Carbonized Grey Metallic,Desert Brown,All-wheel Drive,Gasoline,16799,"8209 NW Quanah Parker Trailway Lawton, OK 73505",2023-05-12
+349,USED,2022,FORD,MAVERICK,LARIAT,41995,Blue,Desert,Front-wheel Drive,Hybrid,4328,"933 Auto Show Dr Henderson, NV 89014",2023-05-12
+350,USED,2022,FORD,MAVERICK,LARIAT,38590,Gray,Desert,All-wheel Drive,Gasoline,24313,"5200 S Broadway Englewood, CO 80113",2023-05-12
+351,USED,2022,FORD,MAVERICK,XLT,31999,Gray,Black,All-wheel Drive,Gasoline,4029,"2021 N Redwood Rd Salt Lake City, UT 84116",2023-05-12
+352,USED,2022,FORD,MAVERICK,XLT,35232,Cactus Green / Gray,Navy Pier,Front-wheel Drive,Hybrid,11118,"2375 S 625 W Woods Cross, UT 84010",2023-05-12
+353,USED,2022,FORD,MAVERICK,XLT,37995,Area 51,Navy Pier,Front-wheel Drive,Gasoline,2160,"1301 US 49 Paragould, AR 72450",2023-05-12
+354,USED,2022,FORD,MAVERICK,XL,25500,Gray,Black Onyx,All-wheel Drive,Gasoline,25095,"986 N State St. Orem, UT 84057",2023-05-12
+355,USED,2022,FORD,MAVERICK,XLT,34494,Black,–,All-wheel Drive,Gasoline,15744,"1050 N Woodruff Ave Idaho Falls, ID 83401",2023-05-12
+356,USED,2022,FORD,MAVERICK,XLT,42000,GRAY,Navy Pier/Medium Slate,Front-wheel Drive,Gasoline,19467,"219 Woodgate Drive South Brandon, MS 39042",2023-05-12
+357,USED,2022,FORD,MAVERICK,XLT,36995,Cactus Grey,Navy Pier/Medium Slate,All-wheel Drive,Gasoline,5565,"4173 Ogden Ave Aurora, IL 60504",2023-05-12
+358,USED,2023,FORD,MAVERICK,LARIAT,39994,Carbonized Gray Metallic,Desert,Front-wheel Drive,Hybrid,2323,"11711 Katy Fwy Houston, TX 77079",2023-05-12
+359,USED,2023,FORD,MAVERICK,XL,33950,Oxford White,Black Onyx,Front-wheel Drive,Gasoline,160,"2285 Diamond Blvd Concord, CA 94520",2023-05-12
+360,USED,2022,FORD,MAVERICK,XL,34000,Velocity Blue Metallic,Black Onyx/Medium Dark Slate,Front-wheel Drive,Gasoline,1112,"57909 Twentynine Palms Highway Yucca Valley, CA 92284",2023-05-12
+361,USED,2023,FORD,MAVERICK,XLT,37999,Alto Blue Metallic Tinted Clearcoat,Navy Pier,Front-wheel Drive,Gasoline,45,"711 E Wishkah St Aberdeen, WA 98520",2023-05-12
+362,USED,2023,FORD,MAVERICK,XLT,38991,Shadow Black,Navy Pier,Front-wheel Drive,Hybrid,5811,"23920 Creekside Rd Santa Clarita, CA 91355",2023-05-12
+363,USED,2022,FORD,MAVERICK,XLT,36990,Oxford White,Navy Pier,All-wheel Drive,Gasoline,1747,"334565 E. Highway 66 Wellston, OK 74881",2023-05-12
+364,USED,2022,FORD,MAVERICK,LARIAT,39777,Oxford White,Desert,Front-wheel Drive,Hybrid,3732,"10477 Central Ave. Montclair, CA 91763",2023-05-12
+365,USED,2022,FORD,MAVERICK,XL,32295,Velocity Blue Metallic,Black Onyx,All-wheel Drive,Gasoline,38260,"1350 S Woodruff Way Ontario, CA 91761",2023-05-12
+366,USED,2022,FORD,MAVERICK,XL,27888,Cactus,–,Front-wheel Drive,Gasoline,65630,"1201 N Shepherd Dr Houston, TX 77008",2023-05-12
+367,USED,2023,FORD,MAVERICK,XLT,42000,Area 51,Navy Pier,Front-wheel Drive,Hybrid,67,"15445 Roscoe Blvd North Hills, CA 91343",2023-05-12
+368,USED,2023,FORD,MAVERICK,XLT,38998,Gray,Gray,FWD,Hybrid,820,"1300 E I-2 Pharr, TX 78577",2023-05-12
+369,USED,2023,FORD,MAVERICK,LARIAT,39998,Gray,Brown,AWD,Gasoline,560,"25560 Madison Ave Murrieta, CA 92562",2023-05-12
+370,USED,2023,FORD,MAVERICK,LARIAT,45791,Gray,Black Onyx,All-wheel Drive,Gasoline,1523,"1983 Hamner Avenue Norco, CA 92860",2023-05-12
+371,USED,2022,FORD,MAVERICK,XLT,36010,Cactus Green / Gray,Black Onyx,All-wheel Drive,Gasoline,11177,"5550 N Desert Blvd El Paso, TX 79912",2023-05-12
+372,USED,2022,FORD,MAVERICK,XLT,32988,Shadow Black,Navy Pier,All-wheel Drive,Gasoline,722,"7740 Eastgate Rd Henderson, NV 89011",2023-05-12
+373,USED,2023,FORD,MAVERICK,XLT,38998,Gray,Gray,Front-wheel Drive,Hybrid,10155,"3200 Harbor Blvd Costa Mesa, CA 92626",2023-05-12
+374,USED,2022,FORD,MAVERICK,XL,32995,Velocity Blue Metallic,Black Onyx,Front-wheel Drive,Hybrid,25707,"1301 US 49 Paragould, AR 72450",2023-05-12
+375,USED,2023,FORD,MAVERICK,LARIAT,46988,Blue,–,Front-wheel Drive,Hybrid,40,"555 N Main St Manteca, CA 95336",2023-05-12
+376,USED,2023,FORD,MAVERICK,XLT,39233,Gray,–,Front-wheel Drive,Hybrid,13,"12755 Folsom Blvd Folsom, CA 95630",2023-05-12
+377,USED,2022,FORD,MAVERICK,LARIAT,38677,Iconic Silver Metallic,Desert Brown,All-wheel Drive,Gasoline,15565,"2802 Lorch Ave Eau Claire, WI 54701",2023-05-12
+378,USED,2022,FORD,MAVERICK,XL,35929,Gray,–,All-wheel Drive,Gasoline,3680,"9090 E Adamo Dr Tampa, FL 33619",2023-05-12
+379,USED,2023,FORD,MAVERICK,XLT,32543,Shadow Black,Black Onyx,Front-wheel Drive,Gasoline,65,"2522 N Dale Mabry Hwy Tampa, FL 33607",2023-05-12
+380,USED,2023,FORD,MAVERICK,XL,34000,Atlas Blue Metallic,Black Onyx,Front-wheel Drive,Gasoline,113,"21350 Woodward Ave Ferndale, MI 48220",2023-05-12
+381,CERTIFIED,2022,FORD,MAVERICK,XL,32596,Shadow Black,Black Onyx,Front-wheel Drive,Gasoline,73,"2713 E. Main St. Plainfield, IN 46168",2023-05-12
+382,USED,2022,FORD,MAVERICK,XL,23950,White,Gray,All-wheel Drive,Gasoline,8392,"5700 NW 27th Ave Miami, FL 33142",2023-05-12
+383,USED,2022,FORD,MAVERICK,XLT,31998,Green,Gray,All-wheel Drive,Gasoline,51164,"7771 Highway #64 Memphis, TN 38133",2023-05-12
+384,USED,2022,FORD,MAVERICK,LARIAT,45000,Oxford White,Desert,All-wheel Drive,Gasoline,3663,"1045 E Chicago St Elgin, IL 60120",2023-05-12
+385,USED,2022,FORD,MAVERICK,XLT,35947,Area 51,Navy Pier/Medium Slate,All-wheel Drive,Gasoline,17971,"1501 W Pine St Hattiesburg, MS 39401",2023-05-12
+386,USED,2022,FORD,MAVERICK,XL,35990,Oxford White,Black Onyx,All-wheel Drive,Gasoline,9351,"3950 W Hwy 77 Oracle, AZ 85623",2023-05-12
+387,USED,2022,FORD,MAVERICK,XL,30995,White,–,Front-wheel Drive,Hybrid,64417,"1301 US 49 Paragould, AR 72450",2023-05-12
+388,USED,2022,FORD,MAVERICK,XLT,33490,White,Navy Pier,All-wheel Drive,Gasoline,34780,"135 Belmont St Easton, MA 02375",2023-05-12
+389,USED,2023,FORD,MAVERICK,XLT,41500,Shadow Black,Navy Pier,All-wheel Drive,Gasoline,117,"707 S Washington Blvd Sarasota, FL 34236",2023-05-12
+390,USED,2023,FORD,MAVERICK,XL,31910,Oxford White,Black Onyx/Medium Dark Slate,All-wheel Drive,Gasoline,5,"151 Portsmouth Ave Exeter, NH 03833",2023-05-12
+391,USED,2022,FORD,MAVERICK,XL,31998,Black,Black,Front-wheel Drive,Gasoline,11670,"7420 State Road 84 Davie, FL 33317",2023-05-12
+392,USED,2022,FORD,MAVERICK,XLT,29999,Blue,Navy Pier,All-wheel Drive,Gasoline,59745,"114 Charlestown Road Claremont, NH 03743",2023-05-12
+393,USED,2023,FORD,MAVERICK,XL,31910,Oxford White,Black Onyx/Medium Dark Slate,All-wheel Drive,Gasoline,8,"151 Portsmouth Ave Exeter, NH 03833",2023-05-12
+394,USED,2022,FORD,MAVERICK,XLT,29999,Oxford White,Navy Pier,Front-wheel Drive,Gasoline,16721,"1220 N Military Trl West Palm Beach, FL 33409",2023-05-12
+395,USED,2022,FORD,MAVERICK,XLT,36825,Shadow Black,Navy Pier,Front-wheel Drive,Hybrid,3766,"183 S. County Rd. 525 E. Avon, IN 46123",2023-05-12
+396,USED,2022,FORD,MAVERICK,XL,30962,Shadow Black,Black Onyx,Front-wheel Drive,Hybrid,624,"720 S Deerfield Rd Pontiac, IL 61764",2023-05-12
+397,USED,2022,FORD,MAVERICK,XLT,39346,Blue,Navy Pier,All-wheel Drive,Gasoline,13555,"1497 N State Route 50 Bourbannais, IL 60914",2023-05-12
+398,USED,2022,FORD,MAVERICK,LARIAT,39000,Gray,Desert,All-wheel Drive,Gasoline,20400,"1497 N State Route 50 Bourbannais, IL 60914",2023-05-12
+399,USED,2022,FORD,MAVERICK,LARIAT,41999,Oxford White,Desert,All-wheel Drive,Gasoline,7721,"14633 Cicero Ave Midlothian, IL 60445",2023-05-12
+400,USED,2022,FORD,MAVERICK,XL,34977,Area 51,Black Onyx,All-wheel Drive,Gasoline,3063,"2500 North Ave. Melrose Park, IL 60160",2023-05-12
+401,USED,2022,FORD,MAVERICK,XL,33700,Blue,Black,All-wheel Drive,Gasoline,6997,"818 US-64 Business Conway, AR 72032",2023-05-12
+402,USED,2022,FORD,MAVERICK,XLT,35980,Cactus Green / Gray,Navy Pier,All-wheel Drive,Gasoline,37303,"405 Industrial Dr Minden, LA 71055",2023-05-12
+403,USED,2022,FORD,MAVERICK,XLT,37991,Blue,Navy Pier,All-wheel Drive,Gasoline,8475,"489 IL-2, Dixon Dixon, IL 61021",2023-05-12
+404,USED,2022,FORD,MAVERICK,XL,35600,Green,–,All-wheel Drive,Gasoline,11001,"756 W Ervin Rd Van Wert, OH 45891",2023-05-12
+405,USED,2022,FORD,MAVERICK,XLT,36395,Shadow Black,Navy Pier/Medium Slate,All-wheel Drive,Gasoline,21886,"151 Portsmouth Ave Exeter, NH 03833",2023-05-12
+406,USED,2022,FORD,MAVERICK,LARIAT,41995,Cactus,Desert,All-wheel Drive,Gasoline,6339,"5656 Northwest Hwy Crystal Lake, IL 60014",2023-05-12
+407,USED,2023,FORD,MAVERICK,XLT,38899,Cyber Orange Metallic Tricoat,Black Onyx,All-wheel Drive,Gasoline,500,"5815 N Dale Mabry Hwy Tampa, FL 33614",2023-05-12
+408,USED,2022,FORD,MAVERICK,XLT,36277,Cactus,Navy Pier,All-wheel Drive,Gasoline,29,"27758 US Hwy 19 N Clearwater, FL 33763",2023-05-12
+409,USED,2022,FORD,MAVERICK,XL,31999,Oxford White,Black Onyx,Front-wheel Drive,Hybrid,10786,"6975 Highland Road Waterford, MI 48327",2023-05-12
+410,USED,2023,FORD,MAVERICK,XLT,35990,–,–,FWD,Hybrid,951,"5041 Ford Pkwy Bessemer, AL 35022",2023-05-12
+411,CERTIFIED,2022,FORD,MAVERICK,XLT,38095,Blue,Navy Pier,All-wheel Drive,Gasoline,9801,"2727 E Us Highway 14 Janesville, WI 53545",2023-05-12
+412,USED,2022,FORD,MAVERICK,XLT,38998,Blue,Gray,FWD,Hybrid,24832,"597 Beasley Rd Jackson, MS 39206",2023-05-12
+413,USED,2023,FORD,MAVERICK,LARIAT,52000,Oxford White,Black Onyx,All-wheel Drive,Gasoline,55,"1045 E Chicago St Elgin, IL 60120",2023-05-12
+414,USED,2023,FORD,MAVERICK,LARIAT,40084,White,–,All-wheel Drive,Gasoline,2689,"851 S Main St LaBelle, FL 33935",2023-05-12
+415,USED,2023,FORD,MAVERICK,XLT,40000,Shadow Black,Navy Pier,All-wheel Drive,Gasoline,790,"1635 S Interstate 35e Carrollton, TX 75006",2023-05-12
+416,USED,2022,FORD,MAVERICK,XLT,36395,Blue,Navy Pier,Front-wheel Drive,Hybrid,13225,"1045 E Chicago St Elgin, IL 60120",2023-05-12
+417,USED,2022,FORD,MAVERICK,XLT,35998,Gray Metallic,Navy Pier,All-wheel Drive,Gasoline,1839,"1671 Toll Gate Dr Maumee, OH 43537",2023-05-12
+418,CERTIFIED,2022,FORD,MAVERICK,XLT,33883,Area 51,Navy Pier,All-wheel Drive,Gasoline,12426,"5815 N Dale Mabry Hwy Tampa, FL 33614",2023-05-12
+419,USED,2022,FORD,MAVERICK,LARIAT,40408,Blue Metallic,Desert,All-wheel Drive,Gasoline,18099,"14 Sergeant Prentiss Dr Natchez, MS 39120",2023-05-12
+420,USED,2022,FORD,MAVERICK,LARIAT,43995,Oxford White,Desert,All-wheel Drive,Gasoline,255,"2 Joseph Ruva Dr Spring Valley, IL 61362",2023-05-12
+421,CERTIFIED,2022,FORD,MAVERICK,XLT,35734,Velocity Blue Metallic,Navy Pier,All-wheel Drive,Gasoline,20076,"2303 W. Beltline Highway Madison, WI 53713",2023-05-12
+422,USED,2022,FORD,MAVERICK,XLT,37498,Oxford White,Navy Pier,All-wheel Drive,Gasoline,14423,"489 IL-2, Dixon Dixon, IL 61021",2023-05-12
+423,USED,2022,FORD,MAVERICK,XLT,38988,Gray,Navy Pier/Medium Slate,Front-wheel Drive,Gasoline,1735,"14963 State Hwy. 38 Marshfield, MO 65706",2023-05-12
+424,USED,2022,FORD,MAVERICK,XL,31994,Shadow Black,Black Onyx,All-wheel Drive,Gasoline,26979,"2900 Columbus St Ottawa, IL 61350",2023-05-12
+425,USED,2022,FORD,MAVERICK,XLT,35540,Cactus,Navy Pier,All-wheel Drive,Gasoline,31458,"7769 Boulevard 26 North Richland Hills, TX 76180",2023-05-12
+426,USED,2022,FORD,MAVERICK,XLT,35312,Gray,–,All-wheel Drive,Gasoline,15670,"240 W Shawnee St Muskogee, OK 74401",2023-05-12
+427,USED,2022,FORD,MAVERICK,XLT,38995,Hot Pepper Red Tinted Clearcoat,Navy Pier,All-wheel Drive,Gasoline,5349,"24777 Hall Road Macomb, MI 48042",2023-05-12
+428,CERTIFIED,2022,FORD,MAVERICK,XLT,38900,ICONIC SILVER METALLIC,NAVY PIER -MED SLATE TRIM,–,–,169337,"3004 East Avenue, Rt 49 Central Square, NY 13036",2023-05-12
+429,USED,2022,FORD,MAVERICK,LARIAT,40495,Oxford White,Desert,All-wheel Drive,Gasoline,16079,"12425 30 Mile Road Washington Twp, MI 48095",2023-05-12
+430,USED,2022,FORD,MAVERICK,XLT,38990,Gray,Navy Pier/Medium Slate,Front-wheel Drive,Gasoline,1586,"704 South Heaton Street Knox, IN 46534",2023-05-12
+431,USED,2022,FORD,MAVERICK,XL,34999,Velocity Blue Metallic,Black Onyx,All-wheel Drive,Gasoline,6104,"7601 South Tacoma Way Tacoma, WA 98409",2023-05-12
+432,USED,2022,FORD,MAVERICK,XLT,34898,Area 51,Navy Pier,Front-wheel Drive,Hybrid,9025,"51466 State Rte 19 Elkhart, IN 46514",2023-05-12
+433,USED,2023,FORD,MAVERICK,XL,34998,Blue,Black,Front-wheel Drive,Gasoline,553,"3475 S. Germantown Road Memphis, TN 38119",2023-05-12
+434,USED,2022,FORD,MAVERICK,XLT,34991,Shadow Black,Navy Pier,Front-wheel Drive,Gasoline,4046,"1100 E Walnut St Evansville, IN 47714",2023-05-12
+435,USED,2022,FORD,MAVERICK,LARIAT,36995,Orange,Desert,Front-wheel Drive,Gasoline,18880,"40555 Van Dyke Sterling Heights, MI 48313",2023-05-12
+436,USED,2022,FORD,MAVERICK,XLT,36000,Blue,Navy Pier,Front-wheel Drive,Hybrid,33315,"959 W 15th St Panama City, FL 32401",2023-05-12
+437,USED,2023,FORD,MAVERICK,LARIAT,44949,White,–,All-wheel Drive,Gasoline,9,"2903 South Scatterfield Road Anderson, IN 46013",2023-05-12
+438,USED,2023,FORD,MAVERICK,XLT,38445,Area 51,Navy Pier,All-wheel Drive,Gasoline,31,"4200 Illinois Rd Fort Wayne, IN 46804",2023-05-12
+439,USED,2022,FORD,MAVERICK,XLT,36900,Carbonized Gray Metallic,Black Onyx,All-wheel Drive,Gasoline,18399,"9809 Indianapolis Blvd Highland, IN 46322",2023-05-12
+440,USED,2022,FORD,MAVERICK,XLT,36000,Blue,Navy Pier,All-wheel Drive,Gasoline,9815,"2212 Lake Land Blvd Mattoon, IL 61938",2023-05-12
+441,USED,2022,FORD,MAVERICK,LARIAT,41477,Gray,Desert,All-wheel Drive,Gasoline,12707,"154 E Main St Milford, MA 01757",2023-05-12
+442,CERTIFIED,2022,FORD,MAVERICK,XLT,33991,Black,Blue,All-wheel Drive,Gasoline,0,"91 Main St Westbrook, ME 04092",2023-05-12
+443,USED,2022,FORD,MAVERICK,XL,32761,Gray,Black,All-wheel Drive,Gasoline,9099,"59 Bisson Ave Laconia, NH 03246",2023-05-12
+444,CERTIFIED,2022,FORD,MAVERICK,LARIAT,42987,Iconic Silver Metallic,Desert,All-wheel Drive,Gasoline,8788,"98-15 Kamehameha Hwy Aiea, HI 96701",2023-05-12
+445,USED,2022,FORD,MAVERICK,XLT,27945,Blue,Gray,All-wheel Drive,Gasoline,113522,"25W175 Lake St Roselle, IL 60172",2023-05-12
+446,USED,2022,FORD,MAVERICK,XLT,39750,Area 51,Navy Pier,All-wheel Drive,Gasoline,8542,"1815 W. Ogden Ave Downers Grove, IL 60515",2023-05-12
+447,USED,2023,FORD,MAVERICK,XLT,39410,Green,–,All-wheel Drive,Gasoline,485,"2600 Colonial Blvd Fort Myers, FL 33907",2023-05-12
+448,USED,2023,FORD,MAVERICK,XLT,34907,Area 51,Black Onyx,All-wheel Drive,Gasoline,48,"7100 Grand River Road Brighton, MI 48114",2023-05-12
+449,USED,2022,FORD,MAVERICK,XL,36040,Shadow Black,Black Onyx,All-wheel Drive,Gasoline,6083,"1873 E Tipton St Seymour, IN 47274",2023-05-12
+450,USED,2022,FORD,MAVERICK,XLT,39800,Shadow Black,Navy Pier/Medium Slate,All-wheel Drive,Gasoline,21144,"219 Woodgate Drive South Brandon, MS 39042",2023-05-12
+451,USED,2023,FORD,MAVERICK,XLT,35991,Shadow Black,Black Onyx,All-wheel Drive,Gasoline,4435,"6011 Pembroke Rd Hollywood, FL 33023",2023-05-12
+452,USED,2022,FORD,MAVERICK,XL,30995,Oxford White,Black Onyx,Front-wheel Drive,Gasoline,38032,"10730 Hubler Drive Taylorsville, IN 47280",2023-05-12
+453,USED,2023,FORD,MAVERICK,LARIAT,45990,Shadow Black,Desert,All-wheel Drive,Gasoline,24,"2903 South Scatterfield Road Anderson, IN 46013",2023-05-12
+454,USED,2023,FORD,MAVERICK,XLT,35000,Atlas Blue Metallic,Navy Pier,Front-wheel Drive,Hybrid,43,"21350 Woodward Ave Ferndale, MI 48220",2023-05-12
+455,USED,2022,FORD,MAVERICK,LARIAT,36500,Silver,Gray,All-wheel Drive,A/T,3800,"Tyler from Ruskin, FL 33570",2023-05-12
+456,USED,2022,FORD,MAVERICK,XLT,35997,Orange,Navy Pier,All-wheel Drive,Gasoline,937,"7600 W Central Ave Toledo, OH 43617",2023-05-12
+457,USED,2022,FORD,MAVERICK,XL,32991,Area 51,Black Onyx,Front-wheel Drive,Hybrid,1780,"2801 S 11th St Niles, MI 49120",2023-05-12
+458,USED,2022,FORD,MAVERICK,LARIAT,40995,Velocity Blue,Desert,All-wheel Drive,Gasoline,5255,"40333 Van Dyke Sterling Heights, MI 48313",2023-05-12
+459,USED,2022,FORD,MAVERICK,LARIAT,41778,Cactus Green / Gray,Desert,All-wheel Drive,Gasoline,11241,"880 US-31 Greenwood, IN 46143",2023-05-12
+460,USED,2023,FORD,MAVERICK,XLT,37998,White,Blue,AWD,Gasoline,838,"3000 Colonial Blvd Fort Myers, FL 33966",2023-05-12
+461,USED,2023,FORD,MAVERICK,XLT,40875,Oxford White,Navy Pier/Medium Slate,All-wheel Drive,Gasoline,2353,"235 Miracle Strip Pkwy SW Fort Walton Beach, FL 32548",2023-05-12
+462,USED,2022,FORD,MAVERICK,LARIAT,40991,Orange,Desert,All-wheel Drive,Gasoline,3767,"1100 E Walnut St Evansville, IN 47714",2023-05-12
+463,USED,2022,FORD,MAVERICK,XLT,34817,Carbonized Gray Metallic,Navy Pier,Front-wheel Drive,Gasoline,1224,"28450 S. Tamiami Trail Bonita Springs, FL 34134",2023-05-12
+464,USED,2023,FORD,MAVERICK,LARIAT,42900,Red,–,All-wheel Drive,Gasoline,3610,"1003 Hudson River Rd Mechanicville, NY 12118",2023-05-12
+465,USED,2022,FORD,MAVERICK,XL,32998,Gray,Black,Front-wheel Drive,Hybrid,5175,"2550 Roosevelt Blvd Clearwater, FL 33760",2023-05-12
+466,USED,2023,FORD,MAVERICK,XLT,34999,Atlas Blue Metallic,Navy Pier,All-wheel Drive,Gasoline,84,"2966 N Dale Mabry Hwy Tampa, FL 33607",2023-05-12
+467,CERTIFIED,2022,FORD,MAVERICK,XLT,35000,Alto Blue Tinted Clearcoat Metallic,Navy Pier/Medium Slate,All-wheel Drive,Gasoline,3088,"10601 Southern Blvd Royal Palm Beach, FL 33411",2023-05-12
+468,USED,2023,FORD,MAVERICK,XLT,38980,Alto Blue Metallic Tinted Clearcoat,Navy Pier,All-wheel Drive,Gasoline,180,"88 Turnpike Road Westboro, MA 01581",2023-05-12
+469,USED,2023,FORD,MAVERICK,XL,31910,Oxford White,Black Onyx/Medium Dark Slate,All-wheel Drive,Gasoline,10,"151 Portsmouth Ave Exeter, NH 03833",2023-05-12
+470,USED,2022,FORD,MAVERICK,XLT,36342,Velocity Blue Metallic,Navy Pier,All-wheel Drive,Gasoline,19392,"341 VFW Memorial Drive Saint Robert, MO 65584",2023-05-12
+471,CERTIFIED,2022,FORD,MAVERICK,LARIAT,39880,Oxford White,Desert,Front-wheel Drive,Gasoline,9871,"825 North Interstate Drive Norman, OK 73069",2023-05-12
+472,USED,2022,FORD,MAVERICK,XL,34990,–,Black Onyx/Medium Dark Slate,Front-wheel Drive,Gasoline,13717,"2501 US-81 Chickasha, OK 73018",2023-05-12
+473,USED,2023,FORD,MAVERICK,XL,34989,Silver Gray,Gray,Front-wheel Drive,Gasoline,146,"6850 TX-121 Frisco, TX 75034",2023-05-12
+474,USED,2022,FORD,MAVERICK,LARIAT,40654,Orange,Desert,All-wheel Drive,Gasoline,5377,"464037 East State Rd. Ste 200 Yulee, FL 32097",2023-05-12
+475,CERTIFIED,2022,FORD,MAVERICK,XL,32975,CARBONIZED GREY METALLIC,BLACK ONYX-MED DK SLATE TRI,–,–,8914,"100 Harper Dr Belle Vernon, PA 15012",2023-05-12
+476,USED,2023,FORD,MAVERICK,LARIAT,51825,Cactus Green / Gray,Black Onyx,All-wheel Drive,Gasoline,129,"2030 GA-40 Kingsland, GA 31548",2023-05-12
+477,CERTIFIED,2022,FORD,MAVERICK,XLT,43582,Cactus,Navy Pier,All-wheel Drive,Gasoline,3881,"2030 GA-40 Kingsland, GA 31548",2023-05-12
+478,USED,2022,FORD,MAVERICK,XL,29995,Blue,Gray,Front-wheel Drive,Gasoline,1090,"101 Main St Johnstown, PA 15901",2023-05-12
+479,USED,2022,FORD,MAVERICK,XL,32588,Gray,Black Onyx,All-wheel Drive,Gasoline,11528,"1088 Ocean Ave Lakewood, NJ 08701",2023-05-12
+480,USED,2022,FORD,MAVERICK,LARIAT,38995,Black,Desert,Front-wheel Drive,Hybrid,22765,"607 Highway 33 Hamilton, NJ 08619",2023-05-12
+481,USED,2022,FORD,MAVERICK,XL,33968,Blue,Black Onyx,All-wheel Drive,Gasoline,7133,"1633 Golden Isles Pkwy Baxley, GA 31513",2023-05-12
+482,USED,2022,FORD,MAVERICK,XLT,34991,Area 51,Navy Pier,Front-wheel Drive,Gasoline,77,"40 US Rte 130 Burlington, NJ 08016",2023-05-12
+483,USED,2022,FORD,MAVERICK,XLT,38993,Blue,Navy Pier,Front-wheel Drive,Hybrid,20389,"1030 Schaeffer Road Lebanon, PA 17042",2023-05-12
+484,USED,2022,FORD,MAVERICK,XLT,34995,Blue,Black Onyx,Front-wheel Drive,Hybrid,23387,"11317 U.S. 30 Irwin, PA 15642",2023-05-12
+485,USED,2022,FORD,MAVERICK,XLT,33399,Orange,Gray,All-wheel Drive,Gasoline,32584,"1971 Burlington-Mount Holly Rd Mount Holly, NJ 08060",2023-05-12
+486,USED,2022,FORD,MAVERICK,XLT,30670,Red Metallic,Black Onyx,Front-wheel Drive,Gasoline,22283,"2008 Paxton St Harrisburg, PA 17111",2023-05-12
+487,USED,2022,FORD,MAVERICK,XLT,35706,Shadow Black,Navy Pier,All-wheel Drive,Gasoline,18431,"6115 Carlisle Pike Mechanicsburg, PA 17050",2023-05-12
+488,USED,2022,FORD,MAVERICK,XLT,35545,Gray,Navy Pier,Front-wheel Drive,Hybrid,11554,"6115 Carlisle Pike Mechanicsburg, PA 17050",2023-05-12
+489,USED,2022,FORD,MAVERICK,XLT,35598,Gray,Black Onyx,All-wheel Drive,Gasoline,9593,"121 Altama Connector Brunswick, GA 31525",2023-05-12
+490,USED,2023,FORD,MAVERICK,XLT,38495,Gray,Navy Pier,Front-wheel Drive,Hybrid,34,"730 S Broad Street Lititz, PA 17543",2023-05-12
+491,USED,2023,FORD,MAVERICK,XL,35332,Area 51,Black Onyx,Front-wheel Drive,Hybrid,176,"730 S Broad Street Lititz, PA 17543",2023-05-12
+492,USED,2023,FORD,MAVERICK,XLT,39995,Atlas Blue Metallic,Navy Pier,All-wheel Drive,Gasoline,2323,"730 S Broad Street Lititz, PA 17543",2023-05-12
+493,USED,2023,FORD,MAVERICK,XLT,38574,Hot Pepper Red Metallic Tinted Clearcoat,Navy Pier,Front-wheel Drive,Hybrid,328,"730 S Broad Street Lititz, PA 17543",2023-05-12
+494,CERTIFIED,2022,FORD,MAVERICK,XL,32509,Blue,Black Onyx,Front-wheel Drive,Gasoline,3783,"508 W Main St New Holland, PA 17557",2023-05-12
+495,USED,2022,FORD,MAVERICK,XLT,34500,Area 51,Navy Pier,Front-wheel Drive,Hybrid,4757,"2231 White Hall Blvd White Hall, WV 26554",2023-05-12
+496,USED,2022,FORD,MAVERICK,XL,30998,Velocity Blue,Black Onyx,All-wheel Drive,Gasoline,27261,"3072 N Reading Rd Adamstown, PA 19501",2023-05-12
+497,USED,2022,FORD,MAVERICK,XLT,37695,Carbonized Gray Metallic,Navy Pier,All-wheel Drive,Gasoline,5843,"4525 Nelson Brogdon Blvd Buford, GA 30518",2023-05-12
+498,USED,2022,FORD,MAVERICK,XLT,35998,Black,Gray,All-wheel Drive,Gasoline,38107,"11225 Parkside Dr Knoxville, TN 37934",2023-05-12
+499,USED,2022,FORD,MAVERICK,XL,30895,Oxford White,Black Onyx,All-wheel Drive,Gasoline,18625,"988 South Saint Marys Street Saint Marys, PA 15857",2023-05-12
+500,USED,2022,FORD,MAVERICK,XL,34000,Gray,Desert,All-wheel Drive,Gasoline,12291,"60 Route 304 Nanuet, NY 10954",2023-05-12
+501,USED,2022,FORD,MAVERICK,XLT,34988,Cactus Green / Gray,Navy Pier,Front-wheel Drive,Gasoline,304,"900 Central Park Avenue Yonkers, NY 10704",2023-05-12
+502,USED,2023,FORD,MAVERICK,XL,35998,Gray,Black,Front-wheel Drive,Hybrid,2545,"1977 Thornton Rd Lithia Springs, GA 30122",2023-05-12
+503,USED,2022,FORD,MAVERICK,LARIAT,36990,Shadow Black,Desert,Front-wheel Drive,Gasoline,15447,"4310 Jonesboro Rd Union City, GA 30291",2023-05-12
+504,USED,2022,FORD,MAVERICK,XL,33998,Blue,Black,All-wheel Drive,Gasoline,13220,"1750 New Jersey 23 Wayne, NJ 07470",2023-05-12
+505,CERTIFIED,2022,FORD,MAVERICK,XLT,35500,CARBONIZED GREY METALLIC,NAVY PIER -MED SLATE TRIM,–,–,8511,"195 Woodstock Pkwy Woodstock, GA 30188",2023-05-12
+506,USED,2022,FORD,MAVERICK,XL,33463,Black,–,FWD,Hybrid,8615,"540 Outlet Mall Blvd St Augustine, FL 32084",2023-05-12
+507,USED,2023,FORD,MAVERICK,XLT,36522,Alto Blue Metallic Tinted Clearcoat,Navy Pier,Front-wheel Drive,Gasoline,392,"540 Outlet Mall Blvd St Augustine, FL 32084",2023-05-12
+508,CERTIFIED,2022,FORD,MAVERICK,LARIAT,39992,Velocity Blue Metallic,Desert,All-wheel Drive,Gasoline,11271,"540 Outlet Mall Blvd St Augustine, FL 32084",2023-05-12
+509,USED,2023,FORD,MAVERICK,XL,36991,Cactus Green / Gray,Black Onyx,All-wheel Drive,Gasoline,1902,"540 Outlet Mall Blvd St Augustine, FL 32084",2023-05-12
+510,CERTIFIED,2022,FORD,MAVERICK,XLT,34622,Area 51,Navy Pier,Front-wheel Drive,Gasoline,7899,"540 Outlet Mall Blvd St Augustine, FL 32084",2023-05-12
+511,USED,2022,FORD,MAVERICK,XL,31788,Blue,Black Onyx,All-wheel Drive,Gasoline,2311,"7555 Roswell Road Atlanta, GA 30350",2023-05-12
+512,USED,2022,FORD,MAVERICK,XLT,35468,Black,–,Front-wheel Drive,Gasoline,10112,"395 West Hwy 192 W London, KY 40741",2023-05-12
+513,CERTIFIED,2022,FORD,MAVERICK,XL,30950,Silver,–,Front-wheel Drive,Gasoline,11493,"230 GA-49 Byron, GA 31008",2023-05-12
+514,USED,2022,FORD,MAVERICK,XLT,35914,Oxford White,Navy Pier,Front-wheel Drive,Gasoline,21392,"288 Harold G Clarke Pkwy Forsyth, GA 31029",2023-05-12
+515,USED,2022,FORD,MAVERICK,LARIAT,34999,Area 51,–,AWD,Gasoline,10667,"1212 Main Street Burgettstown, PA 15021",2023-05-12
+516,USED,2022,FORD,MAVERICK,XLT,39855,Blue,Navy Pier,Front-wheel Drive,Hybrid,4998,"1916 Jacksboro Pike LaFollette, TN 37766",2023-05-12
+517,USED,2022,FORD,MAVERICK,XLT,37900,Oxford White,Navy Pier,All-wheel Drive,Gasoline,11995,"2265 Old Turnpike Rd Lewisburg, PA 17837",2023-05-12
+518,USED,2023,FORD,MAVERICK,XL,35998,Shadow Black,Black,Front-wheel Drive,Hybrid,170,"820 US Highway 1 Woodbridge, NJ 07095",2023-05-12
+519,USED,2023,FORD,MAVERICK,XLT,39998,Blue,Gray,Front-wheel Drive,Hybrid,93,"11335 Atlantic Blvd Jacksonville, FL 32225",2023-05-12
+520,USED,2023,FORD,MAVERICK,XLT,34500,Carbonized Gray Metallic,Navy Pier/Medium Slate,Front-wheel Drive,Gasoline,1684,"700 N US Route 15 Dillsburg, PA 17019",2023-05-12
+521,USED,2022,FORD,MAVERICK,XL,33988,Oxford White,Black Onyx,All-wheel Drive,Gasoline,4088,"695 Bullsboro Dr Newnan, GA 30265",2023-05-12
+522,USED,2022,FORD,MAVERICK,XLT,33500,Oxford White,Navy Pier/Medium Slate,All-wheel Drive,Gasoline,14947,"700 N US Route 15 Dillsburg, PA 17019",2023-05-12
+523,USED,2022,FORD,MAVERICK,LARIAT,,Carbonized Grey Metallic,Desert Brown,Front-wheel Drive,Gasoline,7518,"700 N US Route 15 Dillsburg, PA 17019",2023-05-12
+524,USED,2023,FORD,MAVERICK,XLT,28810,Area 51,Navy Pier,FWD,Gasoline,9,"6727 Loisdale Rd Springfield, VA 22150",2023-05-12
+525,USED,2022,FORD,MAVERICK,XL,29742,Oxford White,Black Onyx,Front-wheel Drive,Gasoline,170,"6727 Loisdale Rd Springfield, VA 22150",2023-05-12
+526,USED,2022,FORD,MAVERICK,XL,29743,Oxford White,Black Onyx,Front-wheel Drive,Gasoline,162,"6727 Loisdale Rd Springfield, VA 22150",2023-05-12
+527,USED,2022,FORD,MAVERICK,XL,29988,Oxford White,Black Onyx,Front-wheel Drive,Gasoline,153,"6727 Loisdale Rd Springfield, VA 22150",2023-05-12
+528,USED,2022,FORD,MAVERICK,XLT,38250,Area 51,–,All-wheel Drive,Gasoline,1703,"101 Malcolm Blvd. Valdese, NC 28690",2023-05-12
+529,USED,2022,FORD,MAVERICK,LARIAT,37173,Carbonized Gray Metallic,Desert,Front-wheel Drive,Hybrid,45210,"7434 Richmond Hwy Alexandria, VA 22306",2023-05-12
+530,USED,2022,FORD,MAVERICK,XL,29995,Oxford White,Black Onyx,Front-wheel Drive,Gasoline,180,"7434 Richmond Hwy Alexandria, VA 22306",2023-05-12
+531,USED,2022,FORD,MAVERICK,XL,33853,Carbonized Gray Metallic,Black Onyx,All-wheel Drive,Gasoline,11479,"2455 E Market St Harrisonburg, VA 22801",2023-05-12
+532,USED,2023,FORD,MAVERICK,LARIAT,49997,White,Black Onyx,All-wheel Drive,Gasoline,135,"6510 Little River Tpke Alexandria, VA 22312",2023-05-12
+533,USED,2023,FORD,MAVERICK,LARIAT,39900,Green,Brown,Front-wheel Drive,CVT Transmission,1800,"Erik from West Columbia, SC 29169",2023-05-12
+534,USED,2022,FORD,MAVERICK,XL,31634,Black,Black Onyx,Front-wheel Drive,Hybrid,28872,"3237 St Matthews Orangeburg, SC 29118",2023-05-12
+535,USED,2022,FORD,MAVERICK,LARIAT,43700,Area 51,Desert,Front-wheel Drive,Hybrid,7683,"617 N Main St Belmont, NC 28012",2023-05-12
+536,USED,2022,FORD,MAVERICK,XL,35900,Area 51,Black Onyx,Front-wheel Drive,Gasoline,5354,"617 N Main St Belmont, NC 28012",2023-05-12
+537,USED,2023,FORD,MAVERICK,XLT,36988,Oxford White,–,Front-wheel Drive,Gasoline,130,"2283 Savannah Hwy Charleston, SC 29414",2023-05-12
+538,USED,2023,FORD,MAVERICK,XLT,35997,Blue,Navy Pier,Front-wheel Drive,Hybrid,3085,"1016 N Main St Summerville, SC 29483",2023-05-12
+539,USED,2022,FORD,MAVERICK,XLT,35320,Velocity Blue Metallic,Navy Pier,Front-wheel Drive,Hybrid,5462,"13825 Statesville Rd Huntersville, NC 28078",2023-05-12
+540,USED,2023,FORD,MAVERICK,XLT,37492,Silver,Black,All-wheel Drive,Gasoline,5303,"13307 Statesville Rd Huntersville, NC 28078",2023-05-12
+541,USED,2022,FORD,MAVERICK,LARIAT,39999,Oxford White,Desert,All-wheel Drive,Gasoline,15000,"979 N U.S. 1 Lugoff, SC 29078",2023-05-12
+542,CERTIFIED,2022,FORD,MAVERICK,XLT,34765,SHADOW BLACK,NAVY PIER -MED SLATE TRIM,–,–,3600,"2600 S Cannon Blvd Kannapolis, NC 28083",2023-05-12
+543,CERTIFIED,2022,FORD,MAVERICK,XLT,38968,Chili Pepper Red,Navy Pier,All-wheel Drive,Gasoline,8838,"2104 Peters Creek Winston Salem, NC 27127",2023-05-12
+544,CERTIFIED,2022,FORD,MAVERICK,XL,34498,Oxford White,Black Onyx,All-wheel Drive,Gasoline,13918,"1201 W Main St Lexington, SC 29072",2023-05-12
+545,USED,2023,FORD,MAVERICK,XLT,41000,Blue,Navy Pier,Front-wheel Drive,Gasoline,145,"6510 Little River Tpke Alexandria, VA 22312",2023-05-12
+546,USED,2022,FORD,MAVERICK,XL,32649,Shadow Black,Black Onyx,All-wheel Drive,Gasoline,11744,"11165 Fairfax Blvd Fairfax, VA 22030",2023-05-12
+547,USED,2022,FORD,MAVERICK,LARIAT,38678,Iconic Silver Metallic,Desert,Front-wheel Drive,Hybrid,20609,"11165 Fairfax Blvd Fairfax, VA 22030",2023-05-12
+548,USED,2022,FORD,MAVERICK,XLT,35000,Iconic Silver Metallic,Navy Pier/Medium Slate,All-wheel Drive,Gasoline,5670,"700 N US Route 15 Dillsburg, PA 17019",2023-05-12
+549,USED,2022,FORD,MAVERICK,XLT,36000,Area 51,Navy Pier,Front-wheel Drive,Hybrid,7197,"700 N US Route 15 Dillsburg, PA 17019",2023-05-12
+550,USED,2023,FORD,MAVERICK,XL,33000,Carbonized Gray Metallic,Black Onyx/Medium Dark Slate,Front-wheel Drive,Gasoline,106,"700 N US Route 15 Dillsburg, PA 17019",2023-05-12
+551,CERTIFIED,2022,FORD,MAVERICK,XLT,36875,ALTO BLUE METALLIC TC,NAVY PIER -MED SLATE TRIM,–,–,23812,"415 W Lincoln Hwy Exton, PA 19341",2023-05-12
+552,USED,2022,FORD,MAVERICK,LARIAT,41995,Shadow Black,Desert,All-wheel Drive,Gasoline,5990,"50 Baltimore Pike Springfield, PA 19064",2023-05-12
+553,USED,2022,FORD,MAVERICK,LARIAT,37895,Area 51,Desert,Front-wheel Drive,Hybrid,15319,"2601 E Lincoln Hwy Coatesville, PA 19320",2023-05-12
+554,USED,2022,FORD,MAVERICK,XLT,35399,Shadow Black,Navy Pier,AWD,Gasoline,15604,"3700 Bristol Hwy Johnson City, TN 37601",2023-05-12
+555,USED,2023,FORD,MAVERICK,LARIAT,46828,Black,Desert,All-wheel Drive,Gasoline,18,"3192 West State Street Bristol, TN 37620",2023-05-12
+556,USED,2022,FORD,MAVERICK,LARIAT,37999,Chili Pepper Red,Desert,Front-wheel Drive,Gasoline,15316,"525 Stone Harbor Blvd Cape May Court House, NJ 08210",2023-05-12
+557,USED,2022,FORD,MAVERICK,XLT,34000,Carbonized Gray Metallic,Navy Pier,All-wheel Drive,Gasoline,22491,"10207 Philadelphia Rd White Marsh, MD 21162",2023-05-12
+558,USED,2022,FORD,MAVERICK,XLT,33998,Black,Gray,Front-wheel Drive,Gasoline,5696,"16411 Shady Grove Rd Gaithersburg, MD 20877",2023-05-12
+559,USED,2023,FORD,MAVERICK,XLT,37000,Atlas Blue Metallic,Navy Pier,Front-wheel Drive,Hybrid,422,"46869 Harry Byrd Hwy Sterling, VA 20164",2023-05-12
+560,USED,2023,FORD,MAVERICK,XL,35998,Blue,Black,Front-wheel Drive,Hybrid,70,"45210 Towlern Pl Sterling, VA 20165",2023-05-12
+561,USED,2022,FORD,MAVERICK,XL,32998,White,Black,All-wheel Drive,Gasoline,4396,"45210 Towlern Pl Sterling, VA 20165",2023-05-12
+562,USED,2022,FORD,MAVERICK,XLT,36903,Velocity Blue Metallic,Navy Pier/Medium Slate,All-wheel Drive,Gasoline,1635,"1001 Jamestown Rd Morganton, NC 28655",2023-05-12
+563,USED,2022,FORD,MAVERICK,XL,33995,Oxford White,Black Onyx,All-wheel Drive,Gasoline,15521,"4175 Auto Park Cir Chantilly, VA 20151",2023-05-12
+564,CERTIFIED,2022,FORD,MAVERICK,LARIAT,39988,Blue,Desert,All-wheel Drive,Gasoline,9880,"409 East 2nd Street West Jefferson, NC 28694",2023-05-12
+565,USED,2022,FORD,MAVERICK,XL,37599,Alto Blue Tinted Clearcoat Metallic,Black Onyx/Medium Dark Slate,All-wheel Drive,Gasoline,3016,"2600 Peters Creek Parkway Winston Salem, NC 27127",2023-05-12
+566,USED,2022,FORD,MAVERICK,LARIAT,38998,Black,Brown,All-wheel Drive,Gasoline,12003,"800 N Tomoka Farms Rd Daytona Beach, FL 32124",2023-05-12
+567,USED,2023,FORD,MAVERICK,XLT,35998,Black,Gray,Front-wheel Drive,Gasoline,5957,"2211 Overnite Dr Chattanooga, TN 37421",2023-05-12
+568,USED,2022,FORD,MAVERICK,XLT,38450,Alto Blue Tinted Clearcoat Metallic,Navy Pier/Medium Slate,All-wheel Drive,Gasoline,8982,"1638 Hughes Rd Madison, AL 35758",2023-05-12
+569,USED,2022,FORD,MAVERICK,XLT,34500,Alto Blue Tinted Clearcoat Metallic,Navy Pier/Medium Slate,Front-wheel Drive,Gasoline,11382,"1638 Hughes Rd Madison, AL 35758",2023-05-12
+570,USED,2022,FORD,MAVERICK,XL,31964,Orange,Navy Pier,Front-wheel Drive,Hybrid,26303,"3061 Transit Rd Elma, NY 14059",2023-05-12
+571,USED,2023,FORD,MAVERICK,XLT,37998,Gray,Gray,FWD,Gasoline,268,"2353 Gallatin Pike N Nashville, TN 37115",2023-05-12
+572,USED,2022,FORD,MAVERICK,XL,32995,Area 51,Black Onyx,FWD,Hybrid,6301,"305 Grant Ave Auburn, NY 13021",2023-05-12
+573,USED,2022,FORD,MAVERICK,XL,34899,Area 51,Black Onyx,All-wheel Drive,Gasoline,247,"305 Grant Ave Auburn, NY 13021",2023-05-12
+574,USED,2022,FORD,MAVERICK,XL,33891,Oxford White,Black Onyx,All-wheel Drive,Gasoline,6739,"3505 Chester Blvd. Richmond, IN 47374",2023-05-12
+575,USED,2022,FORD,MAVERICK,LARIAT,37500,Orange,–,Front-wheel Drive,Gasoline,5761,"6375 Cypress Gardens Blvd Winter Haven, FL 33884",2023-05-12
+576,USED,2022,FORD,MAVERICK,LARIAT,35999,Iconic Silver Metallic,Desert,Front-wheel Drive,Hybrid,30423,"4200 S. US Hwy 1 Fort Pierce, FL 34982",2023-05-12
+577,USED,2022,FORD,MAVERICK,LARIAT,42991,Shadow Black,Desert,All-wheel Drive,Gasoline,1495,"5201 Camp Rd Hamburg, NY 14075",2023-05-12
+578,USED,2022,FORD,MAVERICK,XL,34611,Blue,Navy Pier,All-wheel Drive,Gasoline,4299,"790 North Brindlee Mountain Pkwy Arab, AL 35016",2023-05-12
+579,USED,2023,FORD,MAVERICK,LARIAT,42735,Atlas Blue Metallic,Desert,All-wheel Drive,Gasoline,412,"5359 South US Highway 1 Fort Pierce, FL 34982",2023-05-12
+580,USED,2022,FORD,MAVERICK,XLT,35233,Oxford White,Black Onyx,All-wheel Drive,Gasoline,18034,"808 E Lewis and Clark Pkwy Clarksville, IN 47129",2023-05-12
+581,CERTIFIED,2022,FORD,MAVERICK,LARIAT,39457,Iconic Silver Metallic,Desert,All-wheel Drive,Gasoline,15763,"2600 Access Rd NW Davenport, FL 33897",2023-05-12
+582,USED,2022,FORD,MAVERICK,XL,40970,Blue,Desert,All-wheel Drive,Gasoline,4715,"4215 Liberty Avenue Vermilion, OH 44089",2023-05-12
+583,CERTIFIED,2022,FORD,MAVERICK,LARIAT,40750,Shadow Black,Desert,All-wheel Drive,Gasoline,18647,"100 Oxmoor Lane Louisville, KY 40222",2023-05-12
+584,USED,2022,FORD,MAVERICK,LARIAT,42852,Hot Pepper Red Tinted Clearcoat Metallic,Desert Brown,All-wheel Drive,Gasoline,123,"33450 Lake Road Avon Lake, OH 44012",2023-05-12
+585,USED,2023,FORD,MAVERICK,XLT,35998,Blue,Gray,Front-wheel Drive,Gasoline,1432,"9550 Bluegrass Pkwy Louisville, KY 40299",2023-05-12
+586,USED,2022,FORD,MAVERICK,XL,30999,White,Black Onyx,All-wheel Drive,Gasoline,29810,"175 E Main St Norwich, NY 13815",2023-05-12
+587,USED,2022,FORD,MAVERICK,XLT,38995,Blue,Navy Pier,All-wheel Drive,Gasoline,9509,"2348 US Highway 68 S Bellefontaine, OH 43311",2023-05-12
+588,USED,2022,FORD,MAVERICK,XLT,34988,Orange,Navy Pier,Front-wheel Drive,Gasoline,3216,"4032 Commerce Pkwy La Grange, KY 40031",2023-05-12
+589,USED,2022,FORD,MAVERICK,XLT,37995,Gray,Navy Pier,All-wheel Drive,Gasoline,7894,"600 Connecticut Blvd East Hartford, CT 06108",2023-05-12
+590,CERTIFIED,2022,FORD,MAVERICK,XLT,37998,Area 51,Navy Pier,All-wheel Drive,Gasoline,12615,"1810 East Irlo Bronson Memorial Hwy Kissimmee, FL 34744",2023-05-12
+591,USED,2022,FORD,MAVERICK,LARIAT,42980,Area 51,Desert,All-wheel Drive,Gasoline,867,"809 S 5th St Louisville, KY 40203",2023-05-12
+592,USED,2022,FORD,MAVERICK,XL,33564,Cactus Green / Gray,Black Onyx,Front-wheel Drive,Hybrid,19539,"646 Thompson Lane Nashville, TN 37204",2023-05-12
+593,CERTIFIED,2022,FORD,MAVERICK,XLT,36300,Cactus Green / Gray,Navy Pier,Front-wheel Drive,Gasoline,18675,"28739 State Road 54 Wesley Chapel, FL 33543",2023-05-12
+594,USED,2022,FORD,MAVERICK,LARIAT,36988,Blue,–,Front-wheel Drive,Hybrid,35249,"9751 Adamo Dr Tampa, FL 33619",2023-05-12
+595,USED,2023,FORD,MAVERICK,XL,34456,Cactus,–,Front-wheel Drive,Hybrid,230,"9740 Adamo Dr Tampa, FL 33619",2023-05-12
+596,USED,2022,FORD,MAVERICK,XLT,33884,Cactus,Navy Pier,All-wheel Drive,Gasoline,7275,"9740 Adamo Dr Tampa, FL 33619",2023-05-12
+597,USED,2023,FORD,MAVERICK,XL,35454,Oxford White,–,Front-wheel Drive,Hybrid,250,"9740 Adamo Dr Tampa, FL 33619",2023-05-12
+598,USED,2022,FORD,MAVERICK,LARIAT,42997,Cactus,Desert,All-wheel Drive,Gasoline,13866,"2630 Pelham Parkway Pelham, AL 35124",2023-05-12
+599,USED,2023,FORD,MAVERICK,LARIAT,42890,WH,Desert Brown,All-wheel Drive,Gasoline,1679,"3923 Route 104 Williamson, NY 14589",2023-05-12
+600,USED,2022,FORD,MAVERICK,XL,28998,Oxford White,Black Onyx,Front-wheel Drive,Hybrid,3367,"1207 E Brandon Blvd Brandon, FL 33511",2023-05-12
+601,USED,2022,FORD,MAVERICK,LARIAT,41477,Red,Brown,All-wheel Drive,Gasoline,450,"8 Uxbridge Rd Mendon, MA 01756",2023-05-12
+602,USED,2022,FORD,MAVERICK,LARIAT,40747,Chili Pepper Red,Desert,All-wheel Drive,Gasoline,2138,"8 Uxbridge Rd Mendon, MA 01756",2023-05-12
+603,USED,2022,FORD,MAVERICK,LARIAT,42888,Orange,Desert,All-wheel Drive,Gasoline,4556,"1211 Beltline Rd SW Decatur, AL 35601",2023-05-12
+604,USED,2022,FORD,MAVERICK,LARIAT,43555,Area 51,Desert,All-wheel Drive,Gasoline,4903,"585 State Route 31 Bridgeport, NY 13030",2023-05-12
+605,USED,2022,FORD,MAVERICK,XLT,35698,Gray Metallic,Navy Pier,All-wheel Drive,Gasoline,6901,"4200 SE Federal Hwy Stuart, FL 34997",2023-05-12
+606,USED,2023,FORD,MAVERICK,XLT,38900,Gray,Blue,All-wheel Drive,Gasoline,6066,"5255 AL-157 Cullman, AL 35058",2023-05-12
+607,USED,2023,FORD,MAVERICK,XLT,36995,Carbonized Gray Metallic,Navy Pier,Front-wheel Drive,Gasoline,1865,"2500 W Henrietta Rd Rochester, NY 14623",2023-05-12
+608,CERTIFIED,2022,FORD,MAVERICK,XLT,37898,Cactus Green / Gray,Black Onyx,All-wheel Drive,Gasoline,3670,"2000 E Baker St Plant City, FL 33563",2023-05-12
+609,USED,2022,FORD,MAVERICK,XLT,30837,Cactus,Navy Pier,All-wheel Drive,Gasoline,43951,"1425 W Main St Bartow, FL 33830",2023-05-12
+610,USED,2022,FORD,MAVERICK,XLT,35900,Area 51,Navy Pier,Front-wheel Drive,Hybrid,12946,"2002 N Frontage Rd Plant City, FL 33563",2023-05-12
+611,USED,2022,FORD,MAVERICK,XL,30988,Oxford White,Black Onyx/Medium Dark Slate,Front-wheel Drive,Gasoline,1461,"2010 North Lincoln Street Greensburg, IN 47240",2023-05-12
+612,USED,2022,FORD,MAVERICK,XLT,34990,Oxford White,Navy Pier,All-wheel Drive,Gasoline,4370,"1129 Murfreesboro Rd. Franklin, TN 37064",2023-05-12
+613,USED,2022,FORD,MAVERICK,XL,31700,Blue,Brown,Front-wheel Drive,CVT Transmission,13000,"Sid from Providence, RI 02908",2023-05-12
+614,USED,2022,FORD,MAVERICK,XLT,36639,Gray,Navy Pier,Front-wheel Drive,Hybrid,13963,"1875 W McEwen Dr Franklin, TN 37067",2023-05-12
+615,CERTIFIED,2022,FORD,MAVERICK,XL,33900,CARBONIZED GREY METALLIC,BLACK ONYX-MED DK SLATE TRI,–,–,10715,"968 Bridge Rd Northampton, MA 01060",2023-05-12
+616,USED,2022,FORD,MAVERICK,LARIAT,39524,Gray,Desert,All-wheel Drive,Gasoline,5101,"212 Comtide Ct Franklin, TN 37067",2023-05-12
+617,USED,2023,FORD,MAVERICK,XLT,39998,Black,Gray,FWD,Hybrid,2505,"2501 Powell Ave Nashville, TN 37204",2023-05-12
+618,USED,2022,FORD,MAVERICK,XLT,36999,Gray Metallic,Navy Pier,Front-wheel Drive,Gasoline,7629,"2795 N State Hwy 7 North Vernon, IN 47265",2023-05-12
+619,USED,2022,FORD,MAVERICK,XLT,37262,Shadow Black,Navy Pier/Medium Slate,All-wheel Drive,Gasoline,26306,"215 W Magnolia St Valdosta, GA 31601",2023-05-12
+620,USED,2023,FORD,MAVERICK,LARIAT,47995,Oxford White,Desert,All-wheel Drive,Gasoline,272,"2305 S. College St. Auburn, AL 36832",2023-05-12
+621,USED,2022,FORD,MAVERICK,XL,28797,Shadow Black,Black Onyx,Front-wheel Drive,Hybrid,5886,"2510 Jetport Dr Orlando, FL 32809",2023-05-12
+622,USED,2022,FORD,MAVERICK,XLT,32998,Black,Gray,Front-wheel Drive,Gasoline,10886,"901 Towne Center Blvd Sanford, FL 32771",2023-05-12
+623,USED,2022,FORD,MAVERICK,XL,28999,Blue,Desert,All-wheel Drive,Gasoline,31773,"1875 Brittain Road Akron, OH 44310",2023-05-12
+624,USED,2022,FORD,MAVERICK,XL,34950,Area 51,Black Onyx/Medium Dark Slate,Front-wheel Drive,Gasoline,12106,"1182 West Main Street Wilmington, OH 45177",2023-05-12
+625,USED,2023,FORD,MAVERICK,XLT,40998,Gray,Gray,FWD,Hybrid,105,"2700 Farmers Dr Columbus, OH 43235",2023-05-12
+626,USED,2023,FORD,MAVERICK,LARIAT,35333,Shadow Black,Desert,Front-wheel Drive,Hybrid,2000,"1680 Whittlesey Rd Columbus, GA 31904",2023-05-12
+627,USED,2022,FORD,MAVERICK,LARIAT,37998,Blue,Brown,Front-wheel Drive,Gasoline,6088,"6463 Veterans Pkwy Columbus, GA 31909",2023-05-12
+628,USED,2022,FORD,MAVERICK,XLT,35101,Area 51,Navy Pier,Front-wheel Drive,Hybrid,16314,"5575 Keim Cir Columbus, OH 43228",2023-05-12
+629,USED,2022,FORD,MAVERICK,LARIAT,37398,Area 51,Desert,Front-wheel Drive,Gasoline,8120,"5575 Keim Cir Columbus, OH 43228",2023-05-12
+630,USED,2022,FORD,MAVERICK,XLT,34199,Oxford White,Navy Pier,Front-wheel Drive,Gasoline,4077,"1800 Morse Rd Columbus, OH 43229",2023-05-12
+631,USED,2023,FORD,MAVERICK,XL,39980,Cactus Green / Gray,Black,Front-wheel Drive,Hybrid,7337,"2322 S Woodland Blvd DeLand, FL 32720",2023-05-12
+632,USED,2022,FORD,MAVERICK,XLT,37980,Gray Metallic,Black,Front-wheel Drive,Hybrid,14736,"2322 S Woodland Blvd DeLand, FL 32720",2023-05-12
+633,USED,2023,FORD,MAVERICK,XLT,35998,Gray,Gray,All-wheel Drive,Gasoline,1599,"901 Towne Center Blvd Sanford, FL 32771",2023-05-12
+634,USED,2023,FORD,MAVERICK,XL,31990,Oxford White,Black Onyx,Front-wheel Drive,Gasoline,114,"310 NE 39th Ave Gainesville, FL 32609",2023-05-12
+635,USED,2022,FORD,MAVERICK,XLT,35682,Shadow Black,Navy Pier,All-wheel Drive,Gasoline,10391,"4255 S Hamilton Rd Groveport, OH 43125",2023-05-12
+636,CERTIFIED,2022,FORD,MAVERICK,XL,35000,Shadow Black,Black Onyx,All-wheel Drive,Gasoline,7019,"366 W Main St Canfield, OH 44406",2023-05-12
+637,USED,2023,FORD,MAVERICK,XLT,39995,Hot Pepper Red Metallic Tinted Clearcoat,–,All-wheel Drive,Gasoline,8,"5348 Highway 153 Chattanooga, TN 37343",2023-05-12
+638,USED,2023,FORD,MAVERICK,LARIAT,46500,Orange,Desert,All-wheel Drive,Gasoline,12,"5348 Highway 153 Chattanooga, TN 37343",2023-05-12
+639,USED,2022,FORD,MAVERICK,XLT,36975,Blue,Navy Pier,All-wheel Drive,Gasoline,9253,"5348 Highway 153 Chattanooga, TN 37343",2023-05-12
+640,USED,2023,FORD,MAVERICK,XLT,38815,Oxford White,Black Onyx,All-wheel Drive,Gasoline,8976,"101 Hwy 411 E Rome, GA 30161",2023-05-12
+641,USED,2022,FORD,MAVERICK,XLT,35650,Oxford White,Navy Pier,Front-wheel Drive,Gasoline,836,"101 Hwy 411 E Rome, GA 30161",2023-05-12
+642,USED,2022,FORD,MAVERICK,LARIAT,40900,Blue,Desert,Front-wheel Drive,Hybrid,10176,"2317 State Road 44 New Smyrna Beach, FL 32168",2023-05-12
+643,USED,2022,FORD,MAVERICK,XLT,36900,Cactus Green / Gray,Navy Pier,Front-wheel Drive,Hybrid,1607,"2317 State Road 44 New Smyrna Beach, FL 32168",2023-05-12
+644,USED,2022,FORD,MAVERICK,LARIAT,36642,Area 51,Desert,All-wheel Drive,Gasoline,26417,"4325 W US Hwy 90 Lake City, FL 32055",2023-05-12
+645,USED,2022,FORD,MAVERICK,XLT,33500,Area 51,Navy Pier,Front-wheel Drive,Gasoline,398,"3737 N Main St Gainesville, FL 32609",2023-05-12
+646,USED,2022,FORD,MAVERICK,XLT,35990,Shadow Black,Navy Pier,All-wheel Drive,Gasoline,16878,"1260 Main St. Cuyahoga Falls, OH 44221",2023-05-12
+647,USED,2022,FORD,MAVERICK,XLT,34600,Cactus Green / Gray,Navy Pier,Front-wheel Drive,Hybrid,26271,"2409 Front Street Cuyahoga Falls, OH 44221",2023-05-12
+648,USED,2023,FORD,MAVERICK,XL,35500,Oxford White,Black Onyx,Front-wheel Drive,Hybrid,48,"2409 Front Street Cuyahoga Falls, OH 44221",2023-05-12
+649,USED,2022,FORD,MAVERICK,XLT,34836,Cactus Green / Gray,Navy Pier,All-wheel Drive,Gasoline,6764,"155 W. Kemper Rd. Cincinnati, OH 45246",2023-05-12
+650,USED,2023,FORD,MAVERICK,XLT,35998,Blue,Gray,Front-wheel Drive,Gasoline,1158,"6375 S Semoran Blvd Orlando, FL 32822",2023-05-12
+651,USED,2022,FORD,MAVERICK,XL,33995,Area 51,Black Onyx,All-wheel Drive,Gasoline,14228,"8053 Burlington Pike Florence, KY 41042",2023-05-12
+652,USED,2023,FORD,MAVERICK,XLT,34990,Blue,Gray,Front-wheel Drive,CVT Transmission,49,"Zhen from Orlando, FL 32825",2023-05-12
+653,USED,2022,FORD,MAVERICK,LARIAT,42000,Blue,Brown,Front-wheel Drive,CVT Transmission,20000,"Jennifer from Orlando, FL 32825",2023-05-12
+654,CERTIFIED,2022,FORD,MAVERICK,XLT,32900,Carbonized Gray Metallic,Navy Pier,Front-wheel Drive,Gasoline,8778,"1551 East Semoran Blvd Apopka, FL 32703",2023-05-12
+655,USED,2022,FORD,MAVERICK,LARIAT,39986,Silver Metallic,Desert,Front-wheel Drive,Hybrid,12101,"9051 E Colonial Dr Orlando, FL 32817",2023-05-12
+656,USED,2022,FORD,MAVERICK,XL,27839,Black,Black Onyx,Front-wheel Drive,Gasoline,25299,"9051 E Colonial Dr Orlando, FL 32817",2023-05-12
+657,USED,2022,FORD,MAVERICK,XLT,37990,Velocity Blue Metallic,Navy Pier,All-wheel Drive,Gasoline,25273,"4800 Florida - 520 Cocoa, FL 32926",2023-05-12
+658,USED,2022,FORD,MAVERICK,XLT,37051,Area 51,Navy Pier,Front-wheel Drive,Hybrid,10925,"4800 Florida - 520 Cocoa, FL 32926",2023-05-12
+659,USED,2022,FORD,MAVERICK,LARIAT,44995,Chili Pepper Red,Desert,All-wheel Drive,Gasoline,2272,"4800 Florida - 520 Cocoa, FL 32926",2023-05-12
+660,USED,2022,FORD,MAVERICK,XLT,34985,Gray,–,All-wheel Drive,Gasoline,24107,"1011 S Main St Cheshire, CT 06410",2023-05-12
+661,USED,2022,FORD,MAVERICK,LARIAT,39897,Velocity Blue Metallic,Desert,Front-wheel Drive,Gasoline,884,"3960 Medina Rd Akron, OH 44333",2023-05-12
+662,USED,2022,FORD,MAVERICK,XLT,39400,Shadow Black,Navy Pier,All-wheel Drive,Gasoline,572,"3960 Medina Rd Akron, OH 44333",2023-05-12
+663,USED,2022,FORD,MAVERICK,LARIAT,45524,Blue,Desert,All-wheel Drive,Gasoline,3669,"3960 Medina Rd Akron, OH 44333",2023-05-12
+664,USED,2023,FORD,MAVERICK,XL,35887,Shadow Black,Black Onyx,All-wheel Drive,Gasoline,250,"1101 Columbus Pike Delaware, OH 43015",2023-05-12
+665,USED,2022,FORD,MAVERICK,XLT,31500,Carbonized Gray Metallic,Navy Pier,All-wheel Drive,Gasoline,27179,"1918 SW 17th Street Ocala, FL 34471",2023-05-12
+666,USED,2022,FORD,MAVERICK,XLT,32990,Carbonized Gray Metallic,Navy Pier,Front-wheel Drive,Gasoline,9021,"1918 SW 17th Street Ocala, FL 34471",2023-05-12
+667,USED,2022,FORD,MAVERICK,XLT,32990,Area 51,Navy Pier,Front-wheel Drive,Hybrid,16148,"1918 SW 17th Street Ocala, FL 34471",2023-05-12
+668,USED,2022,FORD,MAVERICK,XLT,35588,Shadow Black,Navy Pier,All-wheel Drive,Gasoline,12905,"9630 State Route 14 Streetsboro, OH 44241",2023-05-12
+669,USED,2023,FORD,MAVERICK,XLT,39459,Avalanche Gray,Black Onyx,All-wheel Drive,Gasoline,9,"2816 Northwest Pine Avenue Ocala, FL 34475",2023-05-12
+670,USED,2023,FORD,MAVERICK,LARIAT,42351,Carbonized Gray Metallic,Desert,Front-wheel Drive,Hybrid,768,"2816 Northwest Pine Avenue Ocala, FL 34475",2023-05-12
+671,USED,2023,FORD,MAVERICK,LARIAT,42454,Atlas Blue Metallic,Desert,Front-wheel Drive,Hybrid,2302,"2816 Northwest Pine Avenue Ocala, FL 34475",2023-05-12
+672,CERTIFIED,2022,FORD,MAVERICK,XLT,35955,AREA 51,NAVY PIER -MED SLATE TRIM,–,–,704,"191 Boston Post Rd Madison, CT 06443",2023-05-12
+673,USED,2022,FORD,MAVERICK,LARIAT,45752,Carbonized Gray Metallic,Desert,AWD,Gasoline,7754,"776 Magnolia Ave Melbourne, FL 32935",2023-05-12
+674,USED,2023,FORD,MAVERICK,XLT,37995,Shadow Black,Navy Pier,All-wheel Drive,Gasoline,80,"9090 E Adamo Dr Tampa, FL 33619",2023-05-12
+675,CERTIFIED,2022,FORD,MAVERICK,XLT,34812,ALTO BLUE METALLIC TC,NAVY PIER -MED SLATE TRIM,–,–,6611,"1163 Wards Road, Suite A Altavista, VA 24517",2023-05-12
+676,USED,2023,FORD,MAVERICK,XLT,35130,Cactus,–,Front-wheel Drive,Hybrid,196,"565 W Jackson St Morton, IL 61550",2023-05-12
+677,USED,2023,FORD,MAVERICK,XLT,36201,Cactus Gray,Black Onyx,Front-wheel Drive,Gasoline,40,"491 Highway 412 East Siloam Springs, AR 72761",2023-05-12
+678,CERTIFIED,2022,FORD,MAVERICK,XLT,35999,Shadow Black,Navy Pier,All-wheel Drive,Gasoline,7154,"2055 Ogden Ave Naperville, IL 60540",2023-05-12
+679,USED,2022,FORD,MAVERICK,LARIAT,42291,Silver,Desert,All-wheel Drive,Gasoline,3800,"5600 183A Cedar Park, TX 78641",2023-05-12
+680,USED,2023,FORD,MAVERICK,LARIAT,43998,Gray,Brown,Front-wheel Drive,Hybrid,1986,"45210 Towlern Pl Sterling, VA 20165",2023-05-12
+681,CERTIFIED,2022,FORD,MAVERICK,LARIAT,34962,Blue,Desert,Front-wheel Drive,Gasoline,31685,"1845 E. Santa Fe Olathe, KS 66062",2023-05-12
+682,USED,2022,FORD,MAVERICK,LARIAT,32900,Orange,Brown / Black,All-wheel Drive,Gasoline,12717,"805 SE 30th st Des Moines, IA 50317",2023-05-12
+683,USED,2023,FORD,MAVERICK,XLT,38080,Area 51,Navy Pier,All-wheel Drive,Gasoline,27,"2000 W 104th Ave Thornton, CO 80234",2023-05-12
+684,CERTIFIED,2022,FORD,MAVERICK,LARIAT,40000,CARBONIZED GREY METALLIC,DESERT BROWN TRIM,–,–,9768,"4471 E Evans Ave Denver, CO 80222",2023-05-12
+685,CERTIFIED,2022,FORD,MAVERICK,XLT,33782,CACTUS GREY,NAVY PIER -MED SLATE TRIM,–,–,7566,"950 S. Central Expy. McKinney, TX 75070",2023-05-12
+686,CERTIFIED,2022,FORD,MAVERICK,LARIAT,42633,Area 51,Desert,All-wheel Drive,Gasoline,5582,"17742 Airline Hwy Prairieville, LA 70769",2023-05-12
+687,USED,2023,FORD,MAVERICK,LARIAT,45997,Hot Pepper Red Metallic Tinted Clearcoat,Desert,All-wheel Drive,Gasoline,346,"16101 S. Lincoln Hwy Plainfield, IL 60586",2023-05-12
+688,USED,2023,FORD,MAVERICK,XLT,33800,Gray,Blue,Front-wheel Drive,CVT Transmission,3500,"Jason from Bedford, IN 47421",2023-05-12
+689,USED,2023,FORD,MAVERICK,XLT,38900,White,Navy Pier,All-wheel Drive,Gasoline,72,"1810 Highway 25B North Heber Springs, AR 72543",2023-05-12
+690,USED,2022,FORD,MAVERICK,LARIAT,39855,Cactus,Desert,All-wheel Drive,Gasoline,20524,"3655 S Campbell Ave Springfield, MO 65807",2023-05-12
+691,USED,2022,FORD,MAVERICK,XL,31995,Area 51,Black Onyx,Front-wheel Drive,Gasoline,13965,"3611 Lapalco Blvd Harvey, LA 70058",2023-05-12
+692,USED,2022,FORD,MAVERICK,XLT,35488,Cactus Green / Gray,Navy Pier,All-wheel Drive,Gasoline,19274,"400 E Howze Beach Rd Slidell, LA 70461",2023-05-12
+693,USED,2023,FORD,MAVERICK,XLT,43988,Shadow Black,Black Onyx,All-wheel Drive,Gasoline,1863,"500 Fairlane Dr East Peoria, IL 61611",2023-05-12
+694,USED,2022,FORD,MAVERICK,XL,34983,Gray,Black Onyx,All-wheel Drive,Gasoline,3080,"303 Oak St Menomonie, WI 54751",2023-05-12
+695,USED,2022,FORD,MAVERICK,XLT,34851,Area 51,Navy Pier,All-wheel Drive,Gasoline,32500,"15532 Manchester Rd Ballwin, MO 63011",2023-05-12
+696,USED,2023,FORD,MAVERICK,LARIAT,47997,White,Black,All-wheel Drive,Gasoline,931,"7576 US-51 Minocqua, WI 54548",2023-05-12
+697,USED,2022,FORD,MAVERICK,XLT,37495,Blue,Gray,All-wheel Drive,Gasoline,255,"650 S Main St Clintonville, WI 54929",2023-05-12
+698,USED,2022,FORD,MAVERICK,XLT,34999,Cactus,Navy Pier,Front-wheel Drive,Gasoline,5115,"1220 N Military Trl West Palm Beach, FL 33409",2023-05-12
+699,USED,2022,FORD,MAVERICK,LARIAT,31495,Silver,Brown,All-wheel Drive,Gasoline,9365,"559 Mountain View Rd Williston, VT 05495",2023-05-12
+700,USED,2022,FORD,MAVERICK,LARIAT,40899,White,–,All-wheel Drive,Gasoline,6741,"310 Bedford Road Morris, IL 60450",2023-05-12
+701,USED,2023,FORD,MAVERICK,XLT,34995,Alto Blue Metallic Tinted Clearcoat,Navy Pier,Front-wheel Drive,Hybrid,1260,"420 Merrick Rd Lynbrook, NY 11563",2023-05-12
+702,USED,2022,FORD,MAVERICK,LARIAT,41626,Carbonized Gray Metallic,Desert,All-wheel Drive,Gasoline,4364,"920 West Golf Road Schaumburg, IL 60194",2023-05-12
+703,USED,2022,FORD,MAVERICK,XLT,35487,Blue,Navy Pier,Front-wheel Drive,Hybrid,18706,"1215 N. Federal Highway #1 Lake Park, FL 33403",2023-05-12
+704,USED,2022,FORD,MAVERICK,XLT,36499,Shadow Black,Navy Pier,All-wheel Drive,Gasoline,5490,,2023-05-12
+705,USED,2022,FORD,MAVERICK,XL,31798,Blue,Black Onyx,All-wheel Drive,Gasoline,10301,"3560 28th Street SE Grand Rapids, MI 49512",2023-05-12
+706,USED,2022,FORD,MAVERICK,LARIAT,38923,Chili Pepper Red,Desert,All-wheel Drive,Gasoline,11113,"1800 S Main St Bountiful, UT 84010",2023-05-12
+707,USED,2022,FORD,MAVERICK,XLT,41800,Velocity Blue Metallic,Navy Pier,Front-wheel Drive,Hybrid,14930,"617 N Main St Belmont, NC 28012",2023-05-12
+708,USED,2022,FORD,MAVERICK,XLT,34799,Velocity Blue Metallic,Navy Pier,Front-wheel Drive,Gasoline,13600,"9001 E Colonial Dr Orlando, FL 32817",2023-05-12
+709,USED,2022,FORD,MAVERICK,XL,31000,Shadow Black,Black Onyx/Medium Dark Slate,Front-wheel Drive,Gasoline,15049,"700 N US Route 15 Dillsburg, PA 17019",2023-05-12
+710,USED,2022,FORD,MAVERICK,XLT,39995,Velocity Blue,Navy Pier,All-wheel Drive,Gasoline,2187,"12425 30 Mile Road Washington Twp, MI 48095",2023-05-12
+711,USED,2022,FORD,MAVERICK,LARIAT,36599,Cactus Green / Gray,Desert,All-wheel Drive,Gasoline,39800,"21736 Auto World Circle Sterling, VA 20166",2023-05-12
+712,USED,2022,FORD,MAVERICK,XLT,30998,Yellow,Gray,Front-wheel Drive,Gasoline,12849,"2350 Research Ct Woodbridge, VA 22192",2023-05-12
+713,USED,2022,FORD,MAVERICK,LARIAT,38000,Orange,Desert,All-wheel Drive,Gasoline,14924,"6970 Security Blvd Windsor Mill, MD 21244",2023-05-12
+714,USED,2022,FORD,MAVERICK,XLT,34877,Area 51,Navy Pier,Front-wheel Drive,Gasoline,5876,"3101 Center Rd Brunswick, OH 44212",2023-05-12
+715,CERTIFIED,2022,FORD,MAVERICK,XLT,35574,Blue,Navy Pier,Front-wheel Drive,Gasoline,25315,"28739 State Road 54 Wesley Chapel, FL 33543",2023-05-12
+716,USED,2023,FORD,MAVERICK,XL,34395,Area 51,Black Onyx,Front-wheel Drive,Hybrid,61,"1551 W Old Liberty Rd Sykesville, MD 21784",2023-05-12
+717,USED,2022,FORD,MAVERICK,LARIAT,39900,Cactus Green / Gray,Desert,All-wheel Drive,Gasoline,21809,"1045 E Chicago St Elgin, IL 60120",2023-05-12
+718,USED,2022,FORD,MAVERICK,XL,31998,Black,Black,All-wheel Drive,Gasoline,8841,"45210 Towlern Pl Sterling, VA 20165",2023-05-12
+719,USED,2023,FORD,MAVERICK,LARIAT,42998,Gray,Brown,Front-wheel Drive,Hybrid,1986,"45210 Towlern Pl Sterling, VA 20165",2023-05-12
+720,USED,2022,FORD,MAVERICK,XLT,36000,Blue,Navy Pier,Front-wheel Drive,Hybrid,10926,"8610 Leesburg Pike Vienna, VA 22182",2023-05-12
+721,USED,2023,FORD,MAVERICK,XL,36950,Gray,Black Onyx,Front-wheel Drive,Hybrid,244,"8425 159th St Tinley Park, IL 60487",2023-05-12
+722,USED,2022,FORD,MAVERICK,LARIAT,37824,Cactus Grey,Desert Brown,All-wheel Drive,Gasoline,17416,"1001 Jamestown Rd Morganton, NC 28655",2023-05-12
+723,USED,2022,FORD,MAVERICK,XLT,35499,Carbonized Gray,–,All-wheel Drive,Gasoline,20544,"21 Pottstown Pike Chester Springs, PA 19425",2023-05-12
+724,USED,2023,FORD,MAVERICK,XLT,36500,Oxford White,Black Onyx,Front-wheel Drive,Hybrid,3225,"700 N US Route 15 Dillsburg, PA 17019",2023-05-12
+725,USED,2022,FORD,MAVERICK,XLT,38843,Blue,Navy Pier,All-wheel Drive,Gasoline,1001,"730 S Broad Street Lititz, PA 17543",2023-05-12
+726,USED,2022,FORD,MAVERICK,XLT,32500,Shadow Black,Navy Pier,Front-wheel Drive,Gasoline,7617,"13779 Nobelwood Plaza, Woodbridge, VA 22193",2023-05-12
+727,USED,2022,FORD,MAVERICK,XLT,37500,Oxford White,Navy Pier,All-wheel Drive,Gasoline,13676,"2641 Eaton Rd Green Bay, WI 54311",2023-05-12
+728,USED,2022,FORD,MAVERICK,XL,37333,Velocity Blue Metallic,Black Onyx,All-wheel Drive,Gasoline,8623,"310 S Washington St Chillicothe, MO 64601",2023-05-12
+729,USED,2023,FORD,MAVERICK,XLT,39994,Avalanche Gray,Black Onyx,All-wheel Drive,Gasoline,204,"305 Grant Ave Auburn, NY 13021",2023-05-12
+730,USED,2022,FORD,MAVERICK,LARIAT,38750,Shadow Black,Desert,All-wheel Drive,Gasoline,475,"2117 S. Main Maryville, MO 64468",2023-05-12
+731,USED,2022,FORD,MAVERICK,LARIAT,42850,Oxford White,Desert,Front-wheel Drive,Gasoline,3494,"230 Beverly Parkway Pensacola, FL 32505",2023-05-12
+732,USED,2023,FORD,MAVERICK,XL,37864,–,Black Onyx/Medium Dark Slate,All-wheel Drive,Gasoline,367,"768 IL-13 Marissa, IL 62257",2023-05-12
+733,USED,2022,FORD,MAVERICK,LARIAT,42995,Shadow Black,Desert,All-wheel Drive,Gasoline,7616,"11979 Fulton St E Lowell, MI 49331",2023-05-12
+734,USED,2022,FORD,MAVERICK,XL,35450,Shadow Black,Black Onyx,All-wheel Drive,Gasoline,18077,"1815 W. Ogden Ave Downers Grove, IL 60515",2023-05-12
+735,USED,2022,FORD,MAVERICK,XLT,35991,Velocity Blue Metallic,Navy Pier,All-wheel Drive,Gasoline,6967,"11780 Tampa Gateway Blvd Seffner, FL 33584",2023-05-12
+736,USED,2022,FORD,MAVERICK,XLT,37698,Cactus Grey,Navy Pier/Medium Slate,All-wheel Drive,Gasoline,7646,"1960 East Main Street Owosso, MI 48867",2023-05-12
+737,USED,2022,FORD,MAVERICK,LARIAT,38998,Blue,Brown,Front-wheel Drive,Gasoline,12792,"3200 Harbor Blvd Costa Mesa, CA 92626",2023-05-12
+738,USED,2023,FORD,MAVERICK,XLT,38861,Carbonized Gray Metallic,Navy Pier,Front-wheel Drive,Hybrid,1083,"17340 Gale Avenue City of Industry, CA 91748",2023-05-12
+739,USED,2022,FORD,MAVERICK,LARIAT,39500,Orange,Desert,All-wheel Drive,Gasoline,16862,"959 W 15th St Panama City, FL 32401",2023-05-12
+740,USED,2022,FORD,MAVERICK,LARIAT,38489,Cactus Gray,–,Front-wheel Drive,Hybrid,16644,"5707 E Gate Blvd Nampa, ID 83687",2023-05-12
+741,USED,2023,FORD,MAVERICK,XLT,36998,Blue,Gray,All-wheel Drive,Gasoline,8497,"4043 E ELDEN GRAY ST MERIDIAN, ID 83642",2023-05-12
+742,CERTIFIED,2022,FORD,MAVERICK,XLT,38195,Area 51,Navy Pier,Front-wheel Drive,Gasoline,21340,"15445 Roscoe Blvd North Hills, CA 91343",2023-05-12
+743,USED,2022,FORD,MAVERICK,LARIAT,39060,Gray,–,Front-wheel Drive,Hybrid,21081,"2000 10th Ave N Lake Worth, FL 33461",2023-05-12
+744,USED,2023,FORD,MAVERICK,XL,38761,Black,–,Front-wheel Drive,Hybrid,484,"12755 Folsom Blvd Folsom, CA 95630",2023-05-12
+745,USED,2023,FORD,MAVERICK,XL,36234,Area 51,Black Onyx,Front-wheel Drive,Hybrid,5502,"1350 S Woodruff Way Ontario, CA 91761",2023-05-12
+746,USED,2023,FORD,MAVERICK,XL,35998,Black,Black,FWD,Hybrid,59,"9501 Research Dr Irvine, CA 92618",2023-05-12
+747,USED,2023,FORD,MAVERICK,LARIAT,38991,Gray,–,All-wheel Drive,Gasoline,336,"12755 Folsom Blvd Folsom, CA 95630",2023-05-12
+748,USED,2022,FORD,MAVERICK,XLT,35995,Gray,Black Onyx,All-wheel Drive,Gasoline,2595,"16416 Valley Blvd Fontana, CA 92335",2023-05-12
+749,USED,2022,FORD,MAVERICK,XLT,35998,Blue,Gray,All-wheel Drive,Gasoline,5067,"4100 East Inland Empire Blvd Ontario, CA 91764",2023-05-12
+750,USED,2023,FORD,MAVERICK,XL,35998,Blue,Black,Front-wheel Drive,Hybrid,10153,"2955 Auto Mall Pkwy Fairfield, CA 94533",2023-05-12
+751,USED,2023,FORD,MAVERICK,XL,36988,Cactus Green / Gray,Black Onyx,Front-wheel Drive,Hybrid,2077,"1929 South Figueroa Street Los Angeles, CA 90007",2023-05-12
+752,USED,2023,FORD,MAVERICK,XLT,39999,Shadow Black,Navy Pier,FWD,Hybrid,109,"700 Automall Drive Roseville, CA 95661",2023-05-12
+753,USED,2022,FORD,MAVERICK,XLT,34500,Area 51,Navy Pier,Front-wheel Drive,Gasoline,35415,"16161 Raymer St Van Nuys, CA 91406",2023-05-12
+754,USED,2023,FORD,MAVERICK,LARIAT,39999,Iconic Silver Metallic,Black Onyx,All-wheel Drive,Gasoline,1791,"2000 W 104th Ave Thornton, CO 80234",2023-05-12
+755,USED,2022,FORD,MAVERICK,XLT,37430,Velocity Blue Metallic,Navy Pier,All-wheel Drive,Gasoline,3689,"5800 W Sahara Ave Las Vegas, NV 89146",2023-05-12
+756,USED,2023,FORD,MAVERICK,XLT,37500,Carbonized Gray Metallic,Navy Pier,Front-wheel Drive,Hybrid,768,"801 East Highway 114 Grapevine, TX 76051",2023-05-12
+757,USED,2023,FORD,MAVERICK,XLT,38999,Carbonized Gray Metallic,Navy Pier,All-wheel Drive,Gasoline,176,"10220 TX-121 Frisco, TX 75035",2023-05-12
+758,USED,2022,FORD,MAVERICK,XLT,36980,Carbonized Gray Metallic,Black Onyx,All-wheel Drive,Gasoline,2530,"2320 S Oak St Ottawa, KS 66067",2023-05-12
+759,USED,2022,FORD,MAVERICK,XL,34300,Iconic Silver Metallic,Black Onyx,All-wheel Drive,Gasoline,5418,"2343 Mormon Trek Blvd Iowa City, IA 52246",2023-05-12
+760,CERTIFIED,2022,FORD,MAVERICK,XL,29991,VELOCITY BLUE METALLIC,BLACK ONYX-MED DK SLATE TRI,–,–,31966,"2020 TX-286 Loop Paris, TX 75460",2023-05-12
+761,USED,2023,FORD,MAVERICK,LARIAT,42901,Hot Pepper Red Metallic Tinted Clearcoat,Desert,Front-wheel Drive,Hybrid,1570,"2550 N Tustin St Orange, CA 92865",2023-05-12
+762,USED,2023,FORD,MAVERICK,LARIAT,44950,Carbonized Gray Metallic,Black Onyx,All-wheel Drive,Gasoline,673,"18411 Lyndon B Johnson Fwy Mesquite, TX 75150",2023-05-12
+763,USED,2022,FORD,MAVERICK,XLT,34900,Area 51,Navy Pier,Front-wheel Drive,Hybrid,15025,"228 Fox Family Lane Clinton, TN 37716",2023-05-12
+764,USED,2022,FORD,MAVERICK,XLT,35937,Carbonized Gray Metallic,Navy Pier,Front-wheel Drive,Gasoline,13521,"2920 South Grand Avenue Carthage, MO 64836",2023-05-12
+765,USED,2023,FORD,MAVERICK,XLT,36998,Blue,Gray,FWD,Gasoline,230,"44100 Christy St Fremont, CA 94538",2023-05-12
+766,USED,2023,FORD,MAVERICK,XL,34890,Area 51,Black Onyx,Front-wheel Drive,Hybrid,3449,"1471 Airport Pulling Rd N Naples, FL 34104",2023-05-12
+767,USED,2022,FORD,MAVERICK,XLT,33499,Cactus,Navy Pier,Front-wheel Drive,Gasoline,4942,"1200 S Congress Ave West Palm Beach, FL 33406",2023-05-12
+768,USED,2023,FORD,MAVERICK,XLT,36900,Black,Black,Front-wheel Drive,CVT Transmission,46,"Austin from Wentzville, MO 63385",2023-05-12
+769,USED,2023,FORD,MAVERICK,LARIAT,42379,Carbonized Gray Metallic,Desert,All-wheel Drive,Gasoline,2650,"400 Sidney Baker St S Kerrville, TX 78028",2023-05-12
+770,USED,2023,FORD,MAVERICK,XLT,41000,Cactus Green / Gray,Navy Pier,All-wheel Drive,Gasoline,57,"4400 Parks Legado Rd Odessa, TX 79765",2023-05-12
+771,USED,2022,FORD,MAVERICK,XL,32500,Blue,Black Onyx,All-wheel Drive,Gasoline,25217,"1601 N Elm Pl Broken Arrow, OK 74012",2023-05-12
+772,CERTIFIED,2022,FORD,MAVERICK,XLT,35000,Carbonized Gray Metallic,Navy Pier,Front-wheel Drive,Hybrid,26747,"1635 S Interstate 35e Carrollton, TX 75006",2023-05-12
+773,USED,2022,FORD,MAVERICK,XLT,33333,Iconic Silver Metallic,Navy Pier,Front-wheel Drive,Gasoline,7040,"1307 East Bridge Street Redwood Falls, MN 56283",2023-05-12
+774,USED,2022,FORD,MAVERICK,XLT,34500,Cactus Green / Gray,Navy Pier,Front-wheel Drive,Gasoline,7176,"1600 E. State Hwy 114 Grapevine, TX 76051",2023-05-12
+775,USED,2022,FORD,MAVERICK,LARIAT,34985,Carbonized Gray Metallic,Desert,Front-wheel Drive,Gasoline,26681,"1000 I-20 West Arlington, TX 76017",2023-05-12
+776,USED,2023,FORD,MAVERICK,XLT,39900,Gray,–,Front-wheel Drive,CVT Transmission,33,"Patrick from Des Moines, IA 50317",2023-05-12
+777,USED,2023,FORD,MAVERICK,XL,38340,Oxford White,Black Onyx,All-wheel Drive,Gasoline,2159,"13010 Interstate 35 San Antonio, TX 78233",2023-05-12
+778,USED,2022,FORD,MAVERICK,XLT,35600,Cactus,Navy Pier,Front-wheel Drive,Hybrid,16079,"7301 State Ave Kansas City Kansas City, KS 66112",2023-05-12
+779,USED,2022,FORD,MAVERICK,XLT,35995,Area 51,Navy Pier,Front-wheel Drive,Hybrid,19602,"30584 Olde Hawkeye Rd Dyersville, IA 52040",2023-05-12
+780,USED,2023,FORD,MAVERICK,XLT,36992,Black,Black Onyx,Front-wheel Drive,Hybrid,295,"11711 Katy Fwy Houston, TX 77079",2023-05-12
+781,USED,2022,FORD,MAVERICK,XLT,36500,Silver,Navy Pier,Front-wheel Drive,Hybrid,10905,"10477 Central Ave. Montclair, CA 91763",2023-05-12
+782,USED,2022,FORD,MAVERICK,XLT,33750,Gray,Gray,All-wheel Drive,A/T,13000,"rick from Aubrey, TX 76227",2023-05-12
+783,USED,2022,FORD,MAVERICK,XL,33900,Shadow Black,Black Onyx/Medium Dark Slate,All-wheel Drive,Gasoline,10677,"27225 Southwest Freeway Rosenberg, TX 77471",2023-05-12
+784,USED,2022,FORD,MAVERICK,XLT,36895,Area 51,Navy Pier,Front-wheel Drive,Hybrid,5060,"9393 S Memorial Dr Tulsa, OK 74133",2023-05-12
+785,USED,2022,FORD,MAVERICK,XLT,35995,–,–,Front-wheel Drive,Hybrid,18093,"2600 SE Moberly Lane Bentonville, AR 72712",2023-05-12
+786,USED,2023,FORD,MAVERICK,XLT,37497,Carbonized Gray Metallic,Navy Pier,Front-wheel Drive,Gasoline,1517,"801 East Highway 114 Grapevine, TX 76051",2023-05-12
+787,USED,2022,FORD,MAVERICK,XL,33991,Area 51,Black Onyx,All-wheel Drive,Gasoline,30428,"7320 Northwest Expressway Oklahoma City, OK 73132",2023-05-12
+788,USED,2022,FORD,MAVERICK,XLT,37995,Area 51,Navy Pier,All-wheel Drive,Gasoline,4360,"200 E 4th St Appleton City, MO 64724",2023-05-12
+789,USED,2022,FORD,MAVERICK,XLT,35206,Oxford White,Navy Pier/Medium Slate,Front-wheel Drive,Gasoline,7317,"218 Lincoln Highway Fairless Hills, PA 19030",2023-05-12
+790,USED,2022,FORD,MAVERICK,XLT,34500,Oxford White,Navy Pier,All-wheel Drive,Gasoline,12046,"2900 Burlington St North Kansas City, MO 64116",2023-05-12
+791,USED,2022,FORD,MAVERICK,LARIAT,39488,Velocity Blue Metallic,Desert,All-wheel Drive,Gasoline,12050,"120 Laura Court Dacono, CO 80514",2023-05-12
+792,CERTIFIED,2022,FORD,MAVERICK,XLT,38106,Gray,–,All-wheel Drive,Gasoline,10141,"12755 Folsom Blvd Folsom, CA 95630",2023-05-12
+793,USED,2023,FORD,MAVERICK,LARIAT,42999,Oxford White,Black Onyx,All-wheel Drive,Gasoline,3302,"7111 NW Loop 410 San Antonio, TX 78238",2023-05-12
+794,USED,2023,FORD,MAVERICK,XL,34950,Black,Black Onyx,Front-wheel Drive,Hybrid,,"177 Lafayette Rd North Hampton, NH 03862",2023-05-12
+795,USED,2022,FORD,MAVERICK,XLT,36700,Area 51,Navy Pier,All-wheel Drive,Gasoline,10483,"418 Piedmont Dr Lexington, NC 27295",2023-05-12
+796,USED,2022,FORD,MAVERICK,XLT,33495,Blue,–,Front-wheel Drive,Hybrid,13682,"250 Haddonfield-Berlin Rd Cherry Hill, NJ 08034",2023-05-12
+797,USED,2022,FORD,MAVERICK,LARIAT,42229,Shadow Black,Desert,All-wheel Drive,Gasoline,5884,"2920 South Grand Avenue Carthage, MO 64836",2023-05-12
+798,CERTIFIED,2022,FORD,MAVERICK,XLT,34383,CARBONIZED GREY METALLIC,NAVY PIER -MED SLATE TRIM,–,–,1429,"950 S. Central Expy. McKinney, TX 75070",2023-05-12
+799,USED,2022,FORD,MAVERICK,XL,34990,Blue,Black,Front-wheel Drive,A/T,2890,"Tim from Atlanta, GA 30346",2023-05-12
+800,USED,2022,FORD,MAVERICK,XLT,36790,Oxford White,Navy Pier,Front-wheel Drive,Gasoline,850,"2406 N Jefferson Way Indianola, IA 50125",2023-05-12
+801,USED,2022,FORD,MAVERICK,XLT,37599,Blue,Blue,All-wheel Drive,Gasoline,6976,"19201 Lincoln Ave Parker, CO 80138",2023-05-12
+802,USED,2022,FORD,MAVERICK,XL,31500,Blue,Gray,Front-wheel Drive,CVT Transmission,20200,"J from Naperville, IL 60563",2023-05-12
+803,USED,2023,FORD,MAVERICK,XL,38990,Cactus Green / Gray,Black Onyx,All-wheel Drive,Gasoline,18,"3950 W Hwy 77 Oracle, AZ 85623",2023-05-12
+804,USED,2023,FORD,MAVERICK,XLT,38581,Shadow Black,Navy Pier,All-wheel Drive,Gasoline,614,"2517 SE Best Ln Bentonville, AR 72712",2023-05-12
+805,USED,2023,FORD,MAVERICK,XL,39005,Black,Black Onyx,All-wheel Drive,Gasoline,243,"2975 West Washington Street Stephenville, TX 76401",2023-05-12
+806,USED,2022,FORD,MAVERICK,XLT,35500,White,–,All-wheel Drive,Gasoline,10599,"3330 Wall Avenue Ogden, UT 84401",2023-05-12
+807,USED,2022,FORD,MAVERICK,XL,33993,Oxford White,Black Onyx,All-wheel Drive,Gasoline,17952,"320 Interstate 45 Fairfield, TX 75840",2023-05-12
+808,USED,2022,FORD,MAVERICK,XLT,34608,Area 51,Navy Pier,All-wheel Drive,Gasoline,13119,"4050 South I-35 East Rd Denton, TX 76210",2023-05-12
+809,USED,2022,FORD,MAVERICK,LARIAT,38999,Cactus,Desert,All-wheel Drive,Gasoline,8000,"1096 E Main St Burley, ID 83318",2023-05-12
+810,USED,2023,FORD,MAVERICK,XL,35997,Atlas Blue Metallic,Black Onyx,Front-wheel Drive,Hybrid,960,"405 Industrial Dr Minden, LA 71055",2023-05-12
+811,USED,2023,FORD,MAVERICK,XLT,42988,Oxford White,Navy Pier,All-wheel Drive,Gasoline,369,"2900 N 19th Ave Bozeman, MT 59718",2023-05-12
+812,USED,2023,FORD,MAVERICK,XL,35000,Blue,Black,All-wheel Drive,8-Speed A/T,49,"Alexander from Fort Collins, CO 80521",2023-05-12
+813,USED,2022,FORD,MAVERICK,XL,34283,Velocity Blue Metallic,Black Onyx/Medium Dark Slate,All-wheel Drive,Gasoline,10322,"2175 Rasmussen Road Park City, UT 84098",2023-05-12
+814,USED,2023,FORD,MAVERICK,XLT,37732,Shadow Black,Navy Pier,Front-wheel Drive,Hybrid,1290,"3796 I-10 Frontage Rd Sealy, TX 77474",2023-05-12
+815,USED,2023,FORD,MAVERICK,XLT,31999,Gray,Gray,Front-wheel Drive,8-Speed A/T,2750,"Salvador  from Murrieta, CA 92563",2023-05-12
+816,USED,2022,FORD,MAVERICK,XLT,36998,Blue,Black,All-wheel Drive,Gasoline,4552,"1300 Pendale Rd El Paso, TX 79936",2023-05-12
+817,USED,2022,FORD,MAVERICK,XLT,37495,Shadow Black,Navy Pier,Front-wheel Drive,Hybrid,4351,"16416 Valley Blvd Fontana, CA 92335",2023-05-12
+818,USED,2022,FORD,MAVERICK,XL,31900,Gray,Blue,Front-wheel Drive,CVT Transmission,2390,"J from Edinburg, TX 78541",2023-05-12
+819,USED,2023,FORD,MAVERICK,XL,40690,Atlas Blue Metallic,Black Onyx,All-wheel Drive,Gasoline,51,"15445 Roscoe Blvd North Hills, CA 91343",2023-05-12
+820,USED,2022,FORD,MAVERICK,XL,33998,Gray,Black,Front-wheel Drive,Hybrid,7187,"830 Dan Way Escondido, CA 92025",2023-05-12
+821,CERTIFIED,2022,FORD,MAVERICK,XLT,33888,Shadow Black,Navy Pier,Front-wheel Drive,Gasoline,18852,"6400 N 51st Ave Glendale, AZ 85301",2023-05-12
+822,USED,2023,FORD,MAVERICK,XLT,35888,Cactus Gray,Navy Pier/Medium Slate,Front-wheel Drive,Gasoline,40,"7338 W Loop 1604 N San Antonio, TX 78254",2023-05-12
+823,USED,2022,FORD,MAVERICK,LARIAT,39832,Shadow Black,Desert,Front-wheel Drive,Hybrid,8368,"1845 E. Santa Fe Olathe, KS 66062",2023-05-12
+824,CERTIFIED,2022,FORD,MAVERICK,XLT,37888,Area 51,Navy Pier,All-wheel Drive,Gasoline,4142,"6400 N 51st Ave Glendale, AZ 85301",2023-05-12
+825,USED,2022,FORD,MAVERICK,XLT,33900,Shadow Black,Navy Pier,Front-wheel Drive,Gasoline,7589,"8501 N Owasso Expy Owasso, OK 74055",2023-05-12
+826,USED,2022,FORD,MAVERICK,XL,32000,Area 51,Black Onyx,Front-wheel Drive,Hybrid,20407,"1036 S Washington St Junction City, KS 66441",2023-05-12
+827,USED,2023,FORD,MAVERICK,XL,34980,Black,Black,Front-wheel Drive,CVT Transmission,47,"mherraizgomez@gmail.com from Omaha, NE 68116",2023-05-12
+828,USED,2022,FORD,MAVERICK,LARIAT,39596,Shadow Black,Desert,All-wheel Drive,Gasoline,26,"96 Radio Dr Lexington, NC 27292",2023-05-12
+829,USED,2022,FORD,MAVERICK,XLT,35998,Gray,Black,AWD,Gasoline,10249,"11090 W Broad St Glen Allen, VA 23060",2023-05-12
+830,USED,2022,FORD,MAVERICK,XLT,36604,Iconic Silver Metallic,Navy Pier,All-wheel Drive,Gasoline,33970,"912 S Van Buren Rd Eden, NC 27288",2023-05-12
+831,USED,2022,FORD,MAVERICK,XLT,34998,Blue,Black,All-wheel Drive,Gasoline,1522,"901 Murray Olds Dr Midlothian, VA 23114",2023-05-12
+832,USED,2022,FORD,MAVERICK,XLT,37093,Oxford White,Navy Pier / Medium Slate,Front-wheel Drive,Gasoline,25921,"602 Alamance Rd Burlington, NC 27215",2023-05-12
+833,USED,2022,FORD,MAVERICK,XLT,35473,Carbonized Gray Metallic,Navy Pier/Medium Slate,Front-wheel Drive,Gasoline,4281,"602 Alamance Rd Burlington, NC 27215",2023-05-12
+834,USED,2023,FORD,MAVERICK,XLT,37773,Gray,Black Onyx,Front-wheel Drive,Hybrid,77,"105 Auto Park Dr Graham, NC 27253",2023-05-12
+835,USED,2023,FORD,MAVERICK,XLT,37900,Area 51,Navy Pier,Front-wheel Drive,Hybrid,167,"3990 W Highway 501 Conway, SC 29526",2023-05-12
+836,USED,2022,FORD,MAVERICK,LARIAT,37787,Blue,Desert,All-wheel Drive,Gasoline,38298,"2717 Virginia Beach Blvd Virginia Beach, VA 23452",2023-05-12
+837,CERTIFIED,2022,FORD,MAVERICK,XLT,38695,CACTUS GREY,NAVY PIER -MED SLATE TRIM,–,–,3740,"1515 S Military Hwy Chesapeake, VA 23320",2023-05-12
+838,USED,2022,FORD,MAVERICK,LARIAT,38989,Area 51,Desert,All-wheel Drive,Gasoline,8919,"109 Mackenan Blvd. Cary, NC 27511",2023-05-12
+839,USED,2022,FORD,MAVERICK,XLT,36000,Area 51,Navy Pier,All-wheel Drive,Gasoline,2913,"11000 Capital Blvd Wake Forest, NC 27587",2023-05-12
+840,USED,2022,FORD,MAVERICK,XLT,35497,Silver,Black Onyx,Front-wheel Drive,Gasoline,18425,"9820 Capital Blvd Wake Forest, NC 27587",2023-05-12
+841,USED,2022,FORD,MAVERICK,XL,34091,Iconic Silver Metallic,Black Onyx,Front-wheel Drive,Hybrid,14911,"3940 Capital Hills Drive Raleigh, NC 27616",2023-05-12
+842,USED,2023,FORD,MAVERICK,LARIAT,40873,Oxford White,Desert,All-wheel Drive,Gasoline,42,"4900 Capital Blvd Raleigh, NC 27616",2023-05-12
+843,USED,2023,FORD,MAVERICK,XLT,38988,Hot Pepper Red Tinted Clearcoat,Navy Pier,Front-wheel Drive,Hybrid,20,"4328 Louisburg Rd Raleigh, NC 27604",2023-05-12
+844,USED,2022,FORD,MAVERICK,LARIAT,36899,Shadow Black,Desert,Front-wheel Drive,Gasoline,2356,"2440 NW Highway 19 Crystal River, FL 34428",2023-05-12
+845,CERTIFIED,2022,FORD,MAVERICK,XL,29987,OXFORD WHITE,BLACK ONYX-MED DK SLATE TRI,–,–,19179,"1819 SE Marshall St Boone, IA 50036",2023-05-12
+846,USED,2023,FORD,MAVERICK,XLT,36900,White,Navy Pier,All-wheel Drive,Gasoline,381,"418 Piedmont Dr Lexington, NC 27295",2023-05-12
+847,USED,2023,FORD,MAVERICK,XLT,42800,Oxford White,–,Front-wheel Drive,Gasoline,1639,"219 Woodgate Drive South Brandon, MS 39042",2023-05-12
+848,USED,2023,FORD,MAVERICK,XL,38888,Oxford White,Black Onyx,All-wheel Drive,Gasoline,121,"9130 W Bell Rd Peoria, AZ 85382",2023-05-12
+849,USED,2023,FORD,MAVERICK,XL,34500,Carbonized Gray Metallic,Black Onyx,Front-wheel Drive,Gasoline,365,"145 George Guess Rd Tahlequah, OK 74464",2023-05-12
+850,CERTIFIED,2022,FORD,MAVERICK,LARIAT,40595,Carbonized Gray Metallic,Desert,All-wheel Drive,Gasoline,9343,"280 N Gibson Rd Henderson, NV 89014",2023-05-12
+851,CERTIFIED,2022,FORD,MAVERICK,XLT,36500,Oxford White,Navy Pier,Front-wheel Drive,Hybrid,8814,"1635 S Interstate 35e Carrollton, TX 75006",2023-05-12
+852,USED,2022,FORD,MAVERICK,XL,33055,–,–,FWD,Hybrid,9827,"2222 N Milt Phillips Ave Seminole, OK 74868",2023-05-12
+853,USED,2022,FORD,MAVERICK,LARIAT,41963,Alto Blue Metallic Tinted Clearcoat,Desert,All-wheel Drive,Gasoline,11871,"1429 E Motorplex Loop Gilbert, AZ 85297",2023-05-12
+854,CERTIFIED,2022,FORD,MAVERICK,XL,31541,Oxford White,Black Onyx,Front-wheel Drive,Gasoline,25677,"20403 I-45 Spring, TX 77388",2023-05-12
+855,USED,2022,FORD,MAVERICK,XLT,36500,Orange,Gray,All-wheel Drive,8-Speed A/T,1850,"Oleg from Saint Paul, MN 55122",2023-05-12
+856,USED,2022,FORD,MAVERICK,XLT,37000,Area 51,Navy Pier,All-wheel Drive,Gasoline,16920,"2641 Eaton Rd Green Bay, WI 54311",2023-05-12
+857,USED,2023,FORD,MAVERICK,XL,35949,Gray,Black Onyx,Front-wheel Drive,Hybrid,215,"13397 Britton Park Rd Fishers, IN 46038",2023-05-12
+858,CERTIFIED,2022,FORD,MAVERICK,XL,36988,Iconic Silver Metallic,Black Onyx,All-wheel Drive,Gasoline,3165,"2900 N 19th Ave Bozeman, MT 59718",2023-05-12
+859,USED,2022,FORD,MAVERICK,XLT,38393,Black,Navy Pier,All-wheel Drive,Gasoline,1773,"9951 Coors Blvd NW Albuquerque, NM 87114",2023-05-12
+860,USED,2023,FORD,MAVERICK,XLT,41900,Area 51,Black Onyx,All-wheel Drive,Gasoline,985,"890 W Main Street Rexburg, ID 83440",2023-05-12
+861,USED,2023,FORD,MAVERICK,XL,38977,Area 51,Gray,Front-wheel Drive,Hybrid,359,"4555 Mission Bay Dr San Diego, CA 92109",2023-05-12
+862,USED,2022,FORD,MAVERICK,XLT,33591,Cactus,Navy Pier,All-wheel Drive,Gasoline,12388,"6300 W Sahara Ave Las Vegas, NV 89146",2023-05-12
+863,CERTIFIED,2022,FORD,MAVERICK,XLT,36448,Shadow Black,Navy Pier,All-wheel Drive,Gasoline,1652,"400 Sidney Baker St S Kerrville, TX 78028",2023-05-12
+864,USED,2022,FORD,MAVERICK,XL,36200,Velocity Blue Metallic,Black Onyx/Medium Dark Slate,Front-wheel Drive,Gasoline,20984,"219 Woodgate Drive South Brandon, MS 39042",2023-05-12
+865,USED,2023,FORD,MAVERICK,XLT,37850,Cyber Orange Metallic Tricoat,Navy Pier,Front-wheel Drive,Gasoline,19,"230 Beverly Parkway Pensacola, FL 32505",2023-05-12
+866,USED,2022,FORD,MAVERICK,XLT,36999,Oxford White,Navy Pier,Front-wheel Drive,Hybrid,6867,"1200 S Congress Ave West Palm Beach, FL 33406",2023-05-12
+867,USED,2022,FORD,MAVERICK,LARIAT,33999,Cactus,Desert,FWD,Hybrid,19990,"3125 N Cicero Ave Chicago, IL 60641",2023-05-12
+868,USED,2022,FORD,MAVERICK,XLT,32933,Gray,–,All-wheel Drive,Gasoline,13369,"1001 Clairton Blvd Pleasant Hills, PA 15236",2023-05-12
+869,USED,2022,FORD,MAVERICK,XL,33990,Oxford White,Black Onyx,All-wheel Drive,Gasoline,2847,"1508 Morrissey Dr Bloomington, IL 61701",2023-05-12
+870,USED,2023,FORD,MAVERICK,XLT,38779,Blue,Black Onyx,All-wheel Drive,Gasoline,2713,"965 E Jefferson St Tipton, IN 46072",2023-05-12
+871,USED,2023,FORD,MAVERICK,XLT,38998,Gray,Gray,FWD,Hybrid,603,"10201 Philadelphia Rd White Marsh, MD 21162",2023-05-12
+872,USED,2022,FORD,MAVERICK,XLT,36774,Oxford White,Navy Pier,All-wheel Drive,Gasoline,8013,"1100 E Golf Rd Schaumburg, IL 60173",2023-05-12
+873,USED,2022,FORD,MAVERICK,LARIAT,39586,Carbonized Gray Metallic,Desert,All-wheel Drive,Gasoline,13075,"3624 Kohler Memorial Drive Sheboygan, WI 53081",2023-05-12
+874,CERTIFIED,2022,FORD,MAVERICK,XLT,37999,CARBONIZED GREY METALLIC,NAVY PIER -MED SLATE TRIM,–,–,8358,"2909 Lorch Ave Eau Claire, WI 54701",2023-05-12
+875,USED,2022,FORD,MAVERICK,XL,31900,Area 51,Black Onyx,Front-wheel Drive,Gasoline,6717,"1210 Northlake Blvd Lake Park, FL 33403",2023-05-12
+876,USED,2023,FORD,MAVERICK,XL,32900,Cactus Green / Gray,Black Onyx,All-wheel Drive,Gasoline,1626,"1210 Northlake Blvd Lake Park, FL 33403",2023-05-12
+877,USED,2022,FORD,MAVERICK,LARIAT,44350,Hot Pepper Red Tinted Clearcoat,Desert,All-wheel Drive,Gasoline,3639,"1815 W. Ogden Ave Downers Grove, IL 60515",2023-05-12
+878,USED,2022,FORD,MAVERICK,XLT,38495,Cactus,Navy Pier,All-wheel Drive,Gasoline,1500,"2805 S Center St Marshalltown, IA 50158",2023-05-12
+879,CERTIFIED,2022,FORD,MAVERICK,LARIAT,39995,Cactus,Navy Pier,All-wheel Drive,Gasoline,19345,"7466 S Lindbergh Blvd St. Louis, MO 63125",2023-05-12
+880,USED,2022,FORD,MAVERICK,XL,29993,Area 51,Black Onyx,Front-wheel Drive,Gasoline,5243,"1700 W. Silver Spring Dr Glendale, WI 53209",2023-05-12
+881,USED,2022,FORD,MAVERICK,XLT,38999,Blue,–,Front-wheel Drive,A/T,4000,"Matthew from Sellersville, PA 18960",2023-05-12
+882,USED,2023,FORD,MAVERICK,XLT,40982,Atlas Blue Metallic,Navy Pier,Front-wheel Drive,Hybrid,74,"6455 S 108th St Franklin, WI 53132",2023-05-12
+883,CERTIFIED,2022,FORD,MAVERICK,XLT,37500,Oxford White,Navy Pier,Front-wheel Drive,Hybrid,3655,"2641 Eaton Rd Green Bay, WI 54311",2023-05-12
+884,USED,2022,FORD,MAVERICK,LARIAT,35995,Oxford White,Desert,Front-wheel Drive,Hybrid,32225,"1719 S. High Ave / PO Box 845 Ames, IA 50010",2023-05-12
+885,USED,2022,FORD,MAVERICK,XLT,36593,Velocity Blue Metallic,Navy Pier,All-wheel Drive,Gasoline,13401,"1700 W. Silver Spring Dr Glendale, WI 53209",2023-05-12
+886,USED,2023,FORD,MAVERICK,XLT,37000,Shadow Black,Medium Slate,Front-wheel Drive,Gasoline,104,"2222 N Milt Phillips Ave Seminole, OK 74868",2023-05-12
+887,USED,2023,FORD,MAVERICK,XLT,39998,Gray,Gray,All-wheel Drive,Gasoline,2045,"7306 S. Padre Island Dr. Corpus Christi, TX 78412",2023-05-12
+888,USED,2022,FORD,MAVERICK,XLT,37799,Gray,Navy Pier,All-wheel Drive,Gasoline,11777,"2100 S Broadway St Poteau, OK 74953",2023-05-12
+889,USED,2022,FORD,MAVERICK,LARIAT,40988,Area 51,Desert,All-wheel Drive,Gasoline,11305,"2920 N Aspen Ave Broken Arrow, OK 74012",2023-05-12
+890,USED,2022,FORD,MAVERICK,XLT,36499,Blue,Navy Pier,Front-wheel Drive,Hybrid,14522,"23502 Katy Freeway Katy, TX 77494",2023-05-12
+891,USED,2022,FORD,MAVERICK,XLT,31495,Blue,Blue,Front-wheel Drive,CVT Transmission,24579,"VICTOR from Chula Vista, CA 91915",2023-05-12
+892,USED,2023,FORD,MAVERICK,XL,35999,Gray,Black Onyx/Medium Dark Slate,Front-wheel Drive,Hybrid,868,"1200 Hwy 79E A Hutto, TX 78634",2023-05-12
+893,USED,2023,FORD,MAVERICK,XL,33433,Blue,Medium Dark Slate,Front-wheel Drive,Hybrid,93,"300 W Loop 820 S Fort Worth, TX 76108",2023-05-12
+894,CERTIFIED,2022,FORD,MAVERICK,LARIAT,38901,Blue,Desert,All-wheel Drive,Gasoline,36511,"7201 S Interstate 35 Georgetown, TX 78626",2023-05-12
+895,USED,2023,FORD,MAVERICK,XLT,38991,Blue Metallic,Navy Pier,All-wheel Drive,Gasoline,4012,"5600 183A Cedar Park, TX 78641",2023-05-12
+896,CERTIFIED,2022,FORD,MAVERICK,LARIAT,40995,Shadow Black,Desert Brown,All-wheel Drive,Gasoline,2873,"1875 Business IH35 New Braunfels, TX 78130",2023-05-12
+897,USED,2022,FORD,MAVERICK,LARIAT,42990,Oxford White,Desert,All-wheel Drive,Gasoline,3507,"8474 Huffine Lane Bozeman, MT 59718",2023-05-12
+898,USED,2022,FORD,MAVERICK,LARIAT,41998,Gray,Brown,All-wheel Drive,Gasoline,962,"4900 N Rancho Dr Las Vegas, NV 89130",2023-05-12
+899,USED,2023,FORD,MAVERICK,XLT,35995,Gray,Gray,Front-wheel Drive,Hybrid,45,"4339 S State St Salt Lake City, UT 84107",2023-05-12
+900,USED,2022,FORD,MAVERICK,XLT,37299,Gray,Navy Pier/Medium Slate,All-wheel Drive,Gasoline,1514,"925 N Powers Blvd Colorado Springs, CO 80915",2023-05-12
+901,USED,2022,FORD,MAVERICK,XL,34888,Oxford White,Black Onyx,Front-wheel Drive,Hybrid,9345,"1695 Auto Park Way Escondido, CA 92029",2023-05-12
+902,CERTIFIED,2022,FORD,MAVERICK,LARIAT,38849,CARBONIZED GREY METALLIC,DESERT BROWN TRIM,–,–,6669,"3010 W University Dr Edinburg, TX 78539",2023-05-12
+903,USED,2023,FORD,MAVERICK,XL,34996,Blue,Black Onyx,Front-wheel Drive,Hybrid,488,"2975 West Washington Street Stephenville, TX 76401",2023-05-12
+904,USED,2022,FORD,MAVERICK,XLT,35000,Iconic Silver Metallic,Navy Pier,Front-wheel Drive,Hybrid,2569,"4400 Parks Legado Rd Odessa, TX 79765",2023-05-12
+905,USED,2023,FORD,MAVERICK,XLT,39990,Shadow,–,All-wheel Drive,Gasoline,4012,"400 W 104th Ave Northglenn, CO 80234",2023-05-12
+906,CERTIFIED,2022,FORD,MAVERICK,LARIAT,42177,Blue,Desert,All-wheel Drive,Gasoline,8289,"7111 NW Loop 410 San Antonio, TX 78238",2023-05-12
+907,USED,2022,FORD,MAVERICK,LARIAT,41998,Blue,Brown,All-wheel Drive,Gasoline,16816,"6801 E Frontage Rd Merriam, KS 66204",2023-05-12
+908,USED,2023,FORD,MAVERICK,XL,37982,Gray,–,Front-wheel Drive,Hybrid,481,"4860 IH 10 Columbus, TX 78934",2023-05-12
+909,USED,2022,FORD,MAVERICK,LARIAT,38500,Cactus Green / Gray,Desert,All-wheel Drive,Gasoline,17784,"220 W 103rd St KCMO, MO 64114",2023-05-12
+910,USED,2022,FORD,MAVERICK,XLT,35999,Cactus Green / Gray,Navy Pier,All-wheel Drive,Gasoline,5270,"1 Main St Greenfield, MA 01301",2023-05-12
+911,USED,2022,FORD,MAVERICK,XLT,38000,Cactus Green / Gray,Navy Pier,Front-wheel Drive,Hybrid,5227,"7404 University Ave Cedar Falls, IA 50613",2023-05-12
+912,USED,2022,FORD,MAVERICK,LARIAT,40779,Orange,Desert,All-wheel Drive,Gasoline,10292,"1845 E. Santa Fe Olathe, KS 66062",2023-05-12
+913,CERTIFIED,2022,FORD,MAVERICK,XLT,38059,ICONIC SILVER METALLIC,NAVY PIER -MED SLATE TRIM,–,–,7564,"3815 Us Highway 41 W Marquette, MI 49855",2023-05-12
+914,USED,2023,FORD,MAVERICK,XLT,38790,Oxford White,Navy Pier,Front-wheel Drive,Hybrid,525,"301 S Highway 79 Henderson, TX 75654",2023-05-12
+915,USED,2023,FORD,MAVERICK,XLT,41989,Carbonized Gray Metallic,Navy Pier,All-wheel Drive,Gasoline,1333,"3600 Kietzke Ln Reno, NV 89502",2023-05-12
+916,USED,2022,FORD,MAVERICK,XL,32632,Carbonized Gray Metallic,Black Onyx,All-wheel Drive,Gasoline,15676,"5880 Scarborough Blvd Columbus, OH 43232",2023-05-12
