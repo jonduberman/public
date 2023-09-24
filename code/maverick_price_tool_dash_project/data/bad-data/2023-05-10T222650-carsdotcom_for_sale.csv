@@ -1,5 +1,0 @@
-,condition,model_year,make,model,trim_level,list_price,exterior_color,interior_color,fwd_or_awd,hybrid_or_eco,mileage,dealer_address,date_parsed
-4,USED,2022,FORD,MAVERICK,XLT,35497,Silver,Black Onyx,Front-wheel Drive,Gasoline,18425,"9820 Capital Blvd Wake Forest, NC 27587",2023-05-10
-5,USED,2022,FORD,MAVERICK,XLT,36000,Area 51,Navy Pier,All-wheel Drive,Gasoline,2913,"11000 Capital Blvd Wake Forest, NC 27587",2023-05-10
-6,USED,2022,FORD,MAVERICK,LARIAT,39683,Area 51,Desert,All-wheel Drive,Gasoline,8919,"109 Mackenan Blvd. Cary, NC 27511",2023-05-10
-7,USED,2022,FORD,MAVERICK,LARIAT,37787,Blue,Desert,All-wheel Drive,Gasoline,38298,"2717 Virginia Beach Blvd Virginia Beach, VA 23452",2023-05-10
