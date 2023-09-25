@@ -1,5 +1,0 @@
-,condition,model_year,make,model,trim_level,list_price,exterior_color,interior_color,fwd_or_awd,hybrid_or_eco,mileage,dealer_address,date_parsed
-110,USED,2022,FORD,MAVERICK,XLT,32933,Gray,–,All-wheel Drive,Gasoline,13369,"1001 Clairton Blvd Pleasant Hills, PA 15236",2023-05-12
-111,USED,2022,FORD,MAVERICK,XLT,34900,Area 51,Navy Pier,Front-wheel Drive,Hybrid,15025,"228 Fox Family Lane Clinton, TN 37716",2023-05-12
-113,USED,2022,FORD,MAVERICK,XLT,35998,Black,Gray,All-wheel Drive,Gasoline,38107,"11225 Parkside Dr Knoxville, TN 37934",2023-05-12
-114,USED,2023,FORD,MAVERICK,XLT,39998,Blue,Gray,Front-wheel Drive,Hybrid,93,"11335 Atlantic Blvd Jacksonville, FL 32225",2023-05-12
