@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jonathan Duberman.  Check out my dash!</h1>
 <h3 align="center">Data Scientist in a Mechanical Engineer's Body</h3>
+- 📫 How to reach me: <a href="mailto: JonDuberman@gmail.com"> JonDuberman@gmail.com </a>
 
-<h3 align="center">The tool currently in this repo performs the following:</h3>
-
+<br/>
+<h3 align="left">The tool currently in this repo performs the following:</h3>
 <ol>
     <li>Automatically configures a web proxy</li>
     <li>Scrapes cars.com for Ford Maverick price data</li>
@@ -13,7 +14,6 @@
 </ol>
 
 
-- 📫 How to reach me **JonDuberman@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
