@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jonathan Duberman.  Check out my dash!</h1>
-<h3 align="center">Data Scientist in a Mechanical Engineer's Body</h3>
+<h3 align="center">Data Scientist/Mechanical Engineer</h3>
 - 📫 How to reach me: <a href="mailto: JonDuberman@gmail.com"> JonDuberman@gmail.com </a>
 
 <br/>
